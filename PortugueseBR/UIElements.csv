@@ -1,0 +1,418 @@
+ID,PT
+Credit_CreatedBy,Criado por
+Credit_IllustrationsBy,Ilustrações por
+Credit_MusicBy,Música por
+Credit_Musicians,Músicos
+Credit_ArtworkBy,Arte por
+Credit_ProgrammingBy,Programação por
+Credit_SoundDesignBy,Design de Som por
+Credit_EditingBy,Edição por
+Credit_ProductionAssistant,Assistente de Produção
+Credit_DesignNSupport,Design e Suporte
+Credit_AdditionalCollaborators,Colaboradores Adicionais
+Credit_SoundtrackMasteredBy,"Esoteric Ebb OST, Vol. I e ""Vol. II"" masterizados por"
+Credit_ReleasedOnVinylAndStreaming,Lançado em vinil e streaming por
+Credit_PublishedBy,Publicado por
+Credit_Production,Produção
+Credit_Marketing,Marketing
+Credit_Community,Comunidade
+Credit_Sales,Vendas
+Credit_CompanyManagement,Gestão da Empresa
+Credit_Finance,Finanças
+Credit_VoiceOvers,Dublagem
+Credit_SpecialThanks,Agradecimentos Especiais
+Credit_ClosingMessage,"	Um OBRIGADO ENORME e de coração a cada pessoa que comprou e jogou (legalmente ou não) este meu joguinho bobo. Embora eu tenha tido o privilégio de trabalhar com tanta gente maravilhosa nos últimos dois anos, Esoteric Ebb foi uma jornada solitária para mim - às vezes exaustiva, às vezes alegre - mas solitária. Oito anos de tentativa e erro, de queimar economias, de ignorar bons conselhos e de socar desesperadamente o teclado até algo funcionar. Apesar de tudo, nada disso seria possível sem o apoio de todos que não estavam naquele quarto escuro comigo: meus amigos e jogadores, minha família e colegas. A todos, online e na vida real, que acreditaram no jogo quando valia a pena acreditar, e mais ainda quando não valia. Obrigado por me ajudarem a batalhar rumo a algo significativo. Vamos torcer para que o próximo seja ainda melhor."
+Credit_toTheDevelopersOf,aos desenvolvedores de
+Credit_Featuring,Com
+Credit_WritingProgrammingDesignBy,"Roteiro, Programação e Design por"
+Credit_SoundDesignAndAudioProducer,Design de Som e Produtor de Áudio
+Credit_GeneralManager,Gerente Geral
+Credit_HeadOfBusinessDevelopment,Chefe de Desenvolvimento de Negócios
+Credit_BusinessDevelopmentManager,Gerente de Desenvolvimento de Negócios
+Credit_DirectorOfQualityAssurance,Diretor de Garantia de Qualidade
+Credit_QAOperationsManager,Gerente de Operações de QA
+Credit_LeadQAProjectManager,Gerente de Projetos de QA Líder
+Credit_QAProjectManager,Gerente de Projetos de QA
+Credit_SeniorCQAAndLnDManager,Gerente Sênior de CQA e L&D
+Credit_QALabManagers,Gerentes de Laboratório de QA
+Credit_LearningAndDevelopmentCoordinator,Coordenador de Aprendizado e Desenvolvimento
+Credit_LearningAndDevelopmentSpecialists,Especialistas em Aprendizado e Desenvolvimento
+Credit_FQATeamLeader,Líder da Equipe de FQA
+Credit_QATesters,Testadores de QA
+Credit_ITDirector,Diretor de TI
+Intro_Skip,Pular
+Credit_AGameBy,Um jogo de
+Setting_Language_Title,Idioma
+Setting_Language_Info,"O jogo foi escrito e projetado originalmente para ser jogado em inglês. No entanto, você pode selecionar versões localizadas do jogo aqui. Lembre-se de que essas localizações são interpretações da história original e terão suas próprias peculiaridades e escolhas para funcionar nesses outros idiomas. Apenas a interface e os diálogos são afetados. Um grande obrigado a cada uma das pessoas que trabalharam nessas localizações!
+
+<i>O inglês foi escrito por Christoffer Bodegård.</i>"
+Settings_TwitchIntegration_Title,Integração com a Twitch
+Settings_TwitchIntegration_Info,Ative isto e conecte-se à sua conta da Twitch. Isso permite que o público vote no que você deve escolher a seguir nos diálogos! Mas você nunca será obrigado a escolher o que eles votarem. A democracia não é maravilhosa?
+Settings_VoiceOverMode_Title,Modo de Dublagem
+Settings_VoiceOverMode_Info,"Tudo Dublado: Todas as falas são lidas por dubladores.
+Introduções Dubladas: Apenas a primeira parte de cada diálogo é dublada.
+Personagens Dublados: Todos os Chimes ficam em silêncio.
+Chimes Dublados: Todos os Personagens ficam em silêncio.
+Grunhidos (Clássico): Os personagens fazem um som quando você inicia diálogos. Como nos bons e velhos tempos.
+Nada Dublado: Doce silêncio."
+Settings_DmWantsToKillMe_Title,Mestre-Quer-Me-Matar
+Settings_DmWantsToKillMe_Info,"Se você ativar este modo, as seguintes mudanças serão feitas:
+- Todos os dados de dano serão manipulados pelo Mestre para serem mais altos.
+- Se você sofrer dano maior que seu PV atual + seu PV máximo, morre instantaneamente.
+- Todas as suas rolagens de dados serão manipuladas pelo Mestre para serem um pouco piores.
+- Poções que aumentam atributos só duram até o seu próximo descanso longo.
+- Testes de dados bloqueados não serão mais restaurados em descansos curtos, apenas em descansos longos.
+- A CD de todas as rolagens será aumentada pela sua proficiência. Que é tipo 2 ou 3.
+- Sempre que você ganhar dinheiro, será esotericamente taxado em 50%.
+- Todo o XP é reduzido em 25%.
+- Você terá a sensação sinistra de que o Mestre possivelmente - <i>potencialmente</i> - pode ser um desgraçado malvado. Você ganhará muito <color=red>respeito</color> se conseguir chegar ao fim."
+Settings_NoSavescumming_Title,Sem Savescumming
+Settings_NoSavescumming_Info,"Se você ativar este modo, todas as suas rolagens de dados serão predeterminadas. Isso significa que você terá que falhar em uma rolagem antes de poder obter um novo resultado - e recarregar um save não vai ajudar. Você também pode desativar isso quando quiser, claro. E também pode simplesmente escolher não fazer save scum. Não que eu tenha algo contra save scumming, jogue como quiser! Eu não sou passivo-agressivo! Pare de me olhar assim!"
+Settings_BalancedDice_Title,Dados Equilibrados
+Settings_BalancedDice_Info,Este modo diminui a chance de você rolar vários 1s e 20s naturais em sequência.
+Settings_NoStressMode_Title,Modo Sem Estresse
+Settings_NoStressMode_Info,"Em Esoteric Ebb, o tempo é balanceado para que você consiga fazer tudo o que precisa antes do dia da eleição. No entanto, há algumas missões e eventos que só podem ser concluídos em dias e horários específicos. Se você ativar este modo, o tempo passará um pouco mais devagar. Só para o caso de você ser do tipo que se estressa com o relógio."
+Settings_NoAnimations_Title,Texto Instantâneo
+Settings_NoAnimations_Info,Remove todas as animações e a rolagem automática da interface de diálogo.
+Settings_Limit_Unlimited,Ilimitado
+Settings_QuickSaveLimit_Title,Limite de Quicksaves
+Settings_QuickSaveLimit_Info,Defina um limite de quantos Quicksaves você pode manter. Eles são criados com a tecla F5. Quickload com F9.
+Settings_AutoSaveLimit_Title,Limite de Autosaves
+Settings_AutoSaveLimit_Info,"Defina um limite de quantos Autosaves você pode manter. Eles são criados sempre que você sai de um diálogo ou entra em uma nova área.
+"
+Settings_Lightmode_Title,Modo Claro
+Settings_Lightmode_Info,"Ative para inverter as cores da interface de diálogo, se você preferir fundo claro e texto escuro."
+Settings_UISize_Title,Tamanho da Interface
+Settings_UISize_Info,Defina como grande ou enorme se tiver dificuldade para ler textos pequenos na interface.
+Settings_ColorblindMode_Title,Modo Daltônico
+Settings_ColorblindMode_Info,Rótulos: Adiciona o nome dos atributos em textos que normalmente são marcados apenas por cores.
+Settings_Quality_Title,Qualidade
+Settings_Quality_Info,"Baixa: Sombras de baixa qualidade.
+Alta: Sombras de alta qualidade."
+Settings_DisplayMode_Title,Modo de Exibição
+Settings_DisplayMode_Info,"Selecione janela, tela cheia ou janela em tela cheia."
+Settings_Resolutions_Title,Resolução
+Settings_Resolutions_Info,Selecione uma resolução de acordo com o seu monitor.
+Settings_RefreshRate_Title,Taxa de Atualização
+Settings_RefreshRate_Info,Selecione uma taxa de atualização.
+Settings_AudioInBackground_Title,Áudio em Segundo Plano
+Settings_AudioInBackground_Info,"Se você sair da janela do jogo e tal, escolha se quer manter o áudio ou não e tal."
+Settings_MasterVolumeSlider_Title,Volume Geral
+Settings_MasterVolumeSlider_Info,Controla a saída de todo o som do jogo.
+Settings_MusicVolumeSlider_Title,Volume da Música
+Settings_MusicVolumeSlider_Info,Controla a saída de toda a música do jogo.
+Settings_AmbientVolumeSlider_Title,Volume Ambiente
+Settings_AmbientVolumeSlider_Info,Controla a saída dos sons de fundo universais.
+Settings_EnvironmentVolumeSlider_Title,Volume do Mundo
+Settings_EnvironmentVolumeSlider_Info,Controla a saída dos sons específicos de cada local.
+Settings_VoiceVolumeSlider_Title,Volume das Vozes
+Settings_VoiceVolumeSlider_Info,Controla a saída das vozes do jogo.
+Settings_UIVolumeSlider_Title,Volume da Interface
+Settings_UIVolumeSlider_Info,"Controla a saída dos sons de botões, inventário e outras partes da interface."
+Keybind_ConfirmDelete,Remover esta tecla de atalho?
+Keybind_DuplicateWarning,Já associada a outra ação.
+Settings_Keybinding_Title,Teclas de Atalho
+Settings_Keybinding_Action,Ação
+Settings_Keybinding_Primary,Primária
+Settings_Keybinding_Alternate,Alternativa
+Settings_Keybinding_Controller,Controle
+Settings_ResetKeybindings_Title,Redefinir Teclas de Atalho
+KeybindInfo_Primary,Selecione uma entrada para a Primária.
+KeybindInfo_Alternate,Selecione uma entrada para a Alternativa.
+KeybindInfo_Controller,Selecione uma entrada para o Controle.
+Keybind_Move,Movimento
+Keybind_Move_Up,Mover para Cima
+Keybind_Move_Down,Mover para Baixo
+Keybind_Move_Left,Mover para a Esquerda
+Keybind_Move_Right,Mover para a Direita
+Keybind_Choose,Escolher
+Keybind_Menu,Menu
+Keybind_Reject,Recusar
+Keybind_Utility,Utilidade
+Keybind_Running,Correr
+Keybind_Highlight,Destacar
+Keybind_Start,Start
+Keybind_Select,Ficha
+Keybind_LeftShoulder,Botão Superior Esquerdo
+Keybind_LeftTrigger,Gatilho Esquerdo
+Keybind_RightShoulder,Botão Superior Direito
+Keybind_RightTrigger,Gatilho Direito
+Keybind_CycleLanguageRight,Próximo Idioma
+Keybind_CycleLanguageLeft,Idioma Anterior
+Keybind_CycleFontRight,Próxima Fonte
+Keybind_CycleFontLeft,Fonte Anterior
+Keybind_ToggleInventory,Abrir/Fechar Inventário
+Keybind_ToggleJournal,Abrir/Fechar Diário
+Keybind_ToggleIdea,Abrir/Fechar Ideia
+Keybind_ToggleSpellbook,Abrir/Fechar Grimório
+Keybind_ToggleSheet,Abrir/Fechar Ficha
+Keybind_QuickSave,Quicksave
+Keybind_QuickLoad,Quickload
+Keybind_Enter,Entrar
+Keybind_Continue,Continuar
+Keybind_DialogChoice1,Escolha de Diálogo 1
+Keybind_DialogChoice2,Escolha de Diálogo 2
+Keybind_DialogChoice3,Escolha de Diálogo 3
+Keybind_DialogChoice4,Escolha de Diálogo 4
+Keybind_DialogChoice5,Escolha de Diálogo 5
+Keybind_DialogChoice6,Escolha de Diálogo 6
+Keybind_DialogChoice7,Escolha de Diálogo 7
+Keybind_DialogChoice8,Escolha de Diálogo 8
+Keybind_DialogChoice9,Escolha de Diálogo 9
+Keybind_DialogChoice10,Escolha de Diálogo 10
+Settings_ResetSettings_Title,Redefinir Configurações
+Settings_ResetSettings_Info,Restaura as configurações padrão.
+Settings_Category_Game,Jogo
+Settings_Category_Text,Texto
+Settings_Category_Visuals,Visual
+Settings_Category_Audio,Áudio
+Settings_Category_Other,Outros
+Settings_DialogTextSize_Title,Tamanho do Texto dos Diálogos
+Settings_DialogFonts_Title,Fontes dos Diálogos
+Settings_ResetKeybindingsPopup_Header,"Redefinir Teclas de Atalho?
+"
+Settings_ResetPopup_Header,Redefinir Configurações?
+Settings_Examples_TinyText,Como é que você consegue ler um texto tão PEQUENO?
+Settings_Examples_OstDialog,"Balançando seus pezinhos com garras, o kobold acompanha cada movimento seu com olhos amarelos, frios e inabaláveis."
+Settings_Examples_RecommendedTextSize,"""Quando jogo Ebb, uso o tamanho de texto 24. Mas sugiro escolher o que for mais confortável para você."""
+Settings_Examples_RecFont_Question,"""Qual fonte devo escolher?"""
+Settings_Examples_RecFont_Info,"""<i>Averia Serif</i> é a fonte recomendada. Você pode alternar entre as fontes durante o jogo pressionando <b>N ou M</b> no teclado, ou pressionando o <b>Analógico Esquerdo/Direito</b> no controle."""
+Settings_Examples_RecFont_Choice1,"""Você não manda em mim."""
+Settings_Examples_RecFont_Choice2,"""Vou jogar com fonte tamanho 36 e manter meu rosto a uns 7 centímetros da tela."""
+Settings_Examples_RecFont_Choice3,"""Averia serve, acho."""
+Settings_Examples_RecFont_Choice4,"""Tá bom."" (Sair.)"
+Settings_RefreshRate_Unlimited,ILIMITADA
+Settings_RefreshRate_VSync,VSYNC
+Settings_VoiceOverMode_Option1,Tudo Dublado
+Settings_VoiceOverMode_Option2,Introduções Dubladas
+Settings_VoiceOverMode_Option3,Personagens Dublados
+Settings_VoiceOverMode_Option4,Chimes Dublados
+Settings_VoiceOverMode_Option5,Grunhidos (Clássico)
+Settings_VoiceOverMode_Option6,Nada Dublado
+Settings_FontSize_Option1,Normal
+Settings_FontSize_Option2,Grande
+Settings_FontSize_Option3,Enorme
+Settings_ColorblindMode_Option1,Desligado
+Settings_ColorblindMode_Option2,Rótulos de Cor
+Settings_Quality_Option1,Alta
+Settings_Quality_Option2,Baixa
+Settings_DisplayMode_Option1,Tela Cheia
+Settings_DisplayMode_Option2,Sem Bordas
+Settings_DisplayMode_Option3,Em Janela
+Menu_Button_NewGame,Novo Jogo
+Menu_Button_Load,Carregar
+Menu_Button_Save,Salvar
+Menu_Button_Options,Opções
+Menu_Button_Credits,Créditos
+Menu_Button_Exit,Sair
+Menu_Button_PressAnyButton,Pressione Qualquer Botão
+Menu_Button_Resume,Retomar
+Menu_Button_QuitToMenu,Voltar ao Menu
+Menu_Header_SessionNotes,Notas da Sessão
+Menu_Button_Continue,Continuar
+Menu_Button_Finish,Concluir
+Sheet_BackgroundFocus,Foco do Antecedente
+Sheet_PreBuilt,Pré-Montado
+Menu_Button_Return,Voltar
+Sheet_Proficiencies,Proficiências
+Menu_Button_Randomize,Aleatório
+Menu_DeepStorage,Depósito Profundo
+Menu_SpellSlot_First,1º
+Menu_SpellSlot_Second,2º
+Menu_SpellSlot_Third,3º
+Menu_PreparingSpells_Title,Preparando Magias
+Menu_PreparingSpells_Finish,Concluir
+Menu_PreparingSpells_Prepared,Magias Preparadas
+Menu_PreparingSpells_Difficulty,Dificuldade da Magia
+Menu_PreparingSpells_Collected,Magias Coletadas
+Menu_PreparingSpells_ToPrepare,Magias a Preparar: {0}
+Menu_PcInfo_Level_Short,Nv
+Menu_PcInfo_Stats_Title,Atributos
+Menu_PCInfo_Feats_Title,Talentos
+Menu_PCInfo_Cleric_Title,C<size=90%>lérigo
+Menu_QuestTree_ChooseFeat,Escolher Talento
+Menu_QuestTree_ForgoFeat,Abrir Mão do Talento
+Menu_QuestTree_QP_Show,- Mostrar Ramo da Missão -
+Menu_QuestTree_QP_Hide,- Mostrar Talento Desbloqueado -
+Menu_QuestTree_TakeRoot,Criar Raiz
+Menu_QuestTree_Completed,CONCLUÍDA
+Menu_CharacterCreation_Lore,História
+Menu_CharacterCreation_Uses,Usos
+Menu_CharacterCreation_Role,Função
+Menu_LevelUpButton,Evolução de Nível
+Menu_Autosaving,Salvando automaticamente...
+Menu_LoadFile,- Carregar Arquivo -
+Menu_LoadConfirmation,Carregar arquivo?
+Menu_SaveFile,- Salvar Arquivo -
+Menu_NewSaveFile,Criar um novo arquivo de save...
+Menu_SaveConfirmation_AltText,Nome do Arquivo de Save
+Menu_SaveFile_Completed,Save Concluído
+Menu_OverwriteConfirmation,Sobrescrever arquivo?
+Menu_DeleteConfirmation,Excluir Arquivo de Save?
+Journal_Empty,[Este diário está vazio.]
+Loading_AnyKey,Pressione Qualquer Tecla para Continuar
+Loading_Title_DiceChecks,Testes de Dados
+Loading_Desc_DiceChecks,"Role um d20. Se tirar um valor maior ou igual à CD (Classe de Dificuldade), você tem sucesso.
+
+O fracasso muitas vezes é mais interessante que o sucesso. Não tema o dado."
+Loading_Title_LockedChecks,Testes Bloqueados
+Loading_Desc_LockedChecks,"Alguns Testes de Dados podem ser tentados várias vezes, mas só uma vez por descanso longo ou curto.
+
+A menos que você os desbloqueie com um Fragmento de Jor."
+Loading_Title_AbilityScore,Atributos
+Loading_Desc_AbilityScore,"Os atributos representam suas capacidades. 
+
+A média é 10.
+
+Qualquer valor acima de 15 é excepcional. Acima de 20 é domínio de semideuses.
+
+Qualquer valor abaixo de 5 significa total incapacidade de realizar tarefas básicas. Chegar a 0 em qualquer atributo significa morte instantânea.
+
+Porém, os modificadores causados pelo seu equipamento não contam para essas capacidades. A implicação disso fica a seu critério imaginar."
+Loading_Title_Chimes,Chimes
+Loading_Desc_Chimes,"Seus atributos falam com você durante os diálogos. Isso se chama Chimes.
+
+Chimes com requisito de CD só aparecem se o seu atributo for maior ou igual à CD.
+
+Chimes com requisito de FC aparecem se for menor."
+Loading_Title_AbilityScoreMod,Modificadores de Atributo
+Loading_Desc_AbilityScoreMod,"Quando você rola dados, sempre soma um modificador baseado nos seus atributos."
+Loading_Title_DifficultyClass,Classes de Dificuldade
+Loading_Desc_DifficultyClass,Classes de dificuldade típicas
+Loading_Title_DialogChoices,Escolhas de Diálogo
+Loading_Desc_DialogChoices,"Há três tipos de escolhas de diálogo.
+<color=#DA5B2A>
+1. ""Falas ditas.""
+
+2. Pensamentos internos.
+
+3. (Ações realizadas.)
+</color>
+Algumas escolhas combinam alguns ou todos esses tipos."
+Loading_Title_HiddenDialogChoices,Escolhas de Diálogo Ocultas
+Loading_Desc_HiddenDialogChoices,Algumas escolhas de diálogo ficam ocultas se você não cumprir os requisitos. Mas não se preocupe. Em EBB você nunca deve ter acesso a todos os caminhos de uma só vez.
+Loading_Title_SpellCasting,Conjuração
+Loading_Desc_SpellCasting,"Como condutor de poder divino, você pode conjurar magias de clérigo.
+
+As magias permitem curar, se defender, resolver missões e desbloquear ramos de diálogo exclusivos. 
+
+Algumas magias podem ter consequências. Algumas exigem testes de dados. Usar magias é parte essencial para ter sucesso em sua missão."
+Loading_Title_SituationalSpells,Magias Situacionais
+Loading_Desc_SituationalSpells,"Algumas magias só podem ser conjuradas em certas situações. Quando magias situacionais estão disponíveis, elas podem oferecer caminhos alternativos poderosos e, às vezes, arriscados."
+Loading_Title_SpellConcentration,Concentração
+Loading_Desc_SpellConcentration,"Algumas magias exigem que você mantenha a concentração. Você só pode se concentrar em uma magia por vez.
+
+Se sofrer dano suficiente, normalmente precisa ser bem-sucedido em um Teste de Constituição para manter a concentração. Para você, isso não parece ser um problema.
+
+Quando a duração da magia termina, ou você perde a concentração, a magia acaba."
+Loading_Title_SpellScrolls,Pergaminhos de Magia
+Loading_Desc_SpellScrolls,"Normalmente, conjuradores consomem pergaminhos de magia para lançar versões únicas de magias.
+
+Você, em vez disso, usa pergaminhos para memorizar qualquer tipo de magia. Em segundos. Você é simplesmente tão bom."
+Loading_Title_PreparingSpells,Preparando Magias
+Loading_Desc_PreparingSpells,"Para conjurar magias, você precisa prepará-las primeiro.
+
+Como Clérigo Arcano, você deve ir a um SANTUÁRIO para preparar magias.
+
+<i>Fórmula para a quantidade de magias preparadas.</i>
+<b>2 + seu nível + seu modificador de inteligência.</b>"
+Loading_Title_SpellLevels,Níveis de Magia
+Loading_Desc_SpellLevels,"O poder das magias é medido por nível. Magias acima do 3º nível são cada vez mais raras hoje em dia.
+
+Historicamente, magias até o 9º nível podiam ser conjuradas por mãos mortais."
+Loading_Title_SpellSlots,Espaços de Magia
+Loading_Desc_SpellSlots,"Dependendo do seu nível de clérigo, você só tem força para conjurar magias um certo número de vezes.
+
+Isso é medido por espaços de magia.
+
+Você recupera os espaços gastos com um descanso longo ou consumindo certas substâncias."
+Loading_Desc_Cantrips,"Truques são magias menores que não consomem espaços de magia. Portanto, podem ser conjurados livremente, a qualquer momento.
+
+Muita gente usa truques no dia a dia, até quem normalmente não é considerado conjurador."
+Loading_Title_DeathSaving,Testes de Resistência à Morte
+Loading_Desc_DeathSaving,"Quando você chega a 0 pontos de vida, começa a rolar testes de resistência à morte.
+
+Se tirar 10 ou mais, você tem sucesso. Se tirar menos de 10, falha.
+
+Com três sucessos você volta à vida com 1 ponto de vida e com mais 1 nível de exaustão.
+
+Com três falhas você morre.
+"
+Loading_Title_LevelUp,Subir de Nível
+Loading_Desc_LevelUp_Above,"Ao atingir certos limiares de experiência, você pode subir de nível. Ao subir de nível você ganha:"
+Loading_Desc_LevelUp_Below,A cada dois níveis você também ganha 1 carga adicional de canalizar divindade.
+Loading_Desc_LevelUp_Gain_1,1 aumento de atributo
+Loading_Desc_LevelUp_Gain_2,"Mais pontos de vida, baseados no seu modificador de Constituição"
+Loading_Desc_LevelUp_Gain_3,Mais espaços de magia.
+Loading_Desc_LevelUp_Gain_4,Bônus de proficiência maior
+Loading_Desc_LevelUp_Gain_5,Mais dados de vida
+Loading_Desc_Experience,"Você ganha experiência completando missões, iniciando encontros, batendo carteiras e simplesmente conversando com o povo da cidade."
+Loading_Title_ClericSubclass,Subclasse de Clérigo
+Loading_Desc_ClericSubclass,"Você joga como um Clérigo Arcano. Isso permite aprender magias de qualquer escola ou tipo que normalmente só estariam disponíveis a magos, druidas ou similares.
+
+Esse seu talento é a única razão de você não ser um completo pária."
+Loading_Title_Proficiency,Proficiência
+Loading_Desc_Proficiency,"Você é proficiente em dois atributos. Isso permite somar seu bônus de proficiência a todos os Testes de Dados que usem esses atributos.
+
+Seu bônus de proficiência é igual ao seu nível de clérigo."
+Loading_Title_Accessories,Acessórios
+Loading_Desc_Accessories,"Você pode equipar três bugigangas aleatórias como acessórios. Às vezes são mágicas, às vezes não.
+
+Elas podem aumentar ou diminuir seus atributos. Também podem conceder efeitos únicos nos diálogos e desbloquear caminhos alternativos."
+Loading_Title_Weapons,Armas
+Loading_Desc_Weapons,"Você pode equipar uma arma. Embora não sejam utilizáveis em encontros, elas podem lhe dar confiança, alterar seus atributos e um visual elegante."
+Loading_Title_Spellbooks,Grimórios
+Loading_Desc_Spellbooks,"Você pode equipar um grimório. Embora, como você é um leitor ávido, 'grimório' neste contexto também possa se referir a revistas, romances e outras obras de literatura.
+
+Não é divertido ler?"
+Loading_Title_Helmets,Elmos
+Loading_Desc_Helmets,"Você não pode desequipar seu elmo. Pode, no entanto, trocá-lo por outros chapéus elegantes e poderosos."
+Loading_Title_DivineIntervention,Intervenção Divina
+Loading_Desc_DivineIntervention,"Como clérigo, você tem plena consciência do evento lendário conhecido como Intervenção Divina. Dizem que clérigos que alcançam uma conexão forte o bastante com seu deus podem invocá-lo em tempos de necessidade.
+
+Você é, claro, fraco demais para sequer sonhar com isso."
+Loading_Title_EsotericEvents,Eventos Esotéricos
+Loading_Desc_EsotericEvents,"As Cordas de Jor são caóticas e muitas vezes se desfazem de formas estranhas. Quanto mais para o interior você vai, mais comum é testemunhar Eventos Esotéricos - fenômenos estranhos em que a realidade se desfaz - e Bolsões Esotéricos - áreas inteiras onde as leis da existência foram reescritas.
+
+Os clérigos de Norvik são treinados para lidar com Eventos Esotéricos, mesmo que sejam raros perto da Costa."
+Loading_Title_QuestingTree,A Árvore de Missões
+Loading_Desc_QuestingTree,"A Árvore de Missões é uma rede de missões conectadas que você pode completar em sua jornada. 
+
+Cada vez que completa uma missão importante, você pode debater consigo mesmo para desbloquear um talento único. Mas cuidado: as escolhas que você faz tanto na missão quanto nesse debate determinam qual talento você recebe."
+Loading_Title_Feats,Talentos
+Loading_Desc_Feats,"Completar uma missão importante desbloqueia um talento. As escolhas que você faz durante a missão determinam qual talento você recebe.
+
+Você pode ter 4 talentos ativos ao mesmo tempo. Pode trocar seus talentos a qualquer momento."
+Loading_Title_Journal,Diário
+Loading_Desc_Journal,"Você pode ver um mapa - desenhado pelo clérigo - no seu diário.
+
+Também é lá que você encontra a lista de Verbetes do Glossário que coletou ao longo da jornada, clicando nos links dos diálogos."
+Loading_Title_Exhaustion,Exaustão
+Loading_Desc_Exhaustion,"Se você vencer uma disputa de teste de resistência à morte, ganha um nível de exaustão.
+
+Cada nível de exaustão dá -1 em todos os Testes de Dados. Se chegar a 10 níveis de exaustão, você morre.
+
+A exaustão é removida se você tiver sucesso em um descanso longo. Se não fizer um descanso longo antes do amanhecer, você ganha 6 níveis de exaustão."
+Loading_Title_Pickpocket,Furtar
+Loading_Desc_Pickpocket,"Alguns itens são vigiados. Para saqueá-los é preciso ser bem-sucedido em um teste de atributo.
+
+Se falhar, você pode ser pego. Nesse caso, prepare-se para se explicar. Não vai ser bonito."
+Loading_AbilityScore_Mod,MOD
+Loading_AbilityScore_Short,AT
+Intro_Message_1,Faltam cinco dias para a primeira eleição de todos os tempos.
+Intro_Message_2,"Uma explosão irrompe no coração da cidade.
+Ninguém quer lidar com isso. Então mandam <i>você</i>."
+Intro_Message_Comment_1,O clérigo MAIS BURRO imaginável.
+Intro_Message_Comment_2,Só músculos - exatamente o que esta cidade precisa.
+Intro_Message_3,Complete suas missões em qualquer ordem.
+Intro_Message_3.1,Não tenha medo de fazer escolhas interessantes.
+Intro_Message_3.2,E lembre-se de ouvir <color=#8C5D28>o seu estômago.</color>
+Intro_Message_4,A campanha levará você do nível 1 ao 6. Jogaremos por cerca de 5 a 8 sessões.
+Intro_Message_5,"Foi uma jornada para montar tudo isso.
+Espero que você se divirta.
+<i>-Chris</i>"
+Intro_Message_Comment_Finish,(E lembre-se de salvar com frequência. Você literalmente NÃO tem vida.)
+SpellTutorial,"<b>Preparando Magias</b>. À direita, você pode ver uma lista de todas as suas magias disponíveis. Para conjurar magias, primeiro é preciso prepará-las ao se aproximar de santuários, espalhados pela cidade. Para cada magia que deseja preparar, preencha o espaço vazio à direita. Você só pode preparar uma magia se tiver um espaço de magia do nível correspondente disponível.
+
+<b>Espaços de Magia</b>. No canto inferior esquerdo, você pode ver seus espaços de magia atuais. Cada círculo representa um espaço que você pode gastar para conjurar uma magia. Você só pode conjurar magias quando houver uma utilidade para elas. Quando uma magia pode ser conjurada em situações específicas dos diálogos, o botão de ladrilho dessa magia fica aceso. Os botões de ladrilho ficam ao lado dos seus espaços de magia, depois que você termina de preparar suas magias."
+DicePart_vs,vs

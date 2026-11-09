@@ -1,0 +1,105 @@
+ID,PT
+FEAT_LONE_STR,Clérigo Solitário
+FEAT_MEMORIZER_INT,Mestre da Memorização
+FEAT_COMPANY_CHA,Boa Companhia
+FEAT_PARANOIA_DEX,Paranoia Contagiosa
+FEAT_SURVIVAL_CON,Sobrevivência dos Mais Aptos
+FEAT_EYE_CHA,Lendo o Ambiente
+FEAT_LUCK_CHA,Sorte do Tolo
+FEAT_MUSH_DEX,Reflexos de Explorador de Masmorras
+FEAT_PROF_STR,Clérigo Profissional
+FEAT_BALANCE_INT,"Sino Torto, Porém Equilibrado"
+FEAT_BELLY_CON,Ventre Sombrio da Alma
+FEAT_HJARTA_WIS,Hjârtat Mitt
+FEAT_MAN_STR,Um Bom Homem
+FEAT_FRAGILE_DEX,Imortalidade Frágil
+FEAT_DREAM_INT,Sonho Imperial
+FEAT_LIE_CHA,Bela Mentira
+FEAT_NAT_STR,Nacionalista
+FEAT_FRE_DEX,Andarilho Livre
+FEAT_AZG_WIS,Azgalista
+FEAT_ARC_INT,Arcanista
+FEAT_AGR_CON,Agrário
+FEAT_APO_CHA,Apolítico
+FEAT_MONEY_DEX,Dinheiro Fala
+FEAT_SPIRIT_WIS,Espírito Azgaliano
+FEAT_FEMI_WIS,Dama Gentil
+FEAT_MASC_STR,Futuro Patriarca
+FEAT_PRINT_INT,Propaganda de Mídia de Massa
+FEAT_UNITY_WIS,União Humano-Anã
+FEAT_ENDURE_CON,Resistência Azgaliana
+FEAT_DEFEND_STR,Defenda a Cidade
+FEAT_TRUE_DEX,Norvikiano de Verdade
+FEAT_MIGHT_CON,Aparato Leviatã
+FEAT_FORCE_STR,Força Imparável
+FEAT_HAND_DEX,Mão Invisível
+FEAT_OBJECT_CHA,Objeto Inamovível
+FEAT_VOICE_STR,Voz de Deus
+FEAT_STRING_INT,Mestre das Cordas
+FEAT_PATRON_CHA,Comunhão com o Patrono
+FEAT_LICH_INT,Quase Lichdom
+FEAT_NEURO_WIS,Neurose Esotérica
+FEAT_BLOOD_CON,Magia de Sangue
+FEAT_CLERIC_STR,O Clérigo
+FEAT_ROGUE_DEX,Ladino Cuzão
+FEAT_WIZARD_INT,Mago Deus-Imperador
+FEAT_BARB_CON,Bárbaro Askanii
+FEAT_BARD_CHA,Bardo Caçador de Histórias
+FEAT_DRUID_WIS,Druida Local Simpático
+FEAT_LEYLINE_CHA,Gancho de Linha Ley
+FEAT_MILL_CON,Guardião dos Milênios
+FEAT_TINGLE_WIS,Formigamento Positivo
+FEAT_SCRIBBLE_INT,Rabiscar as Margens
+FEAT_DEM_DEX,Arauto Democrático
+FEAT_LONE_STR_DESC,"No início do seu Descanso Curto, você cura uma quantidade adicional igual aos níveis de exaustão que possui."
+FEAT_MEMORIZER_INT_DESC,"Durante o seu Descanso Curto, você restaura dois espaços de magia aleatórios em vez de um."
+FEAT_COMPANY_CHA_DESC,"Durante Descansos Curtos, sempre role o Dado de Vida com vantagem. Snell também ganha uma proficiência extra nas rolagens de iniciativa dele."
+FEAT_PARANOIA_DEX_DESC,Vantagem nas rolagens de iniciativa.
+FEAT_SURVIVAL_CON_DESC,Vantagem em Testes de Resistência contra a Morte.
+FEAT_EYE_CHA_DESC,Vantagem em testes de contemplar.
+FEAT_LUCK_CHA_DESC,"Sempre que você tirar um 1 natural, role o d20 de novo e sofra 1d4 de dano. Se o novo resultado também for um 1 natural, repita o processo. Esse dano não pode levar você abaixo de 1 PV."
+FEAT_MUSH_DEX_DESC,"Sempre que você tirar 10 ou menos, adicione uma proficiência extra à rolagem."
+FEAT_PROF_STR_DESC,"Você não pode falhar criticamente. (Quando você tira um 1 natural, ele não é tratado como falha automática.)"
+FEAT_BALANCE_INT_DESC,"Sempre que qualquer d20 é rolado, as Cordas de Jor fazem o resultado pender para 10. A chance de rolagens críticas diminui."
+FEAT_BELLY_CON_DESC,Resistência a todo dano quando abaixo de 50% dos PV.
+FEAT_HJARTA_WIS_DESC,Cada nível de exaustão concede +1 em cada rolagem de d20 em vez de -1.
+FEAT_MAN_STR_DESC,"Sempre que você sobreviver a um teste de resistência contra a morte, você se levanta com 1d20 PV."
+FEAT_FRAGILE_DEX_DESC,"Não role Testes de Resistência contra a Morte. Sempre que você estiver com mais de 1 PV e sofrer dano que o levaria a 0, você vai para 1. Se sofrer qualquer dano com 1 PV, você morre."
+FEAT_DREAM_INT_DESC,"Ao conversar com alguém menos inteligente que você, ganhe uma proficiência extra em todas as rolagens de d20."
+FEAT_LIE_CHA_DESC,"Enquanto estiver com vida cheia e 0 de exaustão, ganhe vantagem em todas as rolagens de d20."
+FEAT_NAT_STR_DESC,Proficiência extra nas rolagens ao falar com humanos.
+FEAT_FRE_DEX_DESC,Ganhe 10% de desconto adicional em todas as compras.
+FEAT_AZG_WIS_DESC,"Sempre que sofrer dano, avance um passo em um contador secreto de três passos. No passo um, um dado d20 de 'tese' é lançado. No passo dois, se o dano que você sofreu for maior que o dado de 'tese', um dado d4 de 'antítese' é lançado. No passo três, o dano que você sofreu é reduzido em 1, ou pelo dado de 'antítese' se ele foi lançado no passo dois. Isso é a 'síntese', de alguma forma. Na próxima vez que sofrer dano, volte ao passo um."
+FEAT_ARC_INT_DESC,"Quando você gastar seu último espaço de magia de qualquer nível, você rola 1d100. Se o resultado for menor que sua inteligência natural, você recupera aquele espaço de magia."
+FEAT_AGR_CON_DESC,"Sempre que você pegar comida, role 1d20. Se tirar 16 ou mais, você ganha um item de comida adicional."
+FEAT_APO_CHA_DESC,Aumenta a proficiência nas rolagens em 1. Esse valor sobe para 10 em qualquer dia de eleição.
+FEAT_MONEY_DEX_DESC,Ganhe 50% a mais de dinheiro ao pegá-lo.
+FEAT_SPIRIT_WIS_DESC,Restaure 1 Ponto de Vida a cada hora que passa.
+FEAT_FEMI_WIS_DESC,Proficiência extra nas rolagens ao falar com personagens femininas.
+FEAT_MASC_STR_DESC,Proficiência extra nas rolagens ao falar com personagens masculinos.
+FEAT_PRINT_INT_DESC,Altera os modificadores de atributo dos textos equipados. Modificadores positivos ganham +1 e modificadores negativos ganham -1.
+FEAT_UNITY_WIS_DESC,"Enquanto estiver com vida cheia, sempre que sofrer dano, esses dados são rolados com desvantagem."
+FEAT_ENDURE_CON_DESC,"A cada 3 horas passadas exausto, você perde 1 nível de exaustão."
+FEAT_DEFEND_STR_DESC,Altera os modificadores de atributo dos elmos equipados. Modificadores positivos ganham +1 e modificadores negativos ganham -1.
+FEAT_TRUE_DEX_DESC,"Role iniciativa com Força, se ela for maior que sua Destreza."
+FEAT_MIGHT_CON_DESC,Inimigos sempre rolam iniciativa com desvantagem.
+FEAT_FORCE_STR_DESC,Altera os modificadores de atributo das armas equipadas. Modificadores positivos ganham +1 e modificadores negativos ganham -1.
+FEAT_HAND_DEX_DESC,Vantagem em todos os testes de bagatela.
+FEAT_OBJECT_CHA_DESC,"Seu modificador de Destreza também soma ao seu desconto de pechincha nas lojas, acumulando com o Carisma."
+FEAT_VOICE_STR_DESC,"Sempre que você rolar um d20, outro d20 oculto é rolado. Se esse dado for igual ao seu, você tem sucesso crítico. Se ambos forem 20 naturais, você recupera todos os seus pontos de vida, recupera todos os espaços de magia gastos, perde todos os níveis de exaustão e fica genuinamente feliz por 1d4 segundos."
+FEAT_STRING_INT_DESC,"Para cada nível de espaço de magia que você tem, você ganha um espaço de magia máximo adicional."
+FEAT_PATRON_CHA_DESC,"Se você sofrer dano que o levaria a 0, uma força misteriosa o protege. Se isso acontecer, você não sofre dano e perde um espaço de magia de 1º nível. Se você não tiver espaços de magia de 1º nível, isso não acontece."
+FEAT_LICH_INT_DESC,"Inspirado pelo seu homem pálido favorito, você não ganha mais vida com cura. Você também se torna invulnerável a todas as formas de dano. Sempre que sofrer dano de qualquer tipo, você sempre ganha um nível de exaustão. Sempre que curar mais de 6 PV de uma única fonte, você perde um nível de exaustão."
+FEAT_NEURO_WIS_DESC,"Quando você não tiver nenhum FRAGMENTO DE JOR, pode gastar pontos de vida para desbloquear opções de diálogo. O custo começa em 1 PV e dobra cada vez que você o usa. O custo reinicia num descanso longo."
+FEAT_BLOOD_CON_DESC,"Quando ficar sem espaços de magia, você pode conjurar magias com pontos de vida. O custo começa no nível do espaço de magia em PV e é multiplicado pelo número de vezes que você ativou esse efeito. O custo reinicia num descanso longo."
+FEAT_CLERIC_STR_DESC,"Suas magias de cura são aumentadas em uma proficiência extra. Suas curas também podem ser aumentadas pelo seu modificador de Força em vez do modificador de Sabedoria, se ele for maior."
+FEAT_ROGUE_DEX_DESC,A CD dos testes de bagatela é reduzida em uma proficiência extra.
+FEAT_WIZARD_INT_DESC,A quantidade de magias que você pode preparar aumenta em uma proficiência extra. Testes de Resistência feitos pelos alvos também são rolados com desvantagem.
+FEAT_BARB_CON_DESC,"Sempre que estiver com 25% dos PV ou menos, adicione uma proficiência extra em todas as rolagens."
+FEAT_BARD_CHA_DESC,"Seus Testes de Contemplar são rolados com uma proficiência extra. Além disso, as CDs das rolagens de flerte são reduzidas pela sua proficiência."
+FEAT_DRUID_WIS_DESC,"Proficiência extra nas rolagens em habitats naturais. Isso inclui áreas externas, áreas tomadas pelo mato e cavernas."
+FEAT_LEYLINE_CHA_DESC,Altera os modificadores de atributo dos BREGUETES. Modificadores positivos ganham +1 e modificadores negativos ganham -1.
+FEAT_MILL_CON_DESC,"Os efeitos das Poções são dobrados. Para aumentos de Atributo, isso só afeta a primeira poção de cada tipo que você ingeriu."
+FEAT_TINGLE_WIS_DESC,Magias de cura rolam o dobro da quantidade normal de dados.
+FEAT_SCRIBBLE_INT_DESC,Seu nível de clérigo é dobrado ao calcular a quantidade de magias que você pode preparar.
+FEAT_DEM_DEX_DESC,Você recupera 1d4 pontos de vida cada vez que perguntar a alguém em quem vai votar na eleição.

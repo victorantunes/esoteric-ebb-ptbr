@@ -1,0 +1,774 @@
+ID,Speaker,PT
+EntityDescription_0,OBJ,Um subanão.
+EntityDescription_1,OBJ,Um anão contempla o estaleiro.
+EntityDescription_2,OBJ,Uma Entidade.
+EntityDescription_3,OBJ,"Um caranguejo comum, não gigante."
+EntityDescription_4,OBJ,Outro trabalhador.
+EntityDescription_5,OBJ,Hm?
+EntityDescription_6,OBJ,Um esqueleto. Um esqueleto armado e ambulante.
+EntityDescription_7,OBJ,Um cara. Ele não para de se arrastar de um lado pro outro.
+EntityDescription_8,OBJ,Cuidado com essas presas. E com o resto também.
+EntityDescription_9,OBJ,O Dragão de Tolstad. Cuidado.
+EntityDescription_10,OBJ,"Uma Besta de Jor, remanescente da Era dos Portões."
+EntityDescription_11,OBJ,Uma vendedora halfling em roupas coloridas.
+EntityDescription_12,OBJ,Uma mulher meio demoníaca. Os olhos dela seguem você.
+EntityDescription_13,OBJ,Um monstro da ferrugem.
+EntityDescription_14,OBJ,Uma gloriosa gaivota.
+EntityDescription_15,OBJ,Um gato preto.
+EntityDescription_16,OBJ,Um goblin agitado olha na sua direção.
+EntityDescription_17,OBJ,Seu companheiro Snell.
+EntityDescription_18,OBJ,Um minúsculo espírito primal.
+EntityDescription_19,OBJ,Uma figura imponente.
+EntityDescription_20,OBJ,Um personagem.
+EntityDescription_21,OBJ,Uma entidade. Altamente desinteressante.
+EntityDescription_22,OBJ,Uma cabaninha. Com pernas. Agora você viu de tudo!
+EntityDescription_23,OBJ,Uma ideia.
+EntityDescription_24,OBJ,A água se move de um jeito estranho aqui.
+EntityDescription_25,OBJ,Uma grelha? E umas caixas?
+EntityDescription_26,OBJ,Um rato! Ele não está exatamente fugindo de você.
+EntityDescription_27,OBJ,Um rato. Mal está se mexendo.
+EntityDescription_28,OBJ,Um rato! Parece querer brigar com você.
+EntityDescription_29,OBJ,Um ratinho assustado. Pegue!
+EntityDescription_30,OBJ,Um ratinho surpreendentemente simpático. Suspeito.
+EntityDescription_31,OBJ,Um crânio ricamente decorado.
+EntityDescription_32,OBJ,Um fragmento.
+EntityDescription_33,OBJ,Lá em cima. Cheira esquisito.
+EntityDescription_34,OBJ,"Longe, bem longe lá embaixo..."
+EntityDescription_35,OBJ,Que portinha minúscula.
+EntityDescription_36,OBJ,Estas sobem até o alto de Tolstad.
+EntityDescription_37,OBJ,Cogumelos brilhantes. Devem ser gostosos.
+EntityDescription_38,OBJ,Armadura em ruínas. Espada quebrada. Mas aquele elmo?
+EntityDescription_39,OBJ,Uma figura encapuzada junto ao Pilar.
+EntityDescription_40,OBJ,Marcas de patas. Uma de cada lado.
+EntityDescription_41,OBJ,Tem alguma coisa neste pote...
+EntityDescription_42,OBJ,Tem um cubo gelatinoso aqui.
+EntityDescription_43,OBJ,Isso é de mau agouro.
+EntityDescription_44,OBJ,Um cadáver sem cabeça. Parece algum tipo de... <i>ladino</i>.
+EntityDescription_45,OBJ,Um guerreiro morto. Claramente se afogou. Só uns pedaços ficam de fora.
+EntityDescription_46,OBJ,Pois é. Passagem secreta aqui.
+EntityDescription_47,OBJ,Ele olha para você com olhos pedunculados.
+EntityDescription_48,OBJ,Uma concha de caracol. Está bloqueando o caminho.
+EntityDescription_49,OBJ,Braços sombrios de ave. Magia estranha.
+EntityDescription_50,OBJ,Um sujeito azarado.
+EntityDescription_51,OBJ,"É, você poderia. Certo?"
+EntityDescription_52,OBJ,A parte mais central da grande árvore brachen de Tolstad.
+EntityDescription_53,OBJ,Um crânio de leão.
+EntityDescription_54,OBJ,Uma grandiosa gravura da Era Divina.
+EntityDescription_55,OBJ,Aí está.
+EntityDescription_56,OBJ,Uma porta. Que interessante.
+EntityDescription_57,OBJ,Um rato. Mal está se mexendo entre os crânios.
+EntityDescription_58,OBJ,"Um rato! Parece querer brigar com você, lá do alto desta moita."
+EntityDescription_59,OBJ,Um arco petrificado.
+EntityDescription_60,OBJ,PILLAR_Door
+EntityDescription_61,OBJ,Estas pedras foram movidas recentemente.
+EntityDescription_62,OBJ,Aquilo é um chapéu? Estranho.
+EntityDescription_63,OBJ,Aventureiros devem ter escondido coisas neste pote.
+EntityDescription_64,OBJ,Algo brilhante.
+EntityDescription_65,OBJ,Um calendário. Está desatualizado.
+EntityDescription_66,OBJ,Uma estátua enorme de um minotauro.
+EntityDescription_67,OBJ,Tem uma poção de cura no meio dessas garrafas vazias!
+EntityDescription_68,OBJ,Tem algo estranho nesta bocarra...
+EntityDescription_69,OBJ,Entre as pernas da besta...
+EntityDescription_70,OBJ,É uma longa queda...
+EntityDescription_71,OBJ,Uma porta misteriosa.
+EntityDescription_72,OBJ,Tem algo interessante neste mago petrificado.
+EntityDescription_73,OBJ,<i>Não é um Mímico.</i>
+EntityDescription_74,OBJ,Que caixa estranha.
+EntityDescription_75,OBJ,<i>Claro</i>. Isso parece seguro.
+EntityDescription_76,OBJ,"Tá, tudo bem. É seguro mesmo."
+EntityDescription_77,OBJ,Uma magia!
+EntityDescription_78,OBJ,Esta parede...
+EntityDescription_79,OBJ,Oh?
+EntityDescription_80,OBJ,Oh...?
+EntityDescription_81,OBJ,Tem algo além do pó de cadáver comum neste aqui...
+EntityDescription_82,OBJ,Ritos fúnebres de uma outra era.
+EntityDescription_83,OBJ,"Deixado por humanos, ainda assim."
+EntityDescription_84,OBJ,Um mural da Era Divina.
+EntityDescription_85,OBJ,Este caixão de pedra...
+EntityDescription_86,OBJ,Um caixão de madeira. Está apodrecendo.
+EntityDescription_87,OBJ,Nossa...
+EntityDescription_88,OBJ,Milhares de mortos.
+EntityDescription_89,OBJ,A primeira tumba de Urth.
+EntityDescription_90,OBJ,Uma maça?
+EntityDescription_91,OBJ,A tumba de um guerreiro. Está vazia por dentro. Exceto por...
+EntityDescription_92,OBJ,A cripta de um arqueiro. Está vazia.
+EntityDescription_93,OBJ,Um livro estranho.
+EntityDescription_94,OBJ,Tem uma mulher debaixo daquele cogumelo.
+EntityDescription_95,OBJ,A conversa deles está muito alta.
+EntityDescription_96,OBJ,Os goblins estão trabalhando duro esta manhã.
+EntityDescription_97,OBJ,O cara está concentrado no trabalho.
+EntityDescription_98,OBJ,Uma rocha central.
+EntityDescription_99,OBJ,"Ah, não. Essa é uma magia ilegal. Embora eu ache que poderia ajudar..."
+EntityDescription_100,OBJ,Isto é só um graveto com um cogumelo em cima.
+EntityDescription_101,OBJ,Cogumelos!
+EntityDescription_102,OBJ,Pinturas rupestres?
+EntityDescription_103,OBJ,Isso é um bolsão esotérico. Evite.
+EntityDescription_104,OBJ,"Ei, olha, um pedaço de cubo gelatinoso! Parece amigável o bastante."
+EntityDescription_105,OBJ,<i>Pechincha e Divinações Freelance da Lisa.</i>
+EntityDescription_106,OBJ,Uma alabarda fantasmagórica.
+EntityDescription_107,OBJ,Você poderia pular aqui para baixo.
+EntityDescription_108,OBJ,Dá para subir por aqui.
+EntityDescription_109,OBJ,Muitos pergaminhos mágicos arruinados. Só um parece intacto...
+EntityDescription_110,OBJ,Uma pilha de livros crípticos.
+EntityDescription_111,OBJ,Aqui está o esconderijo da formiga. A que você viu naquela visão...
+EntityDescription_112,OBJ,Que visual horripilante.
+EntityDescription_113,OBJ,Um crânio. Parece de goblin.
+EntityDescription_114,OBJ,O esconderijo.
+EntityDescription_115,OBJ,Maçãs!
+EntityDescription_116,OBJ,Folhas. Deixadas para secar por muito tempo.
+EntityDescription_117,OBJ,"'Cavernas do Sul, Cuidado com Monstros.'"
+EntityDescription_118,OBJ,Tantos livros...
+EntityDescription_119,OBJ,Tem um buraco aqui. Tem algo lá dentro...
+EntityDescription_120,OBJ,Um piso ilusório.
+EntityDescription_121,OBJ,Interessante.
+EntityDescription_122,OBJ,Um fragmento no escuro.
+EntityDescription_123,OBJ,Apenas um fragmento do todo.
+EntityDescription_124,OBJ,"Não parecem muito reais, mas com certeza têm gosto de real. Hora de papar."
+EntityDescription_125,OBJ,Um santuário!
+EntityDescription_126,OBJ,A Língua de Chama de Norvik.
+EntityDescription_127,OBJ,Um goblin minúsculo e agitado dança dentro da jaula.
+EntityDescription_128,OBJ,"Uma poção de cura! Chata, mas útil."
+EntityDescription_129,OBJ,"Essa poção parece realmente bebível. Tipo, de qualidade para o consumidor."
+EntityDescription_130,OBJ,A porta. Para o lado de fora.
+EntityDescription_131,OBJ,Crânios minúsculos sem boca.
+EntityDescription_132,OBJ,Isto não é uma porta.
+EntityDescription_133,OBJ,...
+EntityDescription_134,OBJ,Isto é uma chave.
+EntityDescription_135,OBJ,Tem algo na água.
+EntityDescription_136,OBJ,Eles... <i>brilham</i>.
+EntityDescription_137,OBJ,Ela deixou isto cair durante a briga.
+EntityDescription_138,OBJ,Uma garrafa estranha...
+EntityDescription_139,OBJ,Todos os cristais estão brilhando.
+EntityDescription_140,OBJ,A Costa.
+EntityDescription_141,OBJ,Uma porta de ferro em forma de caracol.
+EntityDescription_142,OBJ,Outra porta-caracol.
+EntityDescription_143,OBJ,Uma porta-caracol que parece sinistra.
+EntityDescription_144,OBJ,Uma porta-caracol redonda bem assustadora.
+EntityDescription_145,OBJ,Este piso está solto. Um esconderijo?
+EntityDescription_146,OBJ,Hã?
+EntityDescription_147,OBJ,Esse cara de novo. Malditos deuses.
+EntityDescription_148,OBJ,Tem algo congelado aqui.
+EntityDescription_149,OBJ,As raízes estão se mexendo. Só um pouquinho.
+EntityDescription_150,OBJ,"Para cima, rumo ao Abaixo."
+EntityDescription_151,OBJ,Uma porta-caracol. Ela <i>permite</i> que você entre.
+EntityDescription_152,OBJ,"Um cogumelo grande, com... umas frutinhas crescendo ao redor."
+EntityDescription_153,OBJ,Um cogumelo minúsculo.
+EntityDescription_154,OBJ,Um cogumelo <i>comprido</i>.
+EntityDescription_155,OBJ,O Pilar continua ainda mais para baixo.
+EntityDescription_156,OBJ,A jaula. Você pode abri-la.
+EntityDescription_157,OBJ,Uma caixa de maçãs da HWBT. Deve ter sido arrastada até aqui pela água.
+EntityDescription_158,OBJ,"Um corpo decapitado em decomposição. Este pertencia a algum tipo de druida, parece."
+EntityDescription_159,OBJ,Você poderia escalar estas trepadeiras.
+EntityDescription_160,OBJ,É. Vamos descer agora.
+EntityDescription_161,OBJ,Uma maçã fresca. Como veio parar aqui embaixo?
+EntityDescription_162,OBJ,Uma bolsa de cinto. Molhada e coberta de... fungos. Lindo.
+EntityDescription_163,OBJ,Um labirinto adiante...
+EntityDescription_164,OBJ,Isto leva para dentro das ruínas.
+EntityDescription_165,OBJ,Tem um baú enterrado aqui!
+EntityDescription_166,OBJ,"Um grande dragão, assando uns caracóis."
+EntityDescription_167,OBJ,Um santuário antigo. Serve.
+EntityDescription_168,OBJ,O item de saque mais caro do troll...
+EntityDescription_169,OBJ,Um escudo velho. Um escudo <i>realmente</i> velho.
+EntityDescription_170,OBJ,Um espelho. Com algo... atrás dele.
+EntityDescription_171,OBJ,"Um pergaminho de magia, com um bilhete: 'PARA EMERGÊNCIAS.'"
+EntityDescription_172,OBJ,Pegue!
+EntityDescription_173,OBJ,"Ah, sim. Saque muito bom."
+EntityDescription_174,OBJ,Pega! Pega!
+EntityDescription_175,OBJ,Mais saque!
+EntityDescription_176,OBJ,Um Hemisfério Costeiro.
+EntityDescription_177,OBJ,Estas escadas descem até as docas.
+EntityDescription_178,OBJ,As ruas de Waterlane.
+EntityDescription_179,OBJ,Estas escadas levam ao telhado da sede.
+EntityDescription_180,OBJ,Uma espada incrível pendurada na parede.
+EntityDescription_181,OBJ,Isto bloqueia o caminho até o palco.
+EntityDescription_182,OBJ,"[NEARLY, TOCANDO VIOLÃO TODA NOITE.]"
+EntityDescription_183,OBJ,O goblin não se move.
+EntityDescription_184,OBJ,O homem está vendo o lado bom.
+EntityDescription_185,OBJ,A mulher parece levemente irritada.
+EntityDescription_186,OBJ,Um goblin orgulhoso.
+EntityDescription_187,OBJ,"Outro goblin, tentando ser persuasivo."
+EntityDescription_188,OBJ,Um anão com cara de cansado.
+EntityDescription_189,OBJ,Um sujeito grandalhão que parece mexer na bandeira.
+EntityDescription_190,OBJ,Um anão mais novo. Parece nervoso.
+EntityDescription_191,OBJ,Uma dama Azgal. Parece séria.
+EntityDescription_192,OBJ,Um anão meio alto. Ele encara você.
+EntityDescription_193,OBJ,Ele trabalha como se tivesse um pequeno Azgal no ombro.
+EntityDescription_194,OBJ,Tem algo embaixo desta pedra...
+EntityDescription_195,OBJ,Um poço velho.
+EntityDescription_196,OBJ,Estes barris estão bloqueando o caminho até o palco.
+EntityDescription_197,OBJ,Uma jukebox!
+EntityDescription_198,OBJ,A jukebox fica desativada enquanto Nearly está tocando.
+EntityDescription_199,OBJ,Um prato de doações.
+EntityDescription_200,OBJ,A saída principal.
+EntityDescription_201,OBJ,Escadas para Tolstad.
+EntityDescription_202,OBJ,Antigo.
+EntityDescription_203,OBJ,Você se lembra do interior? O vazio se lembra de você.
+EntityDescription_204,OBJ,Um baú.
+EntityDescription_205,OBJ,Um goblin.
+EntityDescription_206,OBJ,Um goblin mais velho.
+EntityDescription_207,OBJ,Um goblin mais novo.
+EntityDescription_208,OBJ,"Claramente, um dos guarda-costas de Sageleaf."
+EntityDescription_209,OBJ,Uma resolvedora de óculos. Parece estar escrevendo num papel flutuante.
+EntityDescription_210,OBJ,Um sujeito suspeito.
+EntityDescription_211,OBJ,Parece que usam o mesmo chapéu. Tendência da moda?
+EntityDescription_212,OBJ,Um marinheiro goblin.
+EntityDescription_213,OBJ,Isso não parece seguro.
+EntityDescription_214,OBJ,Você ouve um assobio vindo das ruínas.
+EntityDescription_215,OBJ,Eles não estão dizendo nada interessante.
+EntityDescription_216,OBJ,Ele está checando um vazamento no cano. Ou algo assim.
+EntityDescription_217,OBJ,Um consertador de raízes. Trabalho duro.
+EntityDescription_218,OBJ,"[NEARLY, TOCANDO NO DIA 1.]"
+EntityDescription_219,OBJ,Um vigia. Desarmado.
+EntityDescription_220,OBJ,Ele está esperando.
+EntityDescription_221,OBJ,Um jardineiro com cara de cansado.
+EntityDescription_222,OBJ,"Um jardineiro, dominando seu ofício."
+EntityDescription_223,OBJ,Um goblin musculoso.
+EntityDescription_224,OBJ,Um goblin bem-vestido.
+EntityDescription_225,OBJ,Um goblin sem pelos. Legal.
+EntityDescription_226,OBJ,"Um livro grosso, encadernado em casca de árvore. Você não consegue abri-lo..."
+EntityDescription_227,OBJ,Para fora do jardim.
+EntityDescription_228,OBJ,Um túnel para o rio.
+EntityDescription_229,OBJ,Um pedido de ingredientes. Você certamente pode pegar alguns...
+EntityDescription_230,OBJ,Um túnel para o centro de Tolstad.
+EntityDescription_231,OBJ,Um túnel para o covil inferior.
+EntityDescription_232,OBJ,"Um cogumelo em vaso, escondido no canto."
+EntityDescription_233,OBJ,"Um cogumelo em vaso, cultivado por alguém habilidoso."
+EntityDescription_234,OBJ,<i>Cuidando do Jardim. Volto depois do almoço. -Nessan</i>
+EntityDescription_235,OBJ,Uma caixa grande. Você ouve algo lá dentro.
+EntityDescription_236,OBJ,Porta para o porto.
+EntityDescription_237,OBJ,É. Dá para escalar isso.
+EntityDescription_238,OBJ,Tem um monte de moedas escondidas neste saco de grãos!
+EntityDescription_239,OBJ,Uma caixa de cartuchos de tinta.
+EntityDescription_240,OBJ,Um elmo! Na... areia.
+EntityDescription_241,OBJ,"Estas maçãs parecem bem frescas, na verdade."
+EntityDescription_242,OBJ,É. Dá para comer umas duas.
+EntityDescription_243,OBJ,Uma dessas poções parece esotérica.
+EntityDescription_244,OBJ,Uns martelos. Um deles pode ser útil.
+EntityDescription_245,OBJ,Um pote chique na prateleira. Lá no alto.
+EntityDescription_246,OBJ,Uma poção cara repousa na prateleira de cima. Não há como você alcançar tão alto.
+EntityDescription_247,OBJ,Bicicletinhas.
+EntityDescription_248,OBJ,Uns pergaminhos enormes de Divinii Torum.
+EntityDescription_249,OBJ,Ele parece ansioso.
+EntityDescription_250,OBJ,Os olhos dela seguem você enquanto você passa.
+EntityDescription_251,OBJ,Um goblin sorrateiro.
+EntityDescription_252,OBJ,Um goblin vigia.
+EntityDescription_253,OBJ,O homem loiro não para de examinar a fachada do prédio.
+EntityDescription_254,OBJ,Uma mulher Urthfolk. Uma visão rara por essas bandas.
+EntityDescription_255,OBJ,Um tritão mexendo na fechadura da porta.
+EntityDescription_256,OBJ,Um goblin com uma expressão severa no rosto.
+EntityDescription_257,OBJ,Um goblin com cara de cansado. Ele bloqueia o caminho adiante.
+EntityDescription_258,OBJ,Uma placa diz: 'DORMITÓRIO - FORA DE COMISSÃO.' [sic]
+EntityDescription_259,OBJ,Túnel para Waterlane View. O som das docas ecoa lá do fundo.
+EntityDescription_260,OBJ,"A marca na porta diz 'Simii, filho de Strokeback'."
+EntityDescription_261,OBJ,"A caixa de correio diz: 'Snell, HWBT'."
+EntityDescription_262,OBJ,Uma gravura tosca na porta diz: 'R&A'.
+EntityDescription_263,OBJ,Túnel para o Jardim dos Goblins. Cheira a almíscar.
+EntityDescription_264,OBJ,Entrada principal do Drunk Sphinx.
+EntityDescription_265,OBJ,"<i>DRUNK SPHINX, ABRE ÀS 18:00.</i>"
+EntityDescription_266,OBJ,Caminho para Tolstad.
+EntityDescription_267,OBJ,"Um caminho sinuoso. Leva para fora, eventualmente."
+EntityDescription_268,OBJ,Um vão de acesso suspeito.
+EntityDescription_269,OBJ,Uma placa bonita na parede diz: 'Thalassos Glaukodopolis'.
+EntityDescription_270,OBJ,A porta diz: 'Reformas agendadas para 4-4-26.'
+EntityDescription_271,OBJ,Um Pilar quase intacto e infinitamente alto. A peça central de Norvik.
+EntityDescription_272,OBJ,Que raios...?
+EntityDescription_273,OBJ,Só uma porta.
+EntityDescription_274,OBJ,Tem umas moedas debaixo deste tijolo! ...Quem colocaria moedas debaixo de um <i>tijolo</i>?
+EntityDescription_275,OBJ,Uma prensa de cobre. A invenção mais importante da Era Arcana.
+EntityDescription_276,OBJ,O banheiro. Está surpreendentemente limpo por dentro.
+EntityDescription_277,OBJ,Um símbolo glorioso e poderoso de um campeão Vyz-Kha.
+EntityDescription_278,OBJ,Uma das caixas do Snell.
+EntityDescription_279,OBJ,É um pouco alto...
+EntityDescription_280,OBJ,Uma lanterna de pedra luminosa produzida em massa.
+EntityDescription_281,OBJ,Material caro.
+EntityDescription_282,OBJ,Obra do Snell.
+EntityDescription_283,OBJ,Você sabe aonde isto leva. Você é muito esperto.
+EntityDescription_284,OBJ,"Uma coleção de livros. Políticos, na maioria."
+EntityDescription_285,OBJ,Tem algo preso entre as páginas...
+EntityDescription_286,OBJ,Um pergaminho de magia. Você poderia memorizá-lo rapidinho.
+EntityDescription_287,OBJ,Tem algo no fundo. Moedas?
+EntityDescription_288,OBJ,Uma pena mágica e papel.
+EntityDescription_289,OBJ,Uma estátua de Urth. Quem deixou isto aqui?
+EntityDescription_290,OBJ,"Uma estátua de Urth, em meio à labuta de seus trabalhadores."
+EntityDescription_291,OBJ,Um goblin chique.
+EntityDescription_292,OBJ,O anão está inspecionando a parede.
+EntityDescription_293,OBJ,Um velho move caixas junto à água.
+EntityDescription_294,OBJ,O homem está encharcado. Até os ossos.
+EntityDescription_295,OBJ,"[NEARLY, TOCANDO VIOLÃO NO SEGUNDO DIA.]"
+EntityDescription_296,OBJ,Algumas moedas. Desejos nunca realizados.
+EntityDescription_297,OBJ,"Ei, esta pedra está... meio solta."
+EntityDescription_298,OBJ,Túnel longo até Pillar Crossing.
+EntityDescription_299,OBJ,A Companhia de Comércio Askanii-Reeds.
+EntityDescription_300,OBJ,Uma placa diz: '<i>Estamos fechados hoje. -Equipe AR</i>'
+EntityDescription_301,OBJ,Entrada superior da Companhia de Comércio Askanii-Reeds.
+EntityDescription_302,OBJ,Aquela janela parece... abrível.
+EntityDescription_303,OBJ,A janela está aberta para você.
+EntityDescription_304,OBJ,Entrada das docas da Cia. de Comércio AR.
+EntityDescription_305,OBJ,"'Escritório de Snurre Appledent, PN.'"
+EntityDescription_306,OBJ,Um caminho ao longo da água.
+EntityDescription_307,OBJ,Subindo.
+EntityDescription_308,OBJ,Descendo. Bem lá embaixo.
+EntityDescription_309,OBJ,A porta lá embaixo leva ao armazém. Só Freestriders e trabalhadores da guilda podem entrar.
+EntityDescription_310,OBJ,Uma escotilha de cargas. Tem uma corda do lado de dentro.
+EntityDescription_311,OBJ,Diz: 'S. Yêlan & Filhos.'
+EntityDescription_312,OBJ,Uma placa de rua. Diz: 'Superior: W. View - Inferior: W. Docks'.
+EntityDescription_313,OBJ,A 'Companhia de Comércio Askanii-Reeds' - com aquele logo característico dos Freestriders.
+EntityDescription_314,OBJ,Tem uma fenda na porta aqui.
+EntityDescription_315,OBJ,Um bilhete na porta diz: 'Abre ao Pôr do Sol'.
+EntityDescription_316,OBJ,Uma escotilha de cargas.
+EntityDescription_317,OBJ,Uma caixa cheia de refrigerantes estragados. Um deles parece bom para beber.
+EntityDescription_318,OBJ,Esta porta parece... promissora.
+EntityDescription_319,OBJ,Esta lixeira está fazendo um barulho. Um barulho estranho. Que estranho.
+EntityDescription_320,OBJ,A porta dos fundos do Coinlord. Hehe.
+EntityDescription_321,OBJ,Uma baleia de muitas cores.
+EntityDescription_322,OBJ,Tem um compartimento secreto aqui atrás...
+EntityDescription_323,OBJ,Um elmo de cavaleiro! Deve ser sobra. Pegue.
+EntityDescription_324,OBJ,"Um LR de Norvik, um LR de uma garota e um recorte de jornal sobre o Coinlord."
+EntityDescription_325,OBJ,"Um baú, lá no alto."
+EntityDescription_326,OBJ,A saída.
+EntityDescription_327,OBJ,Um glorioso santuário ao único e inigualável Urth.
+EntityDescription_328,OBJ,Um ótimo lugar para dormir. Relativamente falando.
+EntityDescription_329,OBJ,Uma pilha de livros sobre teologia e história.
+EntityDescription_330,OBJ,Uma pilha de registros cobertos de selos oficiais da cidade.
+EntityDescription_331,OBJ,Um calendário de cobre!
+EntityDescription_332,OBJ,[Obrigado por jogar a demo!]
+EntityDescription_333,OBJ,[Obrigado por jogar a demo! Aqui vai uma recompensinha inicial.]
+EntityDescription_334,OBJ,Um cara. Parece indeciso.
+EntityDescription_335,OBJ,Um cara. Ele não está se mexendo.
+EntityDescription_336,OBJ,Tem uma porta dentro deste túnel.
+EntityDescription_337,OBJ,Uma escada em espiral. Arquitetura antiga.
+EntityDescription_338,OBJ,"Escadas que descem, bem fundo na Cidade Abaixo."
+EntityDescription_339,OBJ,Uma espada quebrada está cravada neste barril. Parece velha.
+EntityDescription_340,OBJ,"Isto não é seu, é?"
+EntityDescription_341,OBJ,É um cadáver. Debaixo de um cobertor.
+EntityDescription_342,OBJ,Um vaso de folhas. Cheira maravilhosamente.
+EntityDescription_343,OBJ,Esta parece boa.
+EntityDescription_344,OBJ,Uma pilha de maçãs.
+EntityDescription_345,OBJ,"Um santuário divino, coberto de maçãs."
+EntityDescription_346,OBJ,"Escritura divina, onde não deveria estar."
+EntityDescription_347,OBJ,Uma maçã. Parece melhor que as da pilha.
+EntityDescription_348,OBJ,Um pedaço de papel muito importante.
+EntityDescription_349,OBJ,Uma caixa cheia de areia.
+EntityDescription_350,OBJ,Uma cesta de maçãs. Algumas parecem mais ou menos.
+EntityDescription_351,OBJ,"Uma caixa quase vazia, exceto por uma guloseima velha e uma bolsinha."
+EntityDescription_352,OBJ,Diz: 'Cânticos de Urth'.
+EntityDescription_353,OBJ,"Ah, não! Alguém morreu!"
+EntityDescription_354,OBJ,Um pergaminho de magia arcana. É antigo.
+EntityDescription_355,OBJ,Um pergaminho preso por um cordão de clérigo.
+EntityDescription_356,OBJ,É chegada a hora. Você despertará.
+EntityDescription_357,OBJ,"Uma lâmina padrão da Guarda de Urth, levemente quebrada."
+EntityDescription_358,OBJ,"Ai, deuses. Tem vários quitutes velhos aqui."
+EntityDescription_359,OBJ,Os trabalhadores do moinho de rolos guardavam mais que registros em seu arquivo.
+EntityDescription_360,OBJ,"Espera, aquilo é...?"
+EntityDescription_361,OBJ,Queda longa. Deve ser seguro.
+EntityDescription_362,OBJ,Tem algo preso na engrenagem...
+EntityDescription_363,OBJ,Escadas de mão. A forma mais direta de ascensão.
+EntityDescription_364,OBJ,Perto da água. Não caia de novo.
+EntityDescription_365,OBJ,Saia.
+EntityDescription_366,OBJ,Até o telhado.
+EntityDescription_367,OBJ,"Um monte de regras de <i>SEGURANÇA NO LOCAL</i>. Depois diz: <i>Em caso de infração, contate seu representante sindical local</i>."
+EntityDescription_368,OBJ,Isto deve levar ao resto do moinho de rolos.
+EntityDescription_369,OBJ,Escada para baixo. Vai até... Pillar Crossing.
+EntityDescription_370,OBJ,Um túnel escuro. Sinistro.
+EntityDescription_371,OBJ,Uma 'parede' bloqueia este túnel. Como abri-la?
+EntityDescription_372,OBJ,Um botão.
+EntityDescription_373,OBJ,O caminho para cima.
+EntityDescription_374,OBJ,Quem não ama uma boa alavanca?
+EntityDescription_375,OBJ,Tem algo nesta caixa. Quem diria.
+EntityDescription_376,OBJ,Mais poções.
+EntityDescription_377,OBJ,Um monte de poções!
+EntityDescription_378,OBJ,Uma caixa de poções vencidas.
+EntityDescription_379,OBJ,Um estoque de escrituras sagradas?!
+EntityDescription_380,OBJ,Espiar dentro deste cofre revela... AH! SANTA MERDA!
+EntityDescription_381,OBJ,Várias bolsas. Uma delas... parece interessante.
+EntityDescription_382,OBJ,Por pouco longe demais para alcançar...
+EntityDescription_383,OBJ,Está POR POUCO fora do alcance.
+EntityDescription_384,OBJ,Ah... ah...!
+EntityDescription_385,OBJ,A saída.
+EntityDescription_386,OBJ,Já foi assento para clientes.
+EntityDescription_387,OBJ,Montes do que antes era porcelana.
+EntityDescription_388,OBJ,Só resta a base de pedra.
+EntityDescription_389,OBJ,Você vê uma porta de ferro sob entulho e fuligem.
+EntityDescription_390,OBJ,É um milagre a câmara não ter desabado por completo.
+EntityDescription_391,OBJ,...uma mesa virada. Parece pesada.
+EntityDescription_392,OBJ,Papel aparentemente é fraco contra o fogo.
+EntityDescription_393,OBJ,Uma moldura sem pintura.
+EntityDescription_394,OBJ,"Ah, o que é isto?"
+EntityDescription_395,OBJ,Uma mesa quebrada. Ou prateleira? Enfim.
+EntityDescription_396,OBJ,Ele é o segundo da fila.
+EntityDescription_397,OBJ,Um homem peludo e sem camisa respira fundo em meio ao canteiro de obras.
+EntityDescription_398,OBJ,A mulher mais velha parece irritada.
+EntityDescription_399,OBJ,A garota tenta ignorar a mãe.
+EntityDescription_400,OBJ,Estas escadas descem muito abaixo da cidade.
+EntityDescription_401,OBJ,Ele é o primeiro da fila.
+EntityDescription_402,OBJ,Ele parece nervoso.
+EntityDescription_403,OBJ,"Um guerreiro de armadura de ferro, de mau agouro."
+EntityDescription_404,OBJ,É a hora.
+EntityDescription_405,OBJ,O ar lá fora é salgado.
+EntityDescription_406,OBJ,A eleição se aproxima. Faltam quatro dias.
+EntityDescription_407,OBJ,A eleição se aproxima. Faltam três dias.
+EntityDescription_408,OBJ,"A eleição é muito, muito em breve."
+EntityDescription_409,OBJ,Um caminho para baixo. Um caminho <i>secreto</i>.
+EntityDescription_410,OBJ,Uma corrente de ar?
+EntityDescription_411,OBJ,"Uma grandiosa escultura em madeira de Urth, Pai de Norvik."
+EntityDescription_412,OBJ,Este piso está solto...
+EntityDescription_413,OBJ,Você vê algo brilhante na terra.
+EntityDescription_414,OBJ,Uma chave com um bilhete: <i>Você é digno.</i>
+EntityDescription_415,OBJ,<i>DIA DE ELEIÇÃO - A FILA COMEÇA AQUI.</i>
+EntityDescription_416,OBJ,<i>BEBIDAS GRÁTIS - Oferecimento da COMPANHIA DE COMÉRCIO ASKANII-REEDS.</i>
+EntityDescription_417,OBJ,O sneal larga uma bolsa diante de você.
+EntityDescription_418,OBJ,Um anão muito feliz.
+EntityDescription_419,OBJ,Hora de pescar.
+EntityDescription_420,OBJ,Sonolento de um jeito contagiante.
+EntityDescription_421,OBJ,Ela está respirando fundo.
+EntityDescription_422,OBJ,"Dois goblins untados de graxa, discutindo planos."
+EntityDescription_423,OBJ,"Dois goblins untados de graxa, brigando por causa de graxa."
+EntityDescription_424,OBJ,Um anão um tanto falante.
+EntityDescription_425,OBJ,Ela parece feliz.
+EntityDescription_426,OBJ,O rapaz está consertando alguma coisa.
+EntityDescription_427,OBJ,A voz dela ecoa por toda a rua.
+EntityDescription_428,OBJ,"""Sim, sim. Estou aqui."""
+EntityDescription_429,OBJ,Uma travessura de ratos.
+EntityDescription_430,OBJ,Um barril cheio de graxa. Dá para sentir o cheiro daqui.
+EntityDescription_431,OBJ,Jornais grátis.
+EntityDescription_432,OBJ,"<i>'NADA DE ASSUNTO DE ELEIÇÃO, BRUT. DORMINDO.'</i>"
+EntityDescription_433,OBJ,Um anão trabalhando.
+EntityDescription_434,OBJ,Aquilo é um anão? É sim.
+EntityDescription_435,OBJ,"Olha, um anão!"
+EntityDescription_436,OBJ,Quantos anões.
+EntityDescription_437,OBJ,Uau. É um anão.
+EntityDescription_438,OBJ,Pois é. Isso é um anão mesmo.
+EntityDescription_439,OBJ,O goblin parece estar pegando no sono.
+EntityDescription_440,OBJ,Um goblin entediado.
+EntityDescription_441,OBJ,Ele está de vigia. Ou algo assim.
+EntityDescription_442,OBJ,Ela está encarando você.
+EntityDescription_443,OBJ,Um anão um tanto misterioso.
+EntityDescription_444,OBJ,Um anão de aspecto escorregadio.
+EntityDescription_445,OBJ,O humano de manto observa você passar.
+EntityDescription_446,OBJ,A ferramenta mais útil de toda a história humana.
+EntityDescription_447,OBJ,A escotilhazinha na porta está aberta. Uma baforada de fumaça escapa dela.
+EntityDescription_448,OBJ,Quem é aquele zanzando na casa de chá?
+EntityDescription_449,OBJ,Antigo barril de cerveja.
+EntityDescription_450,OBJ,Um barril 'vazio'.
+EntityDescription_451,OBJ,Uma lixeira. Em sua maioria empilhada de zines velhos.
+EntityDescription_452,OBJ,Uma lixeira. Em sua maioria empilhada de zines velhos. E...
+EntityDescription_453,OBJ,Barris de água vazios.
+EntityDescription_454,OBJ,Maçã sorrateira.
+EntityDescription_455,OBJ,Descendo para a casa de lich.
+EntityDescription_456,OBJ,Um cheiro úmido e rançoso vindo de baixo.
+EntityDescription_457,OBJ,Você ouve ecos lá dentro. Isto leva a Pillar Crossing.
+EntityDescription_458,OBJ,Escadas descendo para o Drunk Sphinx.
+EntityDescription_459,OBJ,O Templo central de Urth.
+EntityDescription_460,OBJ,A casa de chá que explodiu.
+EntityDescription_461,OBJ,A porta dos fundos do Magister. Parece apertada.
+EntityDescription_462,OBJ,Entrada da antiga Torre da Guarda.
+EntityDescription_463,OBJ,Você ouve o estaleiro mais adiante.
+EntityDescription_464,OBJ,Você ouve o girar sem fim de engrenagens lá dentro.
+EntityDescription_465,OBJ,Maquinário em funcionamento lá dentro.
+EntityDescription_466,OBJ,O barulho lá embaixo é ensurdecedor.
+EntityDescription_467,OBJ,"Um túnel longo, em direção aos Buracos."
+EntityDescription_468,OBJ,Cheira a mofo úmido aqui dentro.
+EntityDescription_469,OBJ,"Em Norvik, um cano como este pode levar a qualquer lugar."
+EntityDescription_470,OBJ,[Obrigado por jogar a demo! Aqui vai uma recompensinha.]
+EntityDescription_471,OBJ,Tem algo dentro deste vaso velho...
+EntityDescription_472,OBJ,"Cuidado, pregos."
+EntityDescription_473,OBJ,Uma árvore que se ergue muito acima. Uma mostra da verdadeira força da natureza.
+EntityDescription_474,OBJ,"<i>'DORMINDO. PARA ATENDIMENTO, VOLTE DEPOIS DA MEIA-NOITE, MAIS OU MENOS.'</i>"
+EntityDescription_475,OBJ,"Algo se move dentro deste barraco. Isso não deveria ser estranho, mas de alguma forma é."
+EntityDescription_476,OBJ,A casa de chá.
+EntityDescription_477,OBJ,Um cantinho colorido de Tolstad.
+EntityDescription_478,OBJ,Há um item mágico escondido na terra. Muito legal.
+EntityDescription_479,OBJ,"Coberto de mato, antigo, meio interessante."
+EntityDescription_480,OBJ,Oeste - Rota de Tol. Norte - Casa Darrow.
+EntityDescription_481,OBJ,Diz 'DARROW HOUSE' em letras mágicas brilhantes.
+EntityDescription_482,OBJ,Uma fileira de bicicletas. Uma delas se destaca para você.
+EntityDescription_483,OBJ,A macieira do Magistrado. É uma Brachen.
+EntityDescription_484,OBJ,É uma árvore muito bonita.
+EntityDescription_485,OBJ,Tem algo preso numa das lâminas do moinho de rolos.
+EntityDescription_486,OBJ,Uma placa de rua. Dá para olhar para ela?
+EntityDescription_487,OBJ,As letras espectrais formam 'Pillar Crossing'.
+EntityDescription_488,OBJ,A placa mostra uma Esfinge com uma taça de vinho.
+EntityDescription_489,OBJ,As letras toscas formam <i>APARTAMENTOS NOSSA SENHORA</i>.
+EntityDescription_490,OBJ,"Diz 'VISKEN'S LICHHOUSE', mas o '& DENTISTRY' está riscado."
+EntityDescription_491,OBJ,Arte de parede goblin.
+EntityDescription_492,OBJ,"Cartazes velhos e desbotados, pregados na parede. Ilegíveis."
+EntityDescription_493,OBJ,"Cartazes realmente legíveis. Ainda assim, meio velhos."
+EntityDescription_494,OBJ,Uma sacola. Parece engordurada.
+EntityDescription_495,OBJ,"Um ninho de pássaro escondidinho. Gaivotas Askanii, talvez?"
+EntityDescription_496,OBJ,Quem deixou este balde aqui?
+EntityDescription_497,OBJ,"Um santuário divino, abandonado há décadas."
+EntityDescription_498,OBJ,"O banner diz: ""<b>Autonomous Construction Inc.</b> - Mão de obra invisível qualificada desde 11 EP."""
+EntityDescription_499,OBJ,Uma carta enfiada entre algumas telhas.
+EntityDescription_500,OBJ,Um saco cheio de... cimento? Tem outra coisa nele também.
+EntityDescription_501,OBJ,Esta caixa tem algo dentro...
+EntityDescription_502,OBJ,Uma peça de história verdadeiramente antiga - escorada como decoração de jardim.
+EntityDescription_503,OBJ,Isso tem cara de situação de raposa e/ou uvas.
+EntityDescription_504,OBJ,Aquele ali tem algo brilhante dentro...
+EntityDescription_505,OBJ,"Uma etiqueta no saco diz: ""<b>Autonomous Construction Inc.</b> - Mão de obra invisível qualificada desde 11 EP."""
+EntityDescription_506,OBJ,Maçãs frescas. A maioria delas.
+EntityDescription_507,OBJ,Estátua de gatinho fofa. Mas com um... olho brilhante?
+EntityDescription_508,OBJ,Quem colocou isso aí?
+EntityDescription_509,OBJ,Hm...?
+EntityDescription_510,OBJ,Tem algo nesta rachadura...
+EntityDescription_511,OBJ,"Ah, outra rachadura!"
+EntityDescription_512,OBJ,Você poderia escalar isto. Provavelmente.
+EntityDescription_513,OBJ,Hum.
+EntityDescription_514,OBJ,Brilhante.
+EntityDescription_515,OBJ,Uma chave com um bilhete: <i>Clérigo. Vá dormir.</i>
+EntityDescription_516,OBJ,Um sujeito qualquer. O rosto dele está oculto.
+EntityDescription_517,OBJ,Um relógio de bolso. Seu?
+EntityDescription_518,OBJ,Quase uma espada inteira.
+EntityDescription_519,OBJ,Não. Leitura demais.
+EntityDescription_520,OBJ,Seu destino um dia.
+EntityDescription_521,OBJ,Um pote cheio de pedras estranhas.
+EntityDescription_522,OBJ,Um barril cheio de pedras estranhas.
+EntityDescription_523,OBJ,Uma visão triste.
+EntityDescription_524,OBJ,O elfo morto.
+EntityDescription_525,OBJ,Uma parede ilusória?
+EntityDescription_526,OBJ,Um baú destrancado cheio de pedras estranhas.
+EntityDescription_527,OBJ,Uma bandeja de incenso velho. Um pouco ainda é utilizável.
+EntityDescription_528,OBJ,O cheiro de sal.
+EntityDescription_529,OBJ,É ainda mais frio lá embaixo.
+EntityDescription_530,OBJ,Um pote vazio...
+EntityDescription_531,OBJ,Cogumelos. Provavelmente comestíveis.
+EntityDescription_532,OBJ,Um manual aberto de geometria esotérica. Isso você já sabe.
+EntityDescription_533,OBJ,Um tomo grosso repousa sobre a laje de ferro.
+EntityDescription_534,OBJ,Um pergaminho de magia arcana. Truque?
+EntityDescription_535,OBJ,Um bilhete ao lado diz: <i>Itens mágicos pertencentes ao falecido</i>.
+EntityDescription_536,OBJ,Espera... aquilo é...?
+EntityDescription_537,OBJ,Tolstad Superior.
+EntityDescription_538,OBJ,Torre da Guarda
+EntityDescription_539,OBJ,Jardim dos Goblins
+EntityDescription_540,OBJ,Pillar Crossing
+EntityDescription_541,OBJ,Waterlane View
+EntityDescription_542,OBJ,Templo de Urth
+EntityDescription_543,OBJ,Moinho de Rolos
+EntityDescription_544,OBJ,Drunk Sphinx
+EntityDescription_545,OBJ,Barraco do Syd
+EntityDescription_546,OBJ,Um barril cheio de folhas. Folhas fedidas.
+EntityDescription_547,OBJ,Um santuário de Urth.
+EntityDescription_548,OBJ,"Um cântico antigo. Para você, significa... VERDADE."
+EntityName_0,,Akzel
+EntityName_1,,Alfoz
+EntityName_2,,Arn
+EntityName_3,,Avikness
+EntityName_4,,Bondavol
+EntityName_5,,Borgo
+EntityName_6,,Braxo
+EntityName_7,,Brrr
+EntityName_8,,Chamar
+EntityName_9,,Caranguejo
+EntityName_10,,Darrow
+EntityName_11,,Doden
+EntityName_12,,Domnall
+EntityName_13,,Baterista
+EntityName_14,,Ettir
+EntityName_15,,Ever-Glad
+EntityName_16,,Frey
+EntityName_17,,Roper
+EntityName_18,,Esqueleto
+EntityName_19,,Zumbi
+EntityName_20,,Gorm
+EntityName_21,,Gourgalash
+EntityName_22,,Grifo
+EntityName_23,,Iom
+EntityName_24,,Isk
+EntityName_25,,Ivcx
+EntityName_26,,Jehanne
+EntityName_27,,Kraaid
+EntityName_28,,Kullervo
+EntityName_29,,Lib
+EntityName_30,,Lisa
+EntityName_31,,Mascarado
+EntityName_32,,Meek
+EntityName_33,,Meriadoc
+EntityName_34,,Miska
+EntityName_35,,Modissa
+EntityName_36,,Moongore
+EntityName_37,,Nearly
+EntityName_38,,Nessan
+EntityName_39,,Olzis
+EntityName_40,,Ost
+EntityName_41,,Oyu
+EntityName_42,,PC
+EntityName_43,,Pinja
+EntityName_44,,PinjaDead
+EntityName_45,,Pot
+EntityName_46,,Razz
+EntityName_47,,Rixbiter
+EntityName_48,,Rollo
+EntityName_49,,Romulus
+EntityName_50,,Gaivota
+EntityName_51,,Shen
+EntityName_52,,Simii
+EntityName_53,,Sir Triban
+EntityName_54,,Smarter
+EntityName_55,,Snurre
+EntityName_56,,Stenbusken
+EntityName_57,,Thalassos
+EntityName_58,,Tinn
+EntityName_59,,Toli
+EntityName_60,,Urth-Nisse
+EntityName_61,,Urth
+EntityName_62,,Vattar
+EntityName_63,,Viira
+EntityName_64,,Visken
+EntityName_65,,Xerba
+EntityName_66,,Yxkraft
+EntityName_67,,CompanionBase
+EntityName_68,,ENTITY
+EntityName_69,,NPC
+EntityName_70,,OBJ
+EntityName_71,,Porta de Mão Única
+EntityName_72,,Capa de Mímico
+EntityName_73,,Cadáver Frio
+EntityName_74,,Árvore Imponente
+EntityName_75,,Arte Goblin
+EntityName_76,,Cartazes
+EntityName_77,,Ninho de Pássaro
+EntityName_78,,Coisa do Lago
+EntityName_79,,Caixas HWBT + Fogão Esotérico
+EntityName_80,,Bond
+EntityName_81,,Corredor Sinistro
+EntityName_82,,Rûn Fackla
+EntityName_83,,Rûn Fackla Sinistro
+EntityName_84,,Cubo Gelatinoso
+EntityName_85,,Porta Escondida
+EntityName_86,,Caracol-Granizo Gigantesco
+EntityName_87,,Dançarino
+EntityName_88,,Pilar de Jor
+EntityName_89,,Aventureiro Morto
+EntityName_90,,Coluna Grande
+EntityName_91,,Lorde Puu
+EntityName_92,,Crânio de Crina Branca
+EntityName_93,,Santuário de Crina Branca
+EntityName_94,,Da Pilha...
+EntityName_95,,OWD
+EntityName_96,,Calendário de Crina Branca
+EntityName_97,,Perguntas
+EntityName_98,,Bocarra da Besta
+EntityName_99,,Porta do Mistério
+EntityName_100,,Mago Petrificado
+EntityName_101,,Placa de Não é um Mímico
+EntityName_102,,Baú Suspeito
+EntityName_103,,Parede Depois das Raízes
+EntityName_104,,Porta da Cripta
+EntityName_105,,Mural
+EntityName_106,,Caixão de Pedra
+EntityName_107,,Crânio de Dragão
+EntityName_108,,Pilha de Crânios
+EntityName_109,,Livro Esotérico
+EntityName_110,,Poço Primal
+EntityName_111,,Pinturas Rupestres
+EntityName_112,,Topo da Ruína
+EntityName_113,,Fundo da Ruína
+EntityName_114,,Muitos Livros
+EntityName_115,,Vozinha Minúscula
+EntityName_116,,Crânio de Goblin
+EntityName_117,,Santuário no Escuro
+EntityName_118,,Câmara dos Convidados
+EntityName_119,,Câmara dos Reinos
+EntityName_120,,Porta de Ferro Oeste
+EntityName_121,,Porta de Ferro Leste
+EntityName_122,,Porta de Ferro Sul
+EntityName_123,,Porta de Ferro Norte
+EntityName_124,,Meri
+EntityName_125,,Troll Adormecido
+EntityName_126,,Vâtte Estranho
+EntityName_127,,Broto Congelado
+EntityName_128,,Raízes Despertas
+EntityName_129,,Fundo das Ruínas do Caracol
+EntityName_130,,Topo das Ruínas do Caracol
+EntityName_131,,Labirinto
+EntityName_132,,Mural Antigo
+EntityName_133,,Santuário de Urth
+EntityName_134,,Cofre Freestrider Escondido
+EntityName_135,,Hemisfério
+EntityName_136,,Poço Velho
+EntityName_137,,Barris Bloqueadores
+EntityName_138,,Jukebox
+EntityName_139,,Tigela de Doações
+EntityName_140,,"Caixa, com um Barulho de Batida Rítmica Vindo de Dentro"
+EntityName_141,,Cartuchos de Tinta
+EntityName_142,,Mini-Motos Defuntas
+EntityName_143,,Porta Azgal
+EntityName_144,,O Pilar de Jor
+EntityName_145,,Portão Brilhante
+EntityName_146,,Prensa de Cobre
+EntityName_147,,Lanterna de Pedra Luminosa
+EntityName_148,,"Lanterna de Pedra Luminosa, Consertada"
+EntityName_149,,Cama do Snell
+EntityName_150,,Quadro
+EntityName_151,,Literatura
+EntityName_152,,Estatueta de Urth
+EntityName_153,,Janela
+EntityName_154,,O Encadernador
+EntityName_155,,Escotilha
+EntityName_156,,Casa da Esquina
+EntityName_157,,Casa Mittel
+EntityName_158,,Lixeira
+EntityName_159,,Saco de Dormir
+EntityName_160,,Pilha de Livros
+EntityName_161,,Arquivos
+EntityName_162,,Calendário
+EntityName_163,,Pilha Central de Maçãs
+EntityName_164,,Caixa de Areia
+EntityName_165,,Topo da Escada
+EntityName_166,,Cubo de Estresse
+EntityName_167,,Pé da Escada
+EntityName_168,,Moinho de Rolos Inferior
+EntityName_169,,Botão Estranho
+EntityName_170,,Alavanca
+EntityName_171,,Caixa Coberta
+EntityName_172,,Caixa de Poções
+EntityName_173,,Martelo de Guerra Atrás das Grades
+EntityName_174,,Cabines
+EntityName_175,,Xícaras de Chá Quebradas
+EntityName_176,,Balcão
+EntityName_177,,Porta de Ferro Torta
+EntityName_178,,Entulho
+EntityName_179,,Mesa Virada
+EntityName_180,,Zines Chamuscados
+EntityName_181,,Moldura Arruinada
+EntityName_182,,Porta Secreta
+EntityName_183,,Cofre Escondido
+EntityName_184,,Anão Votando Intensamente
+EntityName_185,,A Urna
+EntityName_186,,Urnas
+EntityName_187,,Pedras Soltas
+EntityName_188,,Estátua
+EntityName_189,,Piso Solto nos Fundos do Templo
+EntityName_190,,Cano Misterioso
+EntityName_191,,Cinco Ratos
+EntityName_192,,Outro Sending
+EntityName_193,,Um Sending
+EntityName_194,,Gato Preto
+EntityName_195,,Porta Suspeita
+EntityName_196,,Entrada da Casa de Chá
+EntityName_197,,Jardim de Flores
+EntityName_198,,Monumento do Jardim
+EntityName_199,,A Bicicleta
+EntityName_200,,Galho de Macieira Inferior
+EntityName_201,,Galho de Macieira Superior
+EntityName_202,,Haste Estranha
+EntityName_203,,Placa de Rua
+EntityName_204,,Estátua de Gato Curioso
+EntityName_205,,Pote Vazio
+EntityName_206,,Muralha de Tolstad
+EntityName_207,,Bolsão Esotérico
+EntityName_208,,Livros Esotéricos
+EntityName_209,,Elfo Morto
+EntityName_210,,Tomo Antigo
+EntityName_211,,Livros Estranhos
+EntityName_212,,SANTUÁRIO
+EntityName_213,,Pergaminho de Magia - Zona de Verdade
+Entity_NameChange_0,,Formiga Crânio
+Entity_NameChange_1,,<shake>Rugido do Pilar</shake>
+Entity_NameChange_2,,"Frank, filho de Frank"
+Entity_NameChange_3,,Crânio Estranho
+Entity_NameChange_4,,Lorde Erudito Fetternax Cividix
+Entity_NameChange_5,,Snurre
+Entity_NameChange_6,,Giorgio Valzantigo
+Entity_NameChange_7,,O Cadáver
+Entity_NameChange_8,,"Criminity, o Caranguejo"
+Entity_NameChange_9,,Botas Élficas

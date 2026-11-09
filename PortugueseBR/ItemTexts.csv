@@ -1,0 +1,570 @@
+ID,PT
+ItemDesc_1,"Coroas Urth. A moeda oficial cunhada no Riksbank de Norvik. Essas moedas de prata valem mais ao longo do Rio Torna, já que o 'Alcance do Rio' norvikiano dá apoio ao comércio e ao tráfico em geral."
+ItemDesc_2,"Uma maçã pulsando com energia esotérica. Uma só basta para encher um homem adulto por um dia inteiro. Mas você provavelmente conseguiria comer uma dúzia.
+
++1 PV"
+ItemDesc_3,Praticamente o seu rosto.
+ItemDesc_4,"Pena de gaivota. Colocá-la na cabeça te dá um ar de superioridade, poder masculino e Retidão com R maiúsculo, <b>Retidão</b>."
+ItemDesc_5,Incenso. Especiarias e ervas de fácil combustão. Pode ser usado para recuperar espaços de magia de 1º nível.
+ItemDesc_6,"Uma pedra brilhante. Cabe direitinho na sua mão. Elas podem ser encontradas por toda Norvik, e alguns especulam que todas sejam fragmentos do Pilar de Jor. Para mãos destreinadas, não têm valor algum. Mas você talvez possa usá-las para alterar o próprio destino...
+
+Gaste em diálogos para liberar testes de dados."
+ItemDesc_7,"Pó de um moedor de ossos. Muito fino e levemente cintilante. Feito de chifre de unicórnio ou osso de baleia, ou algo assim. Pode ser usado para recuperar espaços de magia de 2º nível."
+ItemDesc_8,"Uma garrafa de leite fresquinho, recém-espremido. O rótulo diz que foi produzido nas Colinas, então é o melhor dos melhores.
+
++5 PV"
+ItemDesc_9,"Um clássico askanii. Contém uma bebida gaseificada com gosto de cerveja, mas sem nenhuma das desvantagens! Então, na verdade, não tem problema você beber isto, já que não é alcoólico. 
+
+Concede um pequeno aumento de Carisma por uma semana."
+ItemDesc_10,Pequenas quantidades de Essência de Pixie incorporadas a um adesivo grudento. Pode ser usado para recuperar espaços de magia de 3º nível.
+ItemDesc_11,"Uma maçã cultivada em Tolstad. As cores ondulam pela superfície. Comê-la vai salvar a sua alma.
+
++1 PV"
+ItemDesc_12,"
+Este pote de vidro, de 3 polegadas de diâmetro, contém um punhado de doses de uma mistura espessa com um leve cheiro de aloe. O pote e seu conteúdo pesam meia libra. Como uma ação, uma dose do unguento pode ser engolida ou aplicada na pele.
+
++10 PV"
+ItemDesc_13,"Um pão assado tradicional norvikiano. É famoso por toda a Costa - ou, se não for, deveria ser.
+
++5 PV"
+ItemDesc_14,"Popular em Reeds. Uma gororoba reluzente, pronta para deixar seus reflexos em dia. 
+
+Concede um pequeno aumento de Destreza por uma semana."
+ItemDesc_15,"Uma poção de cura comum. O rótulo diz: <i>HEXBREW INKORPORATION, 6 PE</i>.
+
++2d4+2 PV"
+ItemDesc_16,"Uma poção de cura suprema. Vibra na sua mão, mas fora isso parece, mais ou menos, uma poção de cura normal. O rótulo diz: <i>PARA OS SERES MAIS FORTES</i>.
+
++10d4+20 PV"
+ItemDesc_17,"Uma carne misteriosa acima de tudo. O fato de você conseguir digeri-la é prova suficiente da sua masculinidade, e também da saúde industriosa do seu trato digestivo.
+
++7 PV"
+ItemDesc_18,"Cogumelos fermentados, geralmente produzidos por covens. Devem ter décadas - os caroços parecem se mexer um pouquinho. 
+
+Concede um pequeno aumento de Sabedoria por uma semana."
+ItemDesc_19,"Uma pequena bola de esporos de fungo. Podem ser cultivadas ao longo da Subcosta. Fazem maravilhas pelas suas entranhas. Não alteram a mente. Provavelmente.
+
++3 PV"
+ItemDesc_20,"Uma poção comum conhecida por fazer o conhecimento grudar com mais facilidade. Muito usada por estudantes. 
+
+Concede um pequeno aumento de Inteligência por uma semana."
+ItemDesc_21,"Um frasco de água de rio abençoada de Vourgeni, terra dos gigantes. Popular entre a Guarda Urth. Costuma vir rotulado como 'NÃO É SANGUE'. 
+
+Concede um pequeno aumento de Força por uma semana."
+ItemDesc_22,"Uma bebida refrescante, abençoada pela divindade - senão por que mais ela queimaria tão bem? 
+
+Concede um pequeno aumento de Constituição por uma semana."
+ItemDesc_23,O elmo coberto de mato de um soldado da Era do Desvanecer. Foi uma época em que todo combatente usava itens mágicos da cabeça aos pés.
+ItemDesc_24,O elmo de um paladino da Era Arcana. Produzido em massa para as legiões da Guerra da Costa. Extremamente estiloso.
+ItemDesc_25,"Tirado de um morto-vivo na Cidade Abaixo. Este elmo foi usado nos primórdios de Norvik, por aqueles poderosos clérigos lançadores de magia que serviram Urth em sua reconquista. Ainda tem algumas runas esotéricas brilhantes na parte de dentro:
+
+<i>Berg-grûnden skakar av er makt, dû trollkarl af Urth. Mâ marken fôr evigt vara dîn.</i>"
+ItemDesc_26,"O elmo de um mercenário Freestrider. Um projeto eficaz graças ao formato arredondado, que desvia golpes, e à proteção estendida para o rosto e o pescoço. Muito caro. Faz você parecer um nobre clerical. Mas é pesado. Vai ser cansativo usar isto."
+ItemDesc_27,"Uma ferramenta clássica que mostra a engenhosidade humana. Carrega água muito bem. Qualquer líquido, na verdade.
+
+É de fato tão adaptável quanto a própria humanidade. Incrível."
+ItemDesc_28,"Um elmo feito especificamente para várias formas de justa, com uso limitado fora desses casos. Mas parece chique."
+ItemDesc_29,Uma panela. Cheira a incenso.
+ItemDesc_30,"Um elmo que oferece uma combinação equilibrada de defesa e mobilidade. Muito usado por tropas de longo alcance na Guerra da Costa, ainda é item básico em qualquer divisão de arqueiros pela Costa. Principalmente por causa das centenas de milhares de Sallets esotericamente livres de ferrugem deixados em esconderijos depois da guerra.
+
+Espera, é Salett ou Sallet? Ou é <i>Salet</i>? Esses diminorianos nunca conseguiram acertar a língua mesmo."
+ItemDesc_31,"Uma gema roxa. É muito bonita, e provavelmente muito cara. Quando toda essa história de eleição acabar, você pode vendê-la no mercado negro ou entregá-la na Torre por uma recompensa. Nenhuma das opções renderia uma fortuna, mas talvez uma fração de uma fortuna?"
+ItemDesc_32,"Um amuleto sinistro. Tem o formato de um punho segurando uma pedra negra. Ou pérola? Não. É escuridão pura. Não toque.
+
+Segurá-lo dá uma sensação arrepiante. Obviamente."
+ItemDesc_33,"Isto é claramente uma bolsa de carga. Você já viu algumas por aí - estão valendo uma fortuna hoje em dia.
+
+<i>Cuidado. Você não sabe o que tem dentro.</i>"
+ItemDesc_34,"Esta é a cabeça de um basilisco. Um predador típico de Askan, que varia de cães grandes a casas pequenas. Olhar nos olhos dele te petrifica. Então não olhe."
+ItemDesc_35,"Um par de braçadeiras de ferro e couro, marcadas com símbolos da artesania de Illym. São extremamente mágicas e concedem a quem as usa uma melhora intensa em prestidigitação e atividades relacionadas a bagatelas."
+ItemDesc_36,"O Baralho de Muitas Coisas. Você já ouviu muitas histórias sobre esse lendário item mágico.
+
+As cartas ficam dentro de um fino estojo de zinco. Segurá-lo te dá uma sensação esmagadora de pavor."
+ItemDesc_37,"Um cubo gelatinoso translúcido e meio firme. Eram vendidos como brinquedos/bichinhos. Hoje são ilegais. Provavelmente porque ainda podem, tecnicamente, dissolver carne humana, embora muito, muito lentamente.
+
+Este aqui está muito feliz de ficar na sua mão."
+ItemDesc_38,"Uma gema verde. É muito bonita, e provavelmente muito cara. Quando toda essa história de eleição acabar, você pode vendê-la no mercado negro ou entregá-la na Torre por uma recompensa. Nenhuma das opções renderia uma fortuna, mas talvez uma fração de uma fortuna?
+
+(Você também tem a impressão de que esta guarda algum potencial esotérico...)"
+ItemDesc_39,Um gênio já fez desta lâmpada o seu lar - isso fica claro pelo formigamento mágico residual que você sente ao tocá-la. E também pelo cheiro.
+ItemDesc_40,Um dente limado em condição decente. Você sente um formigamento intenso na palma da mão quando o segura.
+ItemDesc_41,"Uma ferramentinha pulsante, trêmula e eletrizante. Ela anseia pela <i>fechadura</i>. Se você enfiar, ela faz o trabalho por você."
+ItemDesc_42,"A garrafa, antes fedida mas vazia, agora abriga o efreeti que você encontrou na Prisão Velha. O poderoso espírito elemental esquenta a garrafa. É confortável de segurar.
+
+Daqui a dez anos a garrafa poderá ser aberta. Você provavelmente sente um desejo profundo de escondê-la num belo tesouro protegido por armadilhas antes disso."
+ItemDesc_43,Um amuleto moldado em ouro puro. Um tesouro inestimável da Era Divina. Puta merda. O olho deve ter sido pintado de vermelho um dia.
+ItemDesc_44,"Uma tigela de pedra lascada. Contém várias camadas de incenso antigo. Se for mantida com você, concede uma queima passiva de incenso.
+
+Também faz você cheirar meio esquisito, claro. E a fumaça faz um mal danado para os pulmões. Mas pelo menos não vicia."
+ItemDesc_45,"Uma gema vermelha. É muito bonita, e provavelmente muito cara. Quando toda essa história de eleição acabar, você pode vendê-la no mercado negro ou entregá-la na Torre por uma recompensa. Nenhuma das opções renderia uma fortuna, mas talvez uma fração de uma fortuna?"
+ItemDesc_46,"Um símbolo de Illym, carregado apenas por aqueles ligados à sua deusa. Tem uma aura mágica menor ao redor.
+
+Mas também está meio derretido. Itens mágicos não quebram tão fácil. Interessante."
+ItemDesc_47,"Uma pedra estranha que foi polida no formato de um punho. Está lutando contra um tentáculo.
+
+Quem fez isto? E com que propósito nefasto?"
+ItemDesc_48,"O símbolo de Norvik, numa placa de ferro. É a insígnia oficial de um paladino de Norvik.
+
+Só resta um deles por aí. <i>Lorde Gorm</i>. Já que você achou isto no chão, no meio da Cidade Abaixo... deve significar que o bom Lorde foi encontrar o seu criador."
+ItemDesc_49,"Sempre que você ficar inconsciente usando este item, é instantaneamente restaurado a 1 PV. Este efeito pode ser ativado uma vez por descanso longo ou curto."
+ItemDesc_50,"Uma faixa de ferro coberta de símbolos estranhos. Tocá-la manda um arrepio pela espinha. De algum modo, ela te protege."
+ItemDesc_51,"Um anel dourado coberto de escamas ornamentadas. Na coroa, uma esmeralda altamente esotérica. Usá-lo faz seu corpo esquentar com o tempo.
+
+Dá a você a Constituição de um <i>Dragão</i>."
+ItemDesc_52,"Um anel compacto, forjado em prata ancestral, que formiga com poder esotérico. Dentro da coroa oblonga do anel, você sente - sabe - que há um pergaminho oculto que será inscrito com qualquer magia que o anel armazene.
+
+O anel tem 5 cargas. Enquanto equipado, você pode gastar cargas para conjurar magias se não tiver nenhum espaço de magia disponível. A quantidade de cargas necessária é proporcional ao nível da magia. O anel recupera 1d4 cargas a cada descanso. Você não faz ideia de quantas cargas o anel tem a cada momento. Muito confuso."
+ItemDesc_53,"Um anel de poder lendário, agora reduzido a uma casca oca. Mas o formigamento ainda permanece.
+
+A essa altura, é basicamente só um acessório sexy."
+ItemDesc_54,"O custo e o espaço de magia exigidos por 'Mensagem' criaram muitas versões genéricas capazes de mensagens a curta distância. Durante a Guerra da Costa, as forças Arcanistas costumavam ser equipadas com o chamado 'Seixo', uma pedra capaz de conjurar Mensagem em qualquer alvo conhecido num raio de um quilômetro.
+"
+ItemDesc_55,"Um cubo gelatinoso translúcido e meio firme. Eram vendidos como brinquedos/bichinhos. Hoje são ilegais. Provavelmente porque ainda podem, tecnicamente, dissolver carne humana, embora muito, muito lentamente.
+
+Este parece bem moldável. Macio. Um pouco enrugado."
+ItemDesc_56,"Um pergaminho de magia para uma magia de que você realmente, realmente, realmente não precisa nesta aventura em particular. Mas é bonito."
+ItemDesc_57,"Um anel compacto formiga com poder esotérico. É antigo, feito inteiramente de latão, e dentro da casca do topo você sente - você <i>sabe</i> - que há um pergaminho minúsculo. Porém, esse pergaminho foi gasto há muito tempo numa magia divina qualquer. Como você sabe disso? De novo, você <i>sente</i>.
+
+Seu uso original se perdeu. Mas guardá-lo parece... bom. Talvez o antigo dono fosse um bom homem, se o deixou para trás no Templo de Urth."
+ItemDesc_58,"Um cubo gelatinoso translúcido e meio firme. Eram vendidos como brinquedos/bichinhos. Hoje são ilegais. Provavelmente porque ainda podem, tecnicamente, dissolver carne humana, embora muito, muito lentamente.
+
+Aperte bem."
+ItemDesc_59,"O dente de um troll askanii. Ele treme na sua mão, tentando regenerar pedaços da própria medula. Suas propriedades esotéricas têm efeito sobre você."
+ItemDesc_60,Um dente limado em condição decente. Você sente um formigamento na palma da mão quando o segura.
+ItemDesc_61,"Um item mágico raro passado de geração em geração entre os Exilados de Norvik. Pela iconografia, fica claro que a origem do cinto está nos fossos de luta do velho país. O combate de gladiadores anões era muito popular antes da ascensão de Azgal.
+
+A cada hora que você usa este cinto, sente o cabelo debaixo do elmo ficando mais grosso."
+ItemDesc_62,"Estas botas mágicas e esotericamente leves parecem uma segunda pele quando você as calça. Na borda interna há letras bordadas que você não entende.
+
+<i>IMPERIUMI EI TUNNE MYÖTÄTUNTOA MUUKAISIA KOHTAAN. ÄLÄ LUOTA HEIHIN.</i>"
+ItemDesc_63,"Um escudo deixado por um dos predecessores do que hoje é Norvik. Um olho de gato está estampado na frente e, enquanto você o empunha, há um sussurro em seus ouvidos. Diz algo como: <i>Oh, sí..., he de resguardarte, camarada... aun cuando eres bien pelón...</i>
+
+Vamos ignorar.
+
+"
+ItemDesc_64,"Este relógio forrado de prata nunca mostra a hora certa do dia. Está sempre pelo menos dez horas fora do lugar, não importa como tentem corrigi-lo. Ao toque, você sente a magia fraca pulsando lá dentro. Quem o empunha ganha maior percepção de acontecimentos e ocorrências esotéricas num raio de 200 pés."
+ItemDesc_65,"Uma coroa de flores bonitas, provavelmente colhidas em jardins locais. Dá um ar de compreensão caseira e de anciania. Deixa claro que você se importa com a floresta e todos os seus habitantes naturais."
+ItemDesc_66,"Um par de manoplas de aço forradas de couro. O material é áspero e faz suas mãos tremerem ao tocá-lo. As caveiras ameaçadoras indicam claramente uma origem meio maligna.
+
+Por dentro há uma mensagem inscrita: <i>Vis. Imperium. Regni Filum</i>."
+ItemDesc_67,"Um item mágico lendário, provavelmente produzido na Era Arcana. Embora seu formato mostre um design mais primitivo do que você imaginaria de um artesão moderno. Flutua ao redor da sua cabeça enquanto você anda.
+"
+ItemDesc_68,"Um item mágico lendário, provavelmente produzido na Era Arcana. Tem as marcas do artesanato do Velho Diminoran. Flutua ao redor da sua cabeça enquanto você anda."
+ItemDesc_69,"A máscara fedendo a enxofre deixada por um mephit de fumaça destruído. Você sente um forte formigamento esotérico ao carregá-la - e, às vezes, se a segurar perto e fechar os olhos, consegue ver visões do menor elemental mais furioso do mundo xingando o seu nome num mar de basalto."
+ItemDesc_70,"Seu parceiro, Meek."
+ItemDesc_71,"Uma vara mágica incomum. Quando você aperta o botão, ela deveria ficar presa no lugar, quase imóvel para tudo, exceto forças incríveis.
+
+Esta está quebrada, porém. O botão está permanentemente apertado, o que faz a vara ficar permanentemente presa - mas só à última superfície que tocou. Dá para carregá-la por aí. É meio legal."
+ItemDesc_72,"Um escudo esotérico da Guerra da Costa. Os Arcanistas produziam esses bichinhos em massa, e todo legionário era equipado com um, junto com uma centena de outros itens mágicos.
+
+A imagem representa o vínculo entre o Arcanista e seu soldado."
+ItemDesc_73,"Um item mágico comum. Usado por anões em operações de mineração e construção.
+
+Está travado no modo de andar sozinho, já que você não sabe a senha. Mas ei, ilumina o caminho."
+ItemDesc_74,"As pontas estão rasgadas. É forçar a barra até chamar isto de <i>capa</i>.
+
+Por favor, não vista."
+ItemDesc_75,"Um servo invisível magicamente sintonizado a uma pena e papel - ele anota tudo que for dito num raio de 10 pés. O conteúdo some da página conforme ele escreve. O servo pode seguir comandos para anotar assuntos específicos, manter as notas num certo estilo ou focar nas palavras de uma pessoa escolhida. 
+
+São muito comuns nos corredores do Palácio, onde palavras podem arruinar vidas - ou pior: <b>carreiras</b>."
+ItemDesc_76,"Um pedaço de brachen calejado em batalha. O fato de esta madeira esotericamente durável ter rachaduras... é impressionante, para dizer o mínimo. É adornado com o símbolo da HWBT, e provavelmente foi obtido pessoalmente pela Lady Sageleaf para seus melhores guardiões."
+ItemDesc_77,"O livro lendário, escrito pelo próprio Meriadoc Moonwatch. Virou um sucesso absoluto por toda a Costa quando foi lançado, cerca de uma década atrás, e suas muitas verdades (e falsidades) ajudaram a moldar uma visão freestrideriana de todas as oito bandas.
+
+Esta é uma edição limitada, autografada pelo autor. Bem valiosa."
+ItemDesc_78,Uma edição especial do famoso livro de Cividix. É assustadoramente esotérico ao toque.
+ItemDesc_79,"Uma cópia dos Cantos Norvikianos, com um recado rabiscado do próprio Pilli.
+
+Isto é um tesouro nacional pra caramba. Mais ou menos."
+ItemDesc_80,"A ferramenta de um Clérigo Arcano - refeita como símbolo de magia proibida. O interior é rabiscado com a iconografia de tudo que é magicamente tabu. Adoração demoníaca. Intuição aberrante. Delícias gnômicas. Você não deve deixar nem seu Patriarca nem outros clérigos verem você com esta coisa. Isso significaria ainda mais problemas do que os que você já tem.
+
+Enquanto equipado, permite preparar magias adicionais."
+ItemDesc_81,"A ferramenta de um Clérigo Arcano - refeita numa imagem verde. É o fólio de um druida, ao que parece, com o interior coberto de iconografia Primal. Você tem a sensação de que seu Patriarca nas Torres surtaria se visse essa obra de arte maravilhosa.
+
+Enquanto equipado, permite preparar magias adicionais."
+ItemDesc_82,"A Hex Weekly é uma daquelas revistas bem antigas que sobreviveram à Guerra da Costa. Foca no lar, na família e na vida das mulheres, dando conselhos de saúde e dicas para se sentir bem em qualquer idade. Para ser sincero, você não tira muita coisa dela, exceto talvez uma compreensão melhor da perspectiva feminina.
+
+Só de olhar você já se sente um pouco emasculado."
+ItemDesc_83,"Um zine de aventura sobre homens e atividades másculas. Contém várias histórias de acelerar o sangue, guias das melhores masmorras askanii e, em geral, contos incríveis de aventura. Qualquer cara másculo adoraria ter isto em seu poder."
+ItemDesc_84,"O segundo jornal mais lido da cidade. Conhecido por seu jornalismo controverso e muitas vezes atrevido. Normalmente alinhado aos interesses dos Freestriders, e às vezes chamado de 'imprensa marrom'.
+
+Hoje em dia, foca principalmente em escândalos entre os <i>figurões políticos</i> - especialmente envolvendo os Capatazes azgalianos e os Magistrados."
+ItemDesc_85,"O maior jornal da cidade. Sai diariamente, com versões locais nas três cidades ribeirinhas do interior. Muito respeitado e geralmente alinhado aos interesses do povo Urth.
+
+Na corrida para a eleição, o Post tem se concentrado principalmente nos vários protestos, além de acompanhar os diversos partidos num tom aparentemente neutro."
+ItemDesc_86,"A ferramenta de um Clérigo Arcano - um instrumento do Estado, usado para lidar com conjuradores rebeldes. A capa indica que é um tipo de grimório com hinos dedicados à deusa do rio, Torna. Um artefato tão contraditório.
+
+Foi maravilhosamente reencadernado por uma artesania incrível.  Enquanto equipado, permite preparar magias adicionais."
+ItemDesc_87,"A ferramenta de um Clérigo Arcano - um instrumento do Estado, usado para lidar com conjuradores rebeldes. A capa indica que é um grimório com hinos dedicados ao rio, Torna, à Passagem de Urth e à Reconquista. Este é o seu. Você passou anos aperfeiçoando-o.
+
+A maioria das páginas está borrada. Dá uma sensação horrível só de pensar no conhecimento perdido. Você precisa mandar reencadernar."
+ItemDesc_88,"Uma revista de terror sem gosto, cheia de contos curtos. Não são tão assustadores. Mas as imagens ajudam a te calejar. 
+
+Deixa seu estômago menos embrulhado."
+ItemDesc_89,"Esta é a edição eleitoral de um jornal de cobre de baixa qualidade, com bela iconografia anã na capa. Você poderia ler, se quisesse."
+ItemDesc_90,"Um jornal de cobre de baixa qualidade, com bela iconografia anã na capa. É impresso com amor e cuidado, e os artigos são escritos pensando na classe trabalhadora a cada passo. É extremamente radical e altamente azgaliano."
+ItemDesc_91,"Um fanzine popular. Mal impresso e cheio de cartas, fanfics e resenhas. É basicamente uma coletânea de textos de vários fãs de peças de teatro locais, artistas musicais e atividades nerds. Esta edição parece cheia de informações sobre LARP, que está tomando conta da juventude.
+
+O zine é infame por lançar edições acidentalmente em papel encantado indestrutível. Está rolando uma batalha judicial pela dificuldade de tirá-las de circulação. Você não consegue destruir esta revista, faça o que fizer."
+ItemDesc_92,"Uma revista que ensina homens a atrair e conquistar mulheres. É muito popular, em parte graças às ilustrações de pin-ups.
+
+Você provavelmente não deveria se inspirar demais nela."
+ItemDesc_93,"Uma incrível peça de artesania anã. Feito num metal caríssimo e assustadoramente resistente, este martelo de guerra parece leve como uma pena na sua mão.
+
+Isso pode ser um problema, na verdade. Bater em qualquer coisa com isto só faz o martelo quicar de volta. Por que alguém faria um martelo desse material?"
+ItemDesc_94,"Uma lâmina padrão da Guarda Urth. Uso com uma mão, leve. Qualidade lixo. Te faz sentir um homenzarrão. Um agente do Estado.
+
+Também está partida ao meio. Mas, se você se inclinar, taticamente, talvez consiga esconder esse fato dos seus inimigos."
+ItemDesc_95,"Uma machadona amaldiçoada que só pode ser empunhada por criaturas verdadeiramente leais e malignas. Triste dizer, você ainda não chegou lá. Mas pode carregá-la por aí?"
+ItemDesc_96,"Uma Língua de Fogo. Essas lâminas lendárias foram forjadas durante a Guerra do Portão. Muitas se perderam ao longo das eras - muitos tentaram replicar seu poder. Ainda assim, esta arma continua fora do alcance até dos maiores artífices da era moderna.
+
+Esta pertence a Norvik. Mas, por ora, você pode empunhá-la como sua."
+ItemDesc_97,"Uma espada vorpal senciente, com óbvia ansiedade de desempenho.
+
+Enquanto a segura na mão, você ouve um sussurro fraco.
+"
+ItemDesc_98,"Uma besta finamente trabalhada. Leve. Do tipo usado pelo campesinato nos últimos anos da Guerra da Costa. É uma ferramenta de morte rápida e fácil para quem não tem treino nem causa.
+
+O mecanismo parece emperrado, porém. Então não dá para disparar. Mas com certeza parece intimidadora."
+ItemDesc_99,Item padrão entre a Guarda Urth. A alma do dono anterior claramente a assombra; você vê um cara te encarando no canto do olho sempre que a empunha. Talvez seja melhor não usá-la numa luta.
+ItemDesc_100,"Uma espada vorpal senciente, que se recusa a derramar sangue. 
+
+Ela te testou e concluiu que você é uma boa pessoa, para o que isso valer.
+"
+ItemDesc_101,"Um arco empunhado por algum grande aventureiro séculos atrás. 
+
+Infelizmente, essa aventura terminou diante do olhar de um basilisco. O arco é 100% pedra esotérica."
+ItemDesc_102,"Uma picareta altamente disfuncional. Deveria apontar para o ""segredo"" mais próximo; uma armadilha, uma parede falsa ou algum lugar onde outras delícias de masmorra estejam escondidas. Porém, quando você a empunha, ela só tenta apontar para cima, o que torna impossível usá-la de fato.
+
+Embora as runas pareçam bem interessantes..."
+ItemDesc_103,Um martelo simples. Pode ser útil num aperto bem masculino. Não é bom para luta.
+ItemDesc_104,"Uma arma fantasmagórica, existindo em algum ponto entre o plano astral e o material. Porém, infelizmente não está realmente presa à matéria. Ou seja, não causa dano nenhum se você a brandir. Droga.
+"
+ItemDesc_105,"Um pedaço de brachen que atravessou séculos de combate da Guerra do Portão. Este item indestrutível viu os primeiros dias deste mundo e agora foi trazido para esta era moderna e alienígena. 
+
+Segurá-lo te dá calafrios."
+ItemDesc_106,"Uma lâmina padrão da Guarda Urth. Uso com uma mão, leve.
+
+Porém, esta lâmina está claramente imbuída de energia esotérica. A sensação ao tocá-la é tão intensa que é impossível empunhá-la direito, pelo menos sem se acostumar. Também há uma estranha gravação no cabo que diz:
+
+<i>Encontramos o outro lado, irmão. Os deuses nunca partiram. Você precisa mandar ajuda.</i> Será que significa o quê?"
+ItemDesc_107,"Uma espada vorpal senciente. Ela te testou e concluiu que você é uma pessoa má. Seja lá o que isso signifique. 
+
+Infelizmente puxou a sua natureza egoísta, então ainda se recusa a ajudar você de qualquer maneira. Mas é bonita.
+"
+ItemDesc_108,"Uma daquelas adagas antigas que um dia tiveram a capacidade de conjurar 'Desejo'. Todas as cargas foram gastas, mas as energias esotéricas lá dentro ainda roncam, fazendo um minúsculo Bolsão Esotérico se agitar ao redor. 
+
+Enquanto segura a adaga, você faz exatamente o oposto da ação que pretende fazer. Diz sim quando quer dizer não. Tentar apunhalar o ar faz você enfiá-la na própria barriga. Então vamos deixá-la no coldre. Por enquanto."
+ItemDesc_109,"Uma varinha. A arma preferida de uma bruxa. Esta parece quebrada, porém, porque faz quem a empunha sempre exibir um sorriso malvado. Tipo, <i>muito</i> malvado."
+ItemDesc_110,"A famosa <i>trâslev</i>, feita para mexer caldeirões enormes durante tempestades agourentas. Ferramenta comum em toda casa askanii, mas também bem popular entre as bruxinhas modernas. Você sente uma conexão Primal ao carregar esta colher - embora não adiante muito numa luta. Porém, se um dia você entrar na cozinha, seus oponentes estão fritos."
+ItemDesc_111,
+ItemDesc_112,"Uma caixa arcana antiga com botões e manivelas estranhos. Cada um gira para fazer algum som estridente e horrível. Você é incapaz de fazer algo belo, artístico ou funcional com isto."
+ItemDesc_113,"Um rato preto. Ele te encara de modo agourento, mas nem tenta lutar quando você o agarra. Claramente desistiu de qualquer tipo de autopreservação, felicidade ou esperança de melhoria social. Ou talvez você esteja interpretando demais."
+ItemDesc_114,"Um pedaço grosso de madeira de quina. É Brachen, a madeira mais resistente da Costa, cultivada apenas em Askan."
+ItemDesc_115,"Uma formiga psíquica. O tipo de aberração/criatura com a qual você realmente não tem experiência para lidar - psionismo é outra história. Mas ele é educado o bastante, então vamos ver se dá para ajudar o sujeito.
+
+(Embora a presença psiônica dele faça seus músculos atrofiarem por algum motivo estranho.)"
+ItemDesc_116,"Uma chave feita de cobre grosso porém quebradiço. Parece que vai quebrar se você apertar com muita força. No topo tem o formato de uma espécie de lápide.
+
+<b>Mas o que ela abre?</b>"
+ItemDesc_117,"Um chapéu chique. Feito de tecido de seda amarelo de qualidade superior. É o tipo de chapéu que você esperaria ver num Freestrider de classe alta.
+
+Quem era o dono antes deve ter se perdido nos horrores da Cidade Abaixo. Você, porém, obviamente não pode usá-lo. Não é nem de longe parecido com um elmo. Mas poderia carregá-lo por aí, talvez?"
+ItemDesc_118,"Um rato verde. Parece muito agressivo até você chegar perto, e aí desiste totalmente e deixa você carregá-lo como quiser."
+ItemDesc_119,"Uma chave de latão. Você não faz ideia de qual fechadura ela abriria. Mas segurá-la revela uma verdade simples: é altamente esotérica.
+
+Você deveria manter esta chave com você o tempo todo. Se mantiver, tem a sensação, uma visão até, de que um dia - talvez daqui a anos - você vai topar com aquela fechadura. Quando isso acontecer, tudo vai mudar.
+
+<i>Ou</i> é só uma chave velha e enferrujada."
+ItemDesc_120,"Um punhado de airelas. Cheiram ao subterrâneo úmido.
+
+São preciosas demais para realmente comer, porém. Além disso, deixam manchas terríveis. Guarde-as bem..."
+ItemDesc_121,Uma fatia gloriosa da torta mais perigosa do mundo. Ou pelo menos é o que dizem. Aparentemente é uma guloseima muito exótica dos Hae'Xi.
+ItemDesc_122,"Uma página de texto de difícil leitura, intitulada 'Guia Iniciante de um Gnomo para Memorização Esotérica'."
+ItemDesc_123,"Um pedaço de papel vazio. Papel <i>realmente</i> velho.
+
+No canto está escrito, em alguma língua arcaica: <i>Nota a mí mesmo: non olvides de debuxar el mapa ante que sotierres el thesoro.</i>"
+ItemDesc_124,"Um livro-razão cheio de contratos e documentos - marcados com selos oficiais da cidade.
+
+Nada aqui foi feito para os seus olhos. Só de olhar você fica enjoado."
+ItemDesc_125,Uma espécie de diário de aventuras.
+ItemDesc_126,"Uma 'Permissão de Reunião Pública' formal. Contém muito juridiquês, o que dificulta a leitura."
+ItemDesc_127,Um rato vermelho. Está claramente assustado e ataca seus dedos - mas se mantém calmo enquanto você o segura firme.
+ItemDesc_128,"Uma 'Permissão de Reunião Pública' formal. Contém muito papo corporativo vazio, o que dificulta a leitura."
+ItemDesc_129,"Um antigo pergaminho de magia de Projeção Astral. Só de segurá-lo você sente que tem o poder de rasgar um buraco na realidade.
+
+Obviamente você não pode usá-lo. Não sem rasgar um(outro) buraco em si mesmo no processo."
+ItemDesc_130,"Um antigo pergaminho de magia de outra época. Você não consegue ler o conteúdo, tipo, de jeito nenhum. Os glifos de caracol ao longo das bordas, porém, fazem seu corpo inteiro formigar ao tocá-los. Este é o poder de uma magia de desejo - um poder tão forte que até o próprio papel se torna esotérico.
+
+Só mantê-lo por perto faz seus nervos formigarem."
+ItemDesc_131,"Um bloco de notas amarelo. Tem algo escrito:
+<i>Frank, Filho de Frank. Testemunha principal. Precisa achar.
+Nicholas Darrow, motivo? Casa de chá. Atividade radical. 
+Dívida. Dono de pássaro em apuros? Freestriders envolvidos? Obviamente.
+Explosão: Magia? Pólvora? Merda esotérica? Precisa de clérigo.</i>"
+ItemDesc_132,"Uma chave muito bonita. Está esotericamente sintonizada com a Toca da Esfinge - ou seja, a taverna local. Isto permitirá que você entre durante o dia, para resolver o enigma dela! Ou só visitar."
+ItemDesc_133,"Uma chave de ferro. Claramente feita por anões. Embora pareça bem velha, na verdade é extremamente resistente.
+
+Abre a velha Torre de Guarda em Tolstad."
+ItemDesc_134,Folhas de chá da máquina da casa de chá. Foi a última coisa preparada antes da explosão. Cheira horrivelmente.
+ItemDesc_135,"Um cartão de voto surrado emitido em nome de 'Ragn Hemlin'. É de um escritório anão, por algum motivo, e alguém marcou todos os cinco partidos da lista.
+
+Você precisa levar isto a um local de votação no dia da eleição se quiser que sua voz seja ouvida."
+ItemDesc_136,"Uma escritura de uma caverna. Não sei se tem validade legal. Mas cara, o <i>potencial de crescimento</i>... a <i>opcionalidade</i> absoluta...
+
+Você vai ficar RICO!"
+ItemDesc_137,"Um rato branco. Age com timidez, mas se aproxima de você mesmo assim. Parece que <i>realmente</i> não quer ser agarrado por você, mas também não resiste. Em vez disso, só vai atrás, meio infeliz com a situação, mas, enfim, fazer o quê."
+ItemDesc_138,"Um rato amarelo, quase dourado. Ele se aproxima com grande interesse e feliz permite que você o carregue. Embora você tenha uma desconfiança de que deveria mantê-lo longe das suas coroas."
+ItemDesc_139,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_140,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_141,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_142,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_143,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_144,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_145,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_146,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_147,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_148,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_149,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_150,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_151,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_152,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_153,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_154,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_155,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_156,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_157,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_158,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_159,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_160,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_161,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_162,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_163,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_164,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_165,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_166,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_167,Um pergaminho enrolado contendo uma magia transcrita.
+ItemDesc_168,"Um cubo gelatinoso translúcido e meio firme. Eram vendidos como brinquedos/bichinhos. Hoje são ilegais. Provavelmente porque ainda podem, tecnicamente, dissolver carne humana, embora muito, muito lentamente.
+
+Este aqui literalmente não consegue ficar parado na sua mão."
+ItemDesc_169,"Um cubo gelatinoso translúcido e meio firme. Eram vendidos como brinquedos/bichinhos. Hoje são ilegais. Provavelmente porque ainda podem, tecnicamente, dissolver carne humana, embora muito, muito lentamente.
+
+Este parece ter vencido. Você nem sabia que isso era possível."
+ItemDesc_170,"Um cubo gelatinoso translúcido e meio firme. Eram vendidos como brinquedos/bichinhos. Hoje são ilegais. Provavelmente porque ainda podem, tecnicamente, dissolver carne humana, embora muito, muito lentamente.
+
+Este aqui está simplesmente irradiando."
+ItemDesc_171,"Um orbe de poder esotérico especial. Não parece muito volátil nas suas mãos, mas você tem certeza do grande poder lá dentro. É positivamente romântico segurá-lo."
+ItemDesc_172,Uma peça usada no jogo de tabuleiro Ouro do Gnoll. Você jogou só um pouquinho. Esta é feita de ouro puro.
+ItemDesc_173,"O símbolo de um estivador. Tipo um marinheiro, mas você não vai nos navios nem nada, só faz o carregamento/descarregamento. Bom, não é 'só' isso, e é trabalho duro também. Mas você entendeu. É tipo um símbolo disso. Então é, tipo, um presente simbólico. Mas é isso. Legal."
+ItemDesc_174,Um convite para a Guilda dos Ladrões local! Você nem sabia que existia uma! Talvez seja esse o ponto. <i>Exclusivo</i>.
+,
+,
+ItemName_1,Coroas
+ItemName_2,Maçã Boa
+ItemName_3,'Elmo'
+ItemName_4,Pluma da Retidão
+ItemName_5,Incenso
+ItemName_6,Fragmento de Jor
+ItemName_7,Pó de Osso
+ItemName_8,Garrafa de Leite
+ItemName_9,Cerveja de Ruibarbo Concentrada
+ItemName_10,Adesivo dos Sonhos
+ItemName_11,Maçã do Jardim
+ItemName_12,Unguento Illymiano
+ItemName_13,Guloseima de Kardemum
+ItemName_14,Raspadinha de Pó de Pixie
+ItemName_15,Poção de Cura
+ItemName_16,Poção de Cura Suprema
+ItemName_17,Slogdog
+ItemName_18,Suco de Cogumelo Estranho
+ItemName_19,Extrato de Svamp
+ItemName_20,A Expansão da Mente
+ItemName_21,Gotas do Rio Vourgeni
+ItemName_22,Bebida de Gengibre Vyz-Kha
+ItemName_23,Elmo Ancestral
+ItemName_24,Armet
+ItemName_25,Camalho
+ItemName_26,Bacinete
+ItemName_27,Balde
+ItemName_28,Boca-de-sapo
+ItemName_29,Panela
+ItemName_30,Sallet
+ItemName_31,Ametista
+ItemName_32,Amuleto da Aniquilação
+ItemName_33,Bolsa de Carga
+ItemName_34,Troféu de Basilisco
+ItemName_35,Braçadeiras da Trapaça
+ItemName_36,Baralho de Muitas Coisas
+ItemName_37,Cubo de Estresse Dócil
+ItemName_38,Esmeralda
+ItemName_39,Garrafa de Efreeti Vazia
+ItemName_40,Dente do Siso Encantado
+ItemName_41,Gazua Esotérica
+ItemName_42,Garrafa de Efreeti Cheia
+ItemName_43,Símbolo Sagrado de Whitemane
+ItemName_44,Tigela de Incenso
+ItemName_45,Jacinto
+ItemName_46,Broche Illym Derretido
+ItemName_47,Amuleto de Obsidiana
+ItemName_48,Insígnia de Paladino
+ItemName_49,Periapto de Saúde
+ItemName_50,Anel de Proteção
+ItemName_51,Anel de Regeneração
+ItemName_52,Anel de Armazenar Magia
+ItemName_53,Anel dos Desejos Gastos
+ItemName_54,Seixo de Mensagem
+ItemName_55,Cubo de Estresse Molengo
+ItemName_56,Pergaminho de Detectar Veneno e Doença
+ItemName_57,Anel de Armazenar Magia Gasto
+ItemName_58,Cubo de Estresse
+ItemName_59,Dente de Troll
+ItemName_60,Dente do Siso
+ItemName_61,Cinto da Anaidade
+ItemName_62,Botas da Elfidade
+ItemName_63,Escudo de Bronze
+ItemName_64,Relógio de Bolso Esotérico
+ItemName_65,Coroa de Flores
+ItemName_66,Manoplas de Força de Ogro
+ItemName_67,"Pedra Ioun, Fortitude"
+ItemName_68,"Pedra Ioun, Intuição"
+ItemName_69,Máscara de Mephit
+ItemName_70,Capa Mimic
+ItemName_71,Vara Móvel
+ItemName_72,Pavês
+ItemName_73,Rûn Fackla
+ItemName_74,Capa Esfarrapada
+ItemName_75,Ditadorzinho
+ItemName_76,Escudo de Madeira
+ItemName_77,Além de Reeds
+ItemName_78,"Livro da Mente, Sexta Edição"
+ItemName_79,Cantos Reunidos de Norvik
+ItemName_80,Grimório Sombrio
+ItemName_81,Livro Verde
+ItemName_82,Hex Weekly
+ItemName_83,"Homem Moderno, Um Guia"
+ItemName_84,Notícias em Norvik
+ItemName_85,Post Norvikiano
+ItemName_86,Livro de Orações
+ItemName_87,Livro de Orações Arruinado
+ItemName_88,ARREPIOS & GRITOS
+ItemName_89,"O Canto de Azgal, Edição Eleitoral"
+ItemName_90,O Canto de Azgal
+ItemName_91,O Subcomum
+ItemName_92,Como Domar uma Dama
+ItemName_93,Martelo de Guerra de Adamantina
+ItemName_94,Espada Quebrada
+ItemName_95,Zelador
+ItemName_96,Língua de Fogo
+ItemName_97,Kattegatt
+ItemName_98,Besta Leve
+ItemName_99,Maça do Terror
+ItemName_100,Kattegatt Moralizante
+ItemName_101,Arco Longo Petrificado
+ItemName_102,Picareta dos Segredos
+ItemName_103,Martelo Simples
+ItemName_104,Alabarda Espectral
+ItemName_105,Cajado das Cordas
+ItemName_106,Espada de Tol
+ItemName_107,Kattegatt Corrosivo
+ItemName_108,Lâmina do Azar
+ItemName_109,Varinha de Empatia
+ItemName_110,Colher de Pau
+ItemName_111,Item_Template
+ItemName_112,Caixa de Música Arcana
+ItemName_113,Rato Preto
+ItemName_114,Brachen Queimado
+ItemName_115,Formiga Craniana
+ItemName_116,Chave da Cripta
+ItemName_117,Chapéu Chique
+ItemName_118,Rato Verde
+ItemName_119,Chave para Lugar Nenhum
+ItemName_120,Airelas
+ItemName_121,Torta Maw
+ItemName_122,Instruções Oleosas
+ItemName_123,Papel Velho
+ItemName_124,Livro-razão Laranja
+ItemName_125,Pedaço de Papel
+ItemName_126,Documentos PPG
+ItemName_127,Rato Vermelho
+ItemName_128,Bilhete da Resistência
+ItemName_129,Pergaminho de Projeção Astral
+ItemName_130,Pergaminho de Desejo
+ItemName_131,Bloco de Notas de Snell
+ItemName_132,Chave da Taverna
+ItemName_133,Chave da Torre
+ItemName_134,Folhas de Ukkul
+ItemName_135,Cartão de Voto
+ItemName_136,Escritura Molhada
+ItemName_137,Rato Branco
+ItemName_138,Rato Amarelo
+ItemName_139,Augúrio
+ItemName_140,Aura de Vitalidade
+ItemName_141,Pele de Árvore
+ItemName_142,Bênção
+ItemName_143,Mão Mágica de Caelum
+ItemName_144,Enfeitiçar Pessoa
+ItemName_145,Compreender Idiomas
+ItemName_146,Manto do Cruzado
+ItemName_147,Curar Ferimentos
+ItemName_148,Luz Dançante
+ItemName_149,Detectar Alinhamento
+ItemName_150,Detectar Segredos
+ItemName_151,Detectar Pensamentos
+ItemName_152,Maleficio Divino
+ItemName_153,Druidismo
+ItemName_154,Aprimorar Habilidade
+ItemName_155,Graxa
+ItemName_156,Infligir Ferimentos
+ItemName_157,Arrombar
+ItemName_158,Prece de Cura
+ItemName_159,Proteção contra o Mal e o Bem e Etcétera
+ItemName_160,Revivificar
+ItemName_161,Escudo da Fé
+ItemName_162,Falar com Animais
+ItemName_163,Falar com Mortos
+ItemName_164,Falar com Plantas
+ItemName_165,Taumaturgia
+ItemName_166,Expulsar Mortos-vivos
+ItemName_167,Zona da Verdade
+ItemName_168,Cubo de Estresse Agitado
+ItemName_169,Cubo de Estresse Podre
+ItemName_170,Cubo de Estresse Reluzente
+ItemName_171,Orbe Gêmeo
+ItemName_172,Cavaleiro do Ouro do Gnoll
+ItemName_173,Sinete de Estivador
+ItemName_174,Convite da Guilda dos Ladrões
+ItemName_175,
+ItemName_176,
+ItemVarModDesc_27,Deixe sua fé guiar você.
+ItemVarModDesc_28,É um pouco difícil se mexer com isto.
+ItemVarModDesc_29,Você está em casa.
+ItemVarModDesc_35,Reduz a CD de testes de bagatelas pela sua proficiência
+ItemVarModDesc_39,Vantagem contra Elementais
+ItemVarModDesc_41,Facilita qualquer serviço de arrombamento.
+ItemVarModDesc_42,Vantagem contra Elementais
+ItemVarModDesc_44,Recupera um espaço de magia de 1º nível a cada três horas
+ItemVarModDesc_46,Vantagem contra Elfos.
+ItemVarModDesc_47,Vantagem contra Aberrações
+ItemVarModDesc_48,Vantagem contra o povo Urth
+ItemVarModDesc_49,Evita a morte uma vez por descanso
+ItemVarModDesc_50,Reduz dano alto
+ItemVarModDesc_51,Regenera PV lentamente com o tempo
+ItemVarModDesc_52,Pode ser usado para conjurar magias
+ItemVarModDesc_57,Ele está de olho em você.
+ItemVarModDesc_59,Regenera PV rapidamente com o tempo
+ItemVarModDesc_61,Vantagem contra Anões
+ItemVarModDesc_62,Aumenta sua velocidade de movimento.
+ItemVarModDesc_64,Vantagem em Eventos Esotéricos
+ItemVarModDesc_65,Vantagem contra indivíduos de natureza vegetal
+ItemVarModDesc_70,Ele te mantém longe de encrenca.
+ItemVarModDesc_73,Dá a você uma luz de 10 pés
+ItemVarModDesc_75,Vantagem contra Burocr- Burocr- Burocratas
+ItemVarModDesc_80,Soma sua proficiência ao máximo de magias preparadas
+ItemVarModDesc_81,Soma sua proficiência ao máximo de magias preparadas
+ItemVarModDesc_86,Aumenta seu máximo de magias preparadas pelo valor da sua proficiência
+ItemVarModDesc_95,Vantagem contra criaturas Caóticas
+ItemVarModDesc_100,Vantagem contra criaturas Malignas
+ItemVarModDesc_103,Vantagem em situações em que você possa precisar de um martelo
+ItemVarModDesc_107,Vantagem contra criaturas Bondosas
+ItemVarModDesc_108,Vantagem contra criaturas Leais
+ItemVarModDesc_110,Vantagem em situações relacionadas a cozinha. Isso é raro.
+ItemVarModDesc_115,Ele está ouvindo tudo.

@@ -1,0 +1,340 @@
+ID,PT
+Quest_1_1,A Casa de Chá que Explodiu
+Quest_1_2,Seu propósito em Tolstad é investigar uma casa de chá explodida. Localize o estabelecimento e consiga entrar.
+Quest_1_3,"A entrada da casa de chá foi lacrada pelo Senhor das Moedas Darrow. Se quiser entrar legalmente, você precisa da bênção dele."
+Quest_1_4,Você conseguiu entrar na Casa de Chá. Hora de investigar!
+Quest_1_5,"Pista: você encontrou um broche de metal mágico nas ruínas. Estava meio derretido. Nenhum fogo normal poderia danificar um item mágico, nem mesmo um menor como este."
+Quest_1_6,Pista: você encontrou chá kargameshiano na prensa de chá arruinada. O estado da máquina deixa claro que alguém estava preparando chá no momento da explosão.
+Quest_1_7,"Pista: a porta de ferro do escritório dos fundos foi arrancada depois que as dobradiças derreteram. Isso significa que a explosão certamente se originou na câmara central, e que foi extremamente quente."
+Quest_1_8,"Pista: você encontrou um exemplar de O Subcomum, uma revista mágica infame por seu papel indestrutível."
+Quest_1_9,Você encontrou um cadáver sob os escombros. O cadáver de uma elfa. Você precisa informar isso à Lady Sageleaf.
+Quest_1_10,"Você convenceu Lady Sageleaf de que é um idiota, o que lhe permitiu não contradizer a declaração oficial da cidade. No dia da eleição, você deve falar com o Senhor das Moedas. Ele ficará feliz."
+Quest_1_11,Você deu a Lady Sageleaf o que ela precisava - provas para contradizer a declaração oficial da cidade. Você escolheu um lado. A HWBT certamente estará a seu favor agora.
+Quest_1_12,Agora a parte crucial: encontrar o responsável. Quem trouxe este Colar de Bolas de Fogo para Norvik? Quem o usou? E por quê? Você tem até a eleição para descobrir.
+,
+,
+,
+,
+Quest_2_1,Dragão de Tolstad
+Quest_2_2,"Você está aqui a pedido de Lady Sageleaf, uma chefe goblin em Tolstad. Vá vê-la imediatamente. Ela está no Jardim dos Goblins, na ponta sul de Tolstad."
+Quest_2_3,"Você falou com Lady Miska Sageleaf e começou uma operação conjunta com um dos peões dela, um goblin chamado Snell. Vamos torcer para que ele não atrapalhe demais."
+,
+Quest_3_1,Encontro com o Senhor das Moedas
+Quest_3_2,"Você não tem permissão para entrar na Casa de Chá. Precisa de autorização do Magistrado de Tolstad: o Senhor das Moedas Darrow. Você sabe que a mansão dele fica morro acima, no centro de Tolstad."
+Quest_3_3,O Magistrado quer ter um encontro com você. Mas ele está ocupado durante o dia. As portas dele estarão abertas quando escurecer.
+Quest_3_4,"Você jurou lealdade ao Senhor das Moedas Nicholas Darrow, em troca de acesso à casa de chá. Você serve bem o seu mestre."
+Quest_3_5,"Você se recusou a jurar lealdade ao Senhor das Moedas Nicholas Darrow. Ele, em troca, se recusou a lhe dar acesso à Casa de Chá. Você precisa achar outro jeito de entrar."
+Quest_3_6,"Você conseguiu passar a lábia no Senhor das Moedas, sabe-se lá como. Agora tem acesso à Casa de Chá, e nem precisou concordar com algum acordo sinistro antes. Boa!"
+Quest_3_7,"Você perdeu o encontro com o Senhor das Moedas. Em vez disso, recebeu um recado do anjo, Ettir."
+,
+Quest_4_1,Penas Eriçadas
+Quest_4_2,O dono da casa de chá está desaparecido. Localize esse homem-pássaro e descubra o que ele sabe.
+Quest_4_3,O dono deixou a casa de chá logo antes da explosão. Foi visto pela última vez descendo.
+Quest_4_4,"Alguém ouviu o dono da casa de chá, bêbado, se gabando do seu plano secreto de fuga: despachar a si mesmo numa caixa para Reeds. Você deve verificar o armazém na Waterlane View."
+Quest_4_5,"Drummer estava escondido numa caixa, prestes a ser exportado para Reeds. Você o encontrou e o interrogou sobre a casa de chá e a operação ilegal de contrabando. Ele contou que havia uma reunião marcada entre um corretor de informações e um Freestrider bem na hora da explosão."
+Quest_4_6,"Você deixou Drummer ir embora, sem pegar os papéis dele. Talvez ele vá embora, talvez fique. Quem sabe?"
+Quest_4_7,"Você pegou os papéis de Drummer, garantindo que ele não saia da cidade com tanta facilidade. Talvez ele escape mesmo assim, talvez fique por aqui. Quem sabe?"
+Quest_5_1,A Testemunha Principal
+Quest_5_2,"Um 'Frank filho de Frank' foi visto na Pillar Road na hora da explosão, mas desceu calmamente as escadas depois. Localize e interrogue esse homem estranho vestido de amarelo. Frank filho de Frank é um nome falso muito usado por aventureiros ricos pela Costa.
+"
+Quest_5_3,"Um homem vestido de amarelo foi visto por 'O Pato' na Cidade Abaixo. Esse homem passou pela entrada da Cripta, rumo às Cavernas do Sul."
+Quest_5_4,"Arn, o garoto do quiosque, diz que um homem de amarelo foi visto saindo do local. Ele estava descendo. Também se interessou por coisas de Freestrider..."
+Quest_5_5,Moongore avistou um homem de amarelo atravessando a Cidade Abaixo. Ele foi pelas Cavernas do Sul.
+Quest_5_6,"Kraaid teve um encontro com um humano de amarelo, que procurava uma 'porta secreta' para 'mais abaixo'."
+Quest_5_7,"Viira explicou que um famoso revolucionário, que provavelmente é este homem de amarelo, está visitando Norvik durante a eleição. Ela não sabe onde ele está."
+Quest_5_8,"Você encontrou Meriadoc Moonwatch no ponto mais baixo do Pilar de Jor, e o resgatou do troll horripilante."
+Quest_5_9,"Instantes depois da explosão, Meriadoc viu um 'homem enfumaçado' invisível correr pela Travessia e então 'entrar' no Pilar de Jor. Graças à sua visão mágica, ele enxergou através do véu e jura que deve ser um Portão de Jor entreaberto."
+Quest_6_1,Portão de Jor
+Quest_6_2,"Um homem invisível e 'fumegante' foi visto entrando no Pilar de Jor, logo após a explosão. Agora você precisa descobrir um jeito de segui-lo. Busque a ajuda de algum ser antigo e poderoso que possa auxiliá-lo."
+Quest_6_3,"Segundo Visken, você precisa encontrar um pergaminho da magia Projeção Astral. Se encontrar, ele a conjurará em você para que possa entrar no Pilar."
+Quest_6_4,"Você encontrou um Pergaminho de Projeção Astral e o entregou a Visken. Se você o chamar, ele ajudará você a entrar no Pilar quando chegar a hora."
+Quest_6_5,"Olzis sugeriu que você encontre uma gema esmeralda. Se encontrar, ela a transformará numa <i>Chave de Jor</i>."
+Quest_6_6,"Você deu uma gema à esfinge, e ela canalizou uma intensa magia ancestral nela. Agora você tem uma Chave de Jor que permitirá entrar no Pilar, sozinho ou acompanhado."
+Quest_6_7,"Ever-Glad se ofereceu para guiá-lo ao Pilar, se você aceitar a oferta de emprego dele."
+Quest_6_8,"Você aceitou uma oferta de emprego da aberração sobrenatural e, em troca, ele lhe deu uma senha que permitirá entrar no Pilar, sozinho ou acompanhado."
+Quest_6_9,Você entrou no Pilar sozinho.
+Quest_6_10,"Você entrou no Pilar com Snell, mas parece ter perdido ele na escuridão."
+Quest_6_11,"Você entrou no Pilar com Snell e Ettir, mas parece ter perdido os dois na escuridão."
+Quest_7_1,Conexão Élfica
+Quest_7_2,Você encontrou um cadáver élfico sob os escombros da casa de chá. Ele foi levado para a Casa dos Lichs para ficar em segurança.
+Quest_7_3,Você usou Falar com Mortos na elfa morta. Algumas informações interessantes foram coletadas. Agora é hora de seguir outras pistas. E talvez perguntar por aí...
+Quest_7_4,"Visken fez uma necropsia. A elfa morreu do fogo, instantaneamente."
+Quest_7_5,Alfoz contou sobre o acordo dele com Pinja. Ele alega ser inocente.
+Quest_7_6,"Viira explicou o acordo deles com a corretora élfica. Lisa, uma terceirizada, foi enviada para cuidar disso."
+Quest_7_7,Um Guardião de Illym apareceu durante a noite. Ele explicou que a elfa morta era uma traidora e 'pediu desculpas' pelo transtorno que ela causou. Você deveria checar o cadáver.
+Quest_7_8,"Segundo Visken, o cadáver da elfa foi levado pelos parentes dela. Quem quer que tenha descoberto sobre ela não queria que ninguém em Norvik investigasse mais."
+Quest_8_1,Uma Bruxa Freelancer
+Quest_8_2,Havia uma reunião marcada na casa de chá no dia da explosão - uma reunião com uma <i>bruxa</i>. Localize-a e descubra o que ela sabe.
+Quest_8_3,A bruxa conhecida como 'Lisa' é uma trabalhadora freelancer dos Freestriders na Waterlane. Viira alega não saber onde ela está.
+Quest_8_4,"Você convenceu Rixbiter a lhe dar a senha do poço mágico dela, onde a bruxa costuma ficar. Ele leva até a Cidade Abaixo..."
+Quest_8_5,Você encontrou Lisa na Cidade Abaixo. Ela alega ser inocente.
+Quest_8_6,Lisa não sabia muito sobre a operação de Drummer. Ela não acredita que ele tenha explodido a própria casa de chá. Ela não sabe quem foi.
+Quest_8_7,A bruxa era ex-amiga de Pinja'Athena e deveria se encontrar com ela no dia da explosão. Ela alega que a explosão aconteceu antes de ela chegar.
+Quest_8_8,"A bruxa se escondeu no Abaixo para evitar problemas depois de escapar por pouco da explosão por acaso. Você não pode prendê-la de qualquer jeito, então é hora de procurar em outro lugar."
+Quest_9_1,Seguro & Protegido
+Quest_9_2,"Drummer tem um cofre escondido no escritório dele, nos fundos da casa de chá."
+Quest_9_3,Você abriu o cofre de Drummer. Ótimo trabalho.
+,
+,
+Quest_10_1,Cordas da Adivinhação
+Quest_10_2,"Lisa quer que você prove sua habilidade natural para magia de adivinhação. Se trouxer a ela uma 'torta maw', ela vai ensinar um truque que pode facilitar as coisas..."
+Quest_10_3,Você conseguiu arranjar a rara 'torta maw'. Isso deve deixar Lisa feliz.
+Quest_10_4,"Você provou seus talentos naturais para adivinhação. A bruxa ficou meio impressionada, e você ganhou uma bela magia com isso."
+Quest_11_1,Concluir a Missão
+Quest_11_2,"Converse com todos com quem precisa conversar. Quando terminar, vá até a urna com Snell. 
+
+Depois de tantos Frays, não é uma Corda maravilhosa para terminar?"
+Quest_11_3,"Os próximos dias serão os mais interessantes da história de Norvik. Infelizmente para você, não passarão de um lampejo. Dependendo das suas escolhas, você pode acabar em posições diferentes aqui, no início desta ERA. Mas, de algum modo, no fundo, você sente uma sensação agourenta de acerto de contas. Será que seu EGO permitirá que você sobreviva a este novo mundo?"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Quest_14_1,Semana da Eleição
+Quest_14_2,A primeira eleição da história norvikiana acontecerá em apenas alguns dias. Em quem você vai votar?
+Quest_14_3,Você demonstrou sua preferência pelo Partido de Norvik {NATIONALIST} nos últimos dias. Um verdadeiro veterano da Guarda Urth!
+Quest_14_4,"Você mencionou argumentos Freestriders pelo menos {FREESTRIDER}, como qualquer homem moderno."
+Quest_14_5,Você falou opiniões positivas sobre o azgalismo {AZGALIST} desde que acordou na Casa dos Lichs. Traz boas lembranças.
+Quest_14_6,"Obviamente, você deixa muito claro que deveria ser o futuro deus-mago-rei de Norvik. Você disse isso {ARCANIST}, em conversas reais, com pessoas reais."
+Quest_14_7,"Política não é bem a sua. Foi o que você disse, {APOLITICAL}, sempre que o assunto surge. Ser apolítico é uma beleza mesmo!"
+Quest_14_8,"<i>Agrário</i>.
+
+Está no seu sangue. Terra, principalmente. Você expeliu um pouco dela durante conversas {AGRARIAN} vezes."
+Quest_14_9,"Agora você sabe. Está pronto.
+
+Pronto para o DIA DA ELEIÇÃO."
+Quest_45_1,Democratização
+Quest_45_2,"A cidade está mudando. Você também. Você sempre foi volúvel em suas opiniões políticas, mas agora é hora de escolher, de verdade.
+
+Você desbloqueou a habilidade de perguntar às pessoas em quem elas vão votar. Um impulso profundo dentro de você clama: você precisa perguntar. Você DEVE perguntar. De novo e de novo. Pelo menos vinte vezes. Tá, dez.
+
+Você perguntou atualmente a {DEM} pessoas."
+Quest_45_3,"Você espalhou com sucesso a IDEIA da democracia, simplesmente perguntando às pessoas em quem elas vão votar. Todos agora estão melhor, graças ao seu comportamento extremamente prestativo.
+
+Você é um verdadeiro herói."
+Quest_15_1,Conflito na Praça Circular
+Quest_15_2,Um orc e um bando de anões estão num impasse. Os anões querem fazer um comício e o orc foi enviado para impedi-los.
+Quest_15_3,Alfoz diz que eles têm o direito legal de fazer o comício.
+Quest_15_4,Viira alega que os documentos legais dos anões estão vencidos.
+Quest_15_5,"Alfoz acabou te dando um soco, e depois disso os anões se retiraram com tato. Você deveria falar com Viira."
+Quest_15_6,Você convenceu Alfoz a deixar a praça (circular). Você deveria falar com Viira.
+Quest_15_7,Você conseguiu fazer os anões de Azgal deixarem a Praça Circular. Mas a que custo?
+Quest_16_1,Jovens & Burros
+Quest_16_2,"Você ouve que vai rolar encrenca lá embaixo na Waterlane esta noite, no seu primeiro dia em Tolstad. Você deveria dar uma olhada."
+Quest_16_3,Uma garota estava entregando uma revista de Azgal em Tolstad Alta. Parecia deslocada e falou em descer até a Waterlane esta noite.
+Quest_16_4,Você encontrou um bilhete sobre uma reunião da 'Resistência Norvikiana' na Waterlane esta noite. Ih.
+Quest_16_5,Você ficou do lado de Modissa e da Juventude Azgal. Eles têm direito de entregar o jornal deles.
+Quest_16_6,Você ficou do lado de Rollo e da Resistência Norvikiana. Eles estão servindo ao melhor interesse da cidade.
+Quest_16_7,Você conseguiu resolver o conflito entre os Jovens Azgals e a Resistência Norvikiana. Mais ou menos.
+Quest_17_1,Febre da Prensa de Cobre
+Quest_17_2,Um jornal azgalista está sendo impresso em Tolstad. Você deveria encontrar o local dessa prensa de cobre e o nome do editor secreto.
+Quest_17_3,O jornal está sendo impresso num apartamento na Pillar Crossing. Altamente ilegal. Você pode ajudá-los ou denunciá-los aos Freestriders.
+Quest_17_4,Modissa precisa de mais tinta para imprimir a cobertura completa da edição eleitoral. Ela pediu que você encontrasse 'Cartuchos Quillwell' dentro do 'Armazém da Guilda' na 'Waterlane'.
+Quest_17_5,Você entrou no Armazém da Guilda e pegou um cartucho de tinta 'Quillwells'. Hora de levá-lo de volta a Modissa.
+Quest_17_6,"Você convenceu Modissa a suavizar o artigo dela. A edição eleitoral será uma edição azgalista sólida e normal, focada na eleição."
+Quest_17_7,"Modissa diz que vai suavizar o artigo. Como ela vai fazer isso, e se vai, resta saber."
+Quest_17_8,"Você convenceu Alfoz a aprovar o artigo de Modissa. A edição eleitoral vai causar alvoroço pela cidade, para o bem e para o mal."
+Quest_17_9,A tinta que você deu a Modissa vai ajudá-los a imprimir ainda mais cópias de O Canto. Agora eles devem ter cobertura completa na edição eleitoral.
+Quest_17_10,Você denunciou o local da gráfica a Viira. Eles vão fechá-la antes que a edição eleitoral saia. É claro que os azgalistas não saberão que foi você...
+Quest_18_1,Resistência Norvikiana
+Quest_18_2,Você ouviu falar de uma sociedade secreta de Nacionalistas 'puros' que se reúnem no Rollermill. Devem ser muito poderosos.
+Quest_18_3,"Rollo e os amigos se encontram no Rollermill. Eles querem que você roube um documento dos Freestriders, em nome do contato secreto deles dentro da Resistência."
+Quest_18_4,"A Askanii-Reeds Trade Co. aparentemente assinou um contrato com a cidade para direitos exclusivos de terra sobre todos os portos. Incluindo toda a Waterlane. Em troca, os Freestriders financiaram vários negócios pessoais do Magistrado. Se isso viesse à tona, causaria o caos."
+Quest_18_5,Você deu os documentos a Rollo. Como isso vai impactar a cidade ficou em aberto.
+Quest_18_6,"Você devolveu os documentos à Agente Viira, informando-a sobre a conspiração contra os Freestriders na cidade."
+Quest_18_7,Você fez os rapazes saírem do Rollermill. Eles não vão mais fazer as reuniões aqui.
+Quest_18_8,Você deu o Livro-razão Laranja a Modissa. Ela certamente saberá o que fazer com ele.
+,
+Quest_19_1,Domínio do Capital
+Quest_19_2,"Já que você é amigo da AR Trading Co., Viira ofereceu um bico: distribuir AEFAs (Acordo Econômico Freestrider Askanii) a empreendedores locais."
+Quest_19_3,Você entregou um AEFA a Visken.
+Quest_19_4,Você entregou um AEFA ao Vendedor de Poções.
+Quest_19_5,Você entregou um AEFA a Rixbiter.
+Quest_19_6,Você entregou um AEFA ao Encadernador.
+Quest_19_7,Você entregou um AEFA a Thalassos.
+Quest_19_8,Você entregou um AEFA a Oyu.
+Quest_19_9,"Você teve uma conversa agradável com o semblante horripilante da Horda Dourada, o Embaixador Ivcx."
+Quest_19_10,Viira ficou satisfeita com seu desempenho naquela conversa tensa e lhe oferece um futuro dentro da AR Trading Co.
+Quest_19_11,Viira ficou furiosa com seu comportamento e prometeu retaliação no futuro. Os Freestriders não são mais seus amigos.
+Quest_19_12,"Você enfrentou Ivcx, ao mesmo tempo em que reforçou a reivindicação dos Freestriders sobre Norvik. Viira está extremamente satisfeita com seu desempenho e promete um grande futuro dentro da Revolução."
+,
+Quest_21_1,Leitécurioso
+Quest_21_2,"Coleta de coroas. Captura de moedas. Sequestro de dinheiro. Há muitas formas de descrever.
+
+<b>Fique rico. Ou morra tentando.</b> A única forma de conseguir é obviamente pegando esse bico de entrega de leite. Tente dar uma olhada pela Waterlane de manhã..."
+Quest_21_3,"Ost te deu cinco garrafas de leite para vender a pessoas aleatórias. Depois da eleição, ele espera que você volte com 10.000 coroas - o retorno dele nesse esquema maravilhoso. 
+
+Claramente, esse é o único jeito de você ficar rico."
+Quest_21_4,Você se recusou a vender o leite. Era claramente um golpe.
+Quest_21_5,Você não conseguiu vender as cinco garrafas de leite estragado por 10.000 coroas. Ost não ficou chocado.
+Quest_21_6,Você deu 10.000 coroas a Ost no dia da eleição. Ele ficou chocado.
+Quest_22_1,Valquíria
+Quest_22_2,"Ettir, a anja que trabalha para o Magistrado Darrow, é sua colega de quarto durante esta investigação. Você a acha esquiva, mas intrigante. Descubra mais usando a mais difícil das técnicas: conversar com ela."
+Quest_22_3,"Você conseguiu fazer Ettir se abrir com você. Ela é claramente uma criatura estranha, vivendo sozinha numa cidade que não tem lugar de verdade para ela. Ela se ofereceu para ajudar na sua investigação, quando você chegar bem abaixo da cidade..."
+Quest_22_4,Você encontrou a anja na Cidade Abaixo. Mas ela só se juntará a você quando você tiver descido ainda mais.
+Quest_22_5,Ettir se junta ao seu grupo enquanto você explora este nível mais baixo sob a cidade.
+Quest_23_1,Um Paladino Desaparecido
+Quest_23_2,"Lorde Gorm de Norvik desapareceu. Dizem que o lendário paladino sumiu bem abaixo da cidade... 
+
+<b>Localize o Paladino Desaparecido. Isso fará de você um herói.</b>"
+Quest_23_3,"Você localizou um Sigilo de Paladino oficial na Cidade Abaixo. Parece de patente alta o bastante para ter sido de Lorde Gorm. Embora você não tenha achado um corpo, ele provavelmente está perdido para a masmorra."
+Quest_23_4,Você encontrou Lorde Gorm no Além. Mas você deveria informar Darrow? Só o tempo dirá qual é a escolha certa.
+Quest_24_1,Linha Dourada
+Quest_24_2,Há um conflito geopolítico em curso nas Terras dos Clãs. A pátria dos halflings nativos de Askanii foi cortada ao meio - pela chamada <i>Linha Dourada</i>. Os celestiais dominam o oeste. Talvez você devesse descobrir mais?
+Quest_24_3,Jehanne tem família lutando na Linha Dourada. Eles estão passando fome.
+Quest_24_4,Snurre é membro do Clã Pé-de-Lebre e primo distante de Carrot.
+Quest_24_5,"Oyu quer apoiar seus parentes nas Terras dos Clãs, assim como muitos de ascendência kargameshiana."
+Quest_24_6,"Ivcx compartilhou seu conhecimento sobre a Linha Dourada - como a trégua será mantida e como a Horda planeja assumir o controle por meios mais diplomáticos. Mas, no fim, os halflings não terão autonomia."
+Quest_25_1,Martelo & Zelo
+Quest_25_2,Rollo acredita que as informações obtidas dos Freestriders deveriam ser compartilhadas com os Azgals. Ele quer que você convide Modissa para uma reunião.
+Quest_25_3,Modissa aceitou o convite e aparecerá no rollermill com seu esquadrão. Prepare-se para uma bagunça.
+Quest_25_4,"Modissa e Rollo conversaram sobre o contrato dos Freestriders. Ela vai publicar uma denúncia na edição do dia da eleição de O Canto, e depois os outros jornais receberão cópias dos documentos."
+Quest_25_5,Modissa e Rollo conversaram sobre o contrato dos Freestriders. Juntos eles enviarão cópias dos documentos a todos os principais jornais da cidade.
+Quest_30_1,Esoteric Ebb
+Quest_30_2,"Há um ritmo no Reino de Jor, e você ouviu a voz dele. Encontre-a no Pilar mais próximo. Ele alcança fundo - investigue-o em todos os níveis."
+Quest_30_3,"Você meditou com o Pilar de Jor, na Pillar Street."
+Quest_30_4,"Você falou com os sussurros na Pillar Crossing. São agourentos, para dizer o mínimo."
+Quest_30_5,"Você sentiu uma conexão com as vozes dentro do Pilar, lá na Cidade Abaixo. Você viu algo que o abalou."
+Quest_30_6,"Você investigou o fundo do Pilar de Jor, onde ele desaparece nos montes exuberantes da Trilha da Subcosta."
+Quest_30_7,"Apesar de sua natureza dormente, este Pilar de Jor é altamente ativo por dentro. As almas dos mortos fluem através dele. Você as ouve. 
+
+Por ora, isso é tudo que você aprenderá."
+Quest_31_1,Que o Rio Te Leve
+Quest_31_2,Você foi levado à casa dos lichs por uns pescadores. Mas como sobreviveu ao mergulho no rio?
+Quest_31_3,O tritão Thalassos foi quem te resgatou do rio. Mas ele diz que você estava morto quando o deixou na Casa dos Lichs.
+Quest_31_4,Você encontrou o ponto exato onde caiu no rio. O bicicletário! Alguém deve ter te empurrado.
+Quest_31_5,Visken foi quem te trouxe de volta - em nome de Lady Sageleaf. Mas por quê?
+Quest_31_6,Lady Sageleaf soube da sua morte e contratou Visken para te trazer de volta. Só porque não quis esperar por outro clérigo. Uau.
+Quest_31_7,"Foi a adolescente, Freydis. Ela matou você. E achou muito irritante que você tenha voltado dos mortos. 
+
+Todo o episódio é, honestamente, altamente constrangedor."
+Quest_32_1,Blues da Casa dos Lichs
+Quest_32_2,O homem pálido chamado Visken é muito suspeito. Descubra o que está acontecendo na casa dos lichs dele.
+Quest_32_3,O segurança kobold faz entregas de leite para ganhar uma grana extra. Mas por quê?
+Quest_32_4,Aquele cavaleiro sombrio parece ter alguma ligação com Visken. Ele dá muito medo.
+Quest_32_5,O mercenário Razz claramente trabalha para Visken. De algum jeito.
+Quest_32_6,O horripilante crocolisco Kraaid parece trabalhar para Visken em alguma função. O homem pálido deve ser um sujeito estranho para ter amigos assim...
+Quest_32_7,Você descobriu que Visken é um poderoso feiticeiro morto-vivo. Um <i>LICH</i>. Mas o que você pode fazer a respeito?
+Quest_32_8,"Você encontrou vários 'Ajudantes' de Visken por Tolstad. E o próprio homem pálido deve ser algum tipo de mentor maligno. Você precisa investigar mais - e recebeu uma dica: visite a casa dos lichs depois da meia-noite. <i>Sozinho</i>. Pode ficar feio, então se prepare."
+Quest_32_9,"Você encontrou Visken e seus peões fazendo uma festinha na casa dos lichs - e ele lhe ofereceu uma barganha sombria.
+"
+Quest_33_1,Atentado do Culto
+Quest_33_2,"Um assassino veio atrás da sua vida. Você sobreviveu, mas o atacante escapou. Sem pistas além de uma máscara esotérica, você deve estar pronto para o retorno dele a qualquer momento."
+Quest_33_3,"Andando sozinho à noite, um assassino mascarado veio atrás de você. Quem quer que fosse, com certeza tem cara de culto. Como esperou claramente até você estar sozinho, é com toda certeza alguém tentando matar você especificamente."
+Quest_33_4,"Você topou com o assassino na Cidade Abaixo. O atacante mascarado parece estar guardando um caminho secreto específico, que leva bem para baixo..."
+Quest_33_5,"Você rastreou o assassino até a Prisão Velha, bem abaixo da cidade. O atacante era Freydis, a filha do Senhor das Moedas Darrow. Então você não teve escolha senão deixá-la ir. Agora, ao encontro do patrono dela..."
+Quest_33_6,"Descendo cada vez mais fundo, você encontrou um Bagatelista em sua toca. Você teve uma conversa com ele, e parece que ele estava por trás dos ataques - mas agora isso é águas passadas.
+
+O que você vai fazer? Prendê-lo?"
+Quest_34_1,Conflito de Classe
+Quest_34_2,"Você é muito opinativo. Agora é hora de escolher um caminho.
+
+<i>Clérigo. Ladino. Mago.</i> Ou outra coisa?"
+Quest_34_3,"Você se declarou <b>O Clérigo</b> de Norvik {CLERIC}. É um título grandioso, adequado a um verdadeiro clérigo humano como você."
+Quest_34_4,Você deixou claro {ROGUE} agora - você é um ladino fodão! E ninguém pode impedir você de ser o sorrateiro mais maneiro de Tolstad.
+Quest_34_5,"Até agora, você disse, {WIZARD}, que é um mago. O que você é. Apesar do figurino, seu verdadeiro talento está no Arcano. Obviamente."
+Quest_34_6,"Depois de demonstrar sua sintonia Primal, você agora está pronto para se chamar de aspirante a Druida. O tempo dirá se esse caminho te interessa de alguma forma... contando às pessoas sobre isso, {DRUID_Choice}."
+Quest_34_7,"Você se declarou Bardo. Um bardo dançante, supostamente. Considerando seu histórico, você pode acabar transformando isso numa atividade paralela legítima. Até agora, você contou às pessoas {BARD_Choice}."
+Quest_34_8,"Você sobreviveu a comer o Slogdog, aprendendo assim os caminhos do guerreiro primal. Um cheio de fúria e carnes não processadas. Portanto, você basicamente já é um Bárbaro de Askanii. Parabéns. Você espalhou a notícia {BARB_Choice} vezes."
+Quest_34_9,Você se encontrou. Parabéns.
+Quest_35_1,Fólio Fênix
+Quest_35_2,"Depois da sua aventura no rio, seu velho grimório está arruinado! Encontre um prestador de serviço que possa reencadernar para você.
+
+<b>Conserte seu grimório arruinado, droga!</b>"
+Quest_35_3,"Você encontrou um encadernador na Waterlane View. Ele consertará seu livro de orações, mas você terá que pagar 250 coroas pelo serviço. E vai levar até a manhã seguinte. Ou melhor, a tarde, já que ele é uma coruja. Parece que são noturnas. Ou talvez seja coisa de encadernador. Não julgue."
+Quest_35_4,Você conseguiu seu livro de orações de volta - reencadernado e em condição novinha em folha. Isso deve ajudar muito a memorizar magias!
+Quest_36_1,Parentes Primais
+Quest_36_2,Convença Nessan a ensinar magia primal a você. Se estiver a fim.
+Quest_36_3,"Você se sintonizou com as Cordas primais, provando-se a Nessan. Agora você é um Druida bem novato - pelo menos aos olhos dela."
+Quest_36_4,Você salvou um homem-fungo na Trilha da Subcosta. Isso certamente o coloca em harmonia com a natureza.
+Quest_36_5,Nessan o convidou para um encontro recorrente de druidismo. É exatamente o que um homem de 27 anos precisa para fazer mais amigos.
+Quest_38_1,Guardião da Cripta
+Quest_38_2,"Há um poderoso conjurador chamado Bondavol escondido lá embaixo, nas criptas.
+
+<b>Você precisa encontrá-lo.</b>"
+Quest_38_3,"Você teve uma conversa agradável com Bondavol, o semilich. Ele só estava meio insano."
+Quest_39_1,Minas Perdidas de Toul'Amon
+Quest_39_2,"Um anão chamado Akzel está procurando uma lendária mina perdida, em algum lugar no túnel ao sudoeste. Mas a HWBT não permite que ele passe. 
+
+Encontre um símbolo do sol, ou da falta dele, 'o santuário', e depois volte a ele para ganhar uma recompensa."
+Quest_39_3,"Você encontrou um antigo santuário com tema de gato, que lhe deu um poema."
+Quest_39_4,Akzel percebeu que estava procurando no lugar errado. Mas o poema pareceu lhe dar uma pista de onde procurar em seguida - ele o convida a se juntar a ele daqui a alguns meses para uma expedição de verdade.
+Quest_40_1,Agenda Filoginista
+Quest_40_2,Mulheres. Estão <i>em todo lugar</i>. Seu valor como homem se baseia apenas na admiração que você recebe delas. Seu objetivo? Conseguir um encontro. Um encontro de verdade. Boa sorte.
+Quest_40_3,"Você conseguiu garantir um encontro prometido com a Agente Viira, a bela orc Freestrider! Porém, só depois da eleição. Então não precisa se preocupar com isso agora."
+Quest_40_4,"De algum modo, você conseguiu convencer a guerreira celestial Ettir a sair com você, daqui a umas duas semanas. Ou pelo menos você acha que foi isso que aconteceu. Talvez. Ótimo trabalho!"
+Quest_40_5,"Moongore, a jardineira/guardiã da HWBT, foi seduzida por um homem de amarelo. Você precisa vingar a honra dela para provar seu valor..."
+Quest_40_6,"Você vingou a honra de Moongore e ganhou o respeito dela, como homem. Ela concordou em ter uma 'luta de treino' (basicamente um encontro?) depois da eleição. Que cara sortudo!"
+,
+,
+,
+Quest_41_1,Essência da Inflorescência
+Quest_41_2,"Nearly, a Menestrel, é dona de uma gloriosa flor de cabeça. Ela tem que ser sua.
+
+<b>Ponha as mãos na Coroa de Flores.</b>"
+Quest_41_3,Nearly pediu que você a ajudasse a conseguir uma prorrogação do aluguel - com Lady Sageleaf. Ih.
+Quest_41_4,Você pegou a coroa de flores. Agora pode usá-la e se sentir em paz com a natureza.
+Quest_41_5,Você conseguiu a prorrogação do aluguel para Nearly. Ela ficou muito feliz. Agora você pode ter sua coroa de flores com a consciência maravilhosamente tranquila.
+Quest_42_1,Trezentas Peças
+Quest_42_2,Você encontrou um cadáver na Casa dos Lichs. Parece fresco e pronto para Revivificar. Embora custe um bom dinheiro trazê-lo de volta - quase um mês de aluguel!
+Quest_42_3,Você conseguiu trazer o velho de volta. Ele pareceu principalmente irritado com você e foi embora sem nem agradecer.
+Quest_42_4,"Acontece que o homem era o pai de Rollo e Arn. Eles foram contatados por ele depois da ressurreição, mas seguiram o próprio caminho."
+,
+Quest_43_1,Um Enigma Fácil
+Quest_43_2,"A esfinge bêbada na Esfinge Bêbada lhe ofereceu outro enigma: se você resolver, terá acesso ao cofre dela. Está à altura do desafio?"
+Quest_43_3,A esfinge insinua que a única forma de resolver o enigma é executar algum tipo de ação. Algo além do alcance de um simples <i>diálogo</i>...
+Quest_43_4,"Você destrancou o portão do cofre atrás da esfinge. Foi meio fácil, não foi? Mas agora... o que tem lá dentro?"
+Quest_43_5,"Você recebeu o Baralho de Muitas Coisas dentro do cofre. Interessante, né? Talvez você devesse tirar uma carta ou duas. Ou talvez não."
+,
+Quest_44_1,A Sexta Edição Perdida
+Quest_44_2,"Erud. Snurre Appledent incumbiu você de recuperar um exemplar raro do <i>Livro da Mente</i> de Cividix, que supostamente se encontra em algum lugar nas masmorras da Cidade Abaixo."
+Quest_44_3,Você encontrou a Biblioteca Viva e tirou este livro raro de suas estantes. É um poderoso tomo mágico - mas Snurre vai deixar você ficar com ele. Ele só quer copiar o prefácio.
+Quest_44_4,"Quando Snurre tentou copiar o prefácio, o espírito do próprio Cividix, invocado esotericamente, quase se tornou corpóreo. Mas você deu conta. Ficou um pouco possuído, mas deu conta, permitindo que ele copiasse o prefácio e ganhasse grande percepção dos segredos de Cividix."
+Quest_44_5,"Quando Snurre tentou copiar o prefácio, o espírito do próprio Cividix, invocado esotericamente, quase se tornou corpóreo, possuindo Snurre no processo. Ele acabou sendo exorcizado e conseguiu tanto copiar o prefácio quanto ganhar grande percepção dos segredos de Cividix."
+,
+Quest_46_1,Classificados de Missões
+Quest_46_2,Missões de Classe! Tudo num esforço para aprofundar sua compreensão do arquétipo mítico específico que cresce na sua mente.
+Quest_46_3,"CLÉRIGO! O Magistrado Darrow pediu que você realizasse uma tarefa clerical. Vá até a Waterlane View, depois desça as escadas - Ettir estará esperando."
+Quest_46_4,LADINO! Você de repente percebe que as pessoas simplesmente deixam um monte de objetos de valor largados nos apartamentos o dia todo. Vá até a Pillar Crossing e comece a saquear!
+Quest_46_5,"MAGO! Há um mistério a ser desvendado, um mistério esotérico. Investigue três fontes de livros: uma na Torre de Guarda, uma na Toca de Visken e uma no Escritório de Snurre."
+Quest_46_6,DRUIDA! Torne-se versado nos caminhos das folhas farfalhantes e da fotossíntese gemente. Converse com três plantas ao redor de Tolstad e pergunte a cada uma: o que É a ÁRVORE DO MUNDO?
+Quest_46_7,"BÁRBARO! Você está na caçada. Você está sentindo. Por toda parte - sobras físicas. Siga a trilha. No fim dela, você aprenderá uma verdade profunda sobre a FÚRIA do BANDO."
+Quest_46_8,"BARDO! Você pode dançar se quiser - só garanta que todos vejam. Olhando, maravilhados. Na taverna! Mas primeiro, garanta que Nearly esteja tocando um instrumento esotérico..."
+Quest_46_9,"Você cumpriu seu dever clerical de forma EXTRAORDINÁRIA. Se algum dia houve dúvida, ela foi dissipada. No sentido metafórico. 
+
+VOCÊ É O CLÉRIGO."
+Quest_46_10,"Conseguiu! Você redistribuiu riqueza para as mãos do maior LADINO que já agraciou esta cidade. Bom trabalho!
+ O melhor? Você também ganhou um convite para a GUILDA DOS LADRÕES! Só precisa encontrar seu contato no dia da eleição. Aguarde com ansiedade!"
+Quest_46_11,Acontece que a Guilda dos Ladrões era uma armadilha. Opa! Pelo menos você saiu ileso. Talvez um dia haja uma Guilda dos Ladrões de verdade para você entrar...
+Quest_46_12,"Você está mais perto da verdade do poder Arcano do que jamais esteve. Com o tempo, só você se erguerá como o MAGO dominante da Costa Esotérica. Primeiro, precisa estudar mais. Assim que a eleição acabar, claro."
+Quest_46_13,"Unhas na casca. Agora você vê como o caminho de um DRUIDA não é uma trilha fácil. Um dia você escolherá se é realmente a vida que deseja levar - dedicar-se, por inteiro, a comungar com o Primal."
+Quest_46_14,"A Fúria está dentro. Mil tentáculos cavando pela terra. Você é o BÁRBARO de Askanii. Kha-Ymor fala com você.
+
+Esta é a sua vocação.
+"
+Quest_46_15,"Hum. Bom, um pouquinho de magia bárdica não era pedir demais, afinal. Performance por si só é meio parecida com cantos ou encantamentos esotéricos. Quem sabe se você dançar ainda mais no futuro, acabe virando um BARDO lendário - isso seria algo, não seria?"
+,
+Quest_47_1,Masmorra do Encontro
+Quest_47_2,Você pegou um artefato estranho nas ruínas abaixo da cidade. Parece trancado por uma exigência estranha: duas pessoas com inclinações românticas devem tocar o Orbe juntas - só através da CONEXÃO a RIQUEZA será revelada.
+Quest_47_3,"Você mostrou o Orbe a Isk, e ele o examinou. Sua conclusão: contém uma masmorra. Uma masmorra bagunçada e mutável, criada como algum tipo de desafio. Se você o desafiasse e vencesse, poderia ganhar um grande prêmio. Mas com quem destrancá-lo?"
+Quest_47_4,Você desafiou o Orbe - e vocês dois foram levados para a Masmorra do Encontro. Agora só resta uma pergunta: como diabos se vence?
+Quest_47_5,"Você sobreviveu à estranha Minimasmorra ao lado da Agente Viira. Infelizmente, desta vez você não destrancou o tesouro lá dentro, então não pôde dividir os lucros. Desta vez, pelo menos."
+Quest_47_6,Você sobreviveu à estranha Minimasmorra ao lado de Moongore. Não pareceu importar que vocês aprenderam um monte um sobre o outro - então quem sabe que nível de 'conexão' é necessário para a coisa abrir de verdade.
+Quest_47_7,"Você sobreviveu à estranha Minimasmorra ao lado de Olzis. Como ela previu, porém, você não conseguiu destrancar o tesouro lá dentro - da próxima vez, talvez seja melhor tentar com uma parceira mais plausível. Foi divertido, no entanto!"
+Quest_47_8,"Você sobreviveu à estranha Minimasmorra ao lado da sua companheira angelical Ettir. Você não conseguiu destrancá-la por completo - mas talvez seja porque o amor verdadeiro só brota com o tempo, ou alguma bobagem assim."
+Quest_47_9,"Você vê um cronômetro no orbe agora: em 584 dias, você poderá tentar o desafio de novo com um novo parceiro ou o mesmo.
+
+Talvez até lá você tenha se aproximado de alguém o bastante para que isso abra este Orbe de verdade."
+,
+Quest_48_1,Mimetismo Mixuruca
+Quest_48_2,Aparentemente Meek seria capaz de mudar de forma para se adequar aos seus gostos - mas há uma exigência: gemas! Alimente Meek com gemas de vários tipos para obter vários efeitos dele.
+Quest_48_3,"Você alimentou Meek com um rubi, deixando-o muito mais robusto. Você também se sente mais musculoso quando o veste."
+Quest_48_4,"Você alimentou Meek com um topázio, deixando-o muito mais rápido. Nenhuma armadilha vai te pegar agora! Provavelmente."
+Quest_48_5,"Você alimentou Meek com um jaspe, deixando-o muito mais resistente. É quase como uma armadura de placas no seu pescoço."
+Quest_48_6,"Você alimentou Meek com uma safira, deixando-o muito mais focado - quase a ponto de conseguir manter uma conversa verdadeiramente racional."
+Quest_48_7,"Você alimentou Meek com uma esmeralda, deixando-o muito mais capaz de entender o mundo fora da masmorra."
+Quest_48_8,"Você alimentou Meek com uma ametista, deixando-o muito, muito mais 'galante'. Sim. 'Galante'. O Mimic é 'Galante'. Aproveite seu mimic 'galante'."

@@ -1,0 +1,302 @@
+ID,PT
+SpellName_0,MiscButton
+SpellName_1,Luz Dançante
+SpellName_2,Mão de Mago de Caelum
+SpellName_3,Arte Druídica
+SpellName_4,Taumaturgia
+SpellName_5,Bênção
+SpellName_6,Enfeitiçar Pessoa
+SpellName_7,Compreender Idiomas
+SpellName_8,Curar Ferimentos
+SpellName_9,Detectar Alinhamento
+SpellName_10,Detectar Segredos
+SpellName_11,Maçã Boa
+SpellName_12,Graxa
+SpellName_13,Infligir Ferimentos
+SpellName_14,Escudo da Fé
+SpellName_15,Falar com Animais
+SpellName_16,Expulsar Mortos-Vivos
+SpellName_17,Augúrio
+SpellName_18,Pele de Árvore
+SpellName_19,Detectar Pensamentos
+SpellName_20,Aprimorar Habilidade
+SpellName_21,Arrombar
+SpellName_22,Oração de Cura
+SpellName_23,Proteção contra o Mal e o Bem e Etcétera
+SpellName_24,Maldição Divina
+SpellName_25,Zona da Verdade
+SpellName_26,Manto do Cruzado
+SpellName_27,Aura de Vitalidade
+SpellName_28,Revivificar
+SpellName_29,Falar com os Mortos
+SpellName_30,Falar com Plantas
+SpellName_31,Shillelâmh
+SpellName_32,Fúria Esotérica
+SpellName_33,Movimento Cruel
+SpellDescription_0,
+SpellDescription_1,"Você cria uma luz do tamanho de uma tocha dentro do alcance, fazendo-a parecer uma tocha, lanterna ou orbe brilhante que paira no ar pela duração. Qualquer que seja a forma escolhida, a luz emite penumbra em um raio de 10 pés."
+SpellDescription_2,"Uma mão espectral flutuante surge em um ponto à sua escolha dentro do alcance. Você pode usar sua ação para controlar a mão. Você pode usá-la para manipular um objeto, abrir uma porta ou recipiente destrancado ou pegar um item de um recipiente aberto. Qualquer teste de bagatela feito com a mão pode ser rolado com o seu modificador de Inteligência.
+
+A mão não pode atacar, ativar itens mágicos nem carregar mais de 10 libras."
+SpellDescription_3,"Sussurrando aos espíritos da natureza, você cria um pequeno efeito sensorial inofensivo que o acompanha. Esse efeito permite que você interaja com entidades primais que de outra forma se esconderiam da sua presença."
+SpellDescription_4,"Você manifesta uma pequena maravilha inofensiva, um sinal de poder sobrenatural, que o acompanha dentro do alcance. O efeito permite que você se comunique com entidades e locais sagrados, concedendo possíveis benefícios."
+SpellDescription_5,"Você se abençoa com orientação divina. Pela duração, você adiciona 1d4 a todos os testes de atributo."
+SpellDescription_6,"Você tenta enfeitiçar um humanoide que possa ver dentro do alcance. Ele deve fazer um teste de resistência de Sabedoria, com vantagem se você ou seus companheiros estiverem lutando contra ele. Se falhar no teste, ele fica enfeitiçado por você até a magia acabar ou até você ou seus companheiros fazerem qualquer coisa prejudicial a ele. A criatura enfeitiçada o considera um conhecido amigável. Quando a magia acaba, a criatura sabe que foi enfeitiçada por você."
+SpellDescription_7,"Pela duração, você entende o significado literal de qualquer idioma falado que ouvir. Você também entende qualquer idioma escrito que vir, mas precisa estar tocando a superfície onde as palavras estão escritas.
+
+Esta magia não decifra mensagens secretas em um texto ou glifo, como um sigilo arcano, que não faça parte de um idioma escrito."
+SpellDescription_8,Uma criatura que você tocar recupera uma quantidade de pontos de vida igual a 1d8 + seu modificador de atributo de sabedoria. Esta magia não tem efeito sobre mortos-vivos ou constructos.
+SpellDescription_9,"Por um instante, qualquer criatura dos tipos aberração, celestial, elemental, fada, ínfero ou morto-vivo será claramente indicada para você. Além disso, qualquer teste de contemplar revelará o alinhamento da criatura de acordo com as Cordas de Jor.
+
+A magia afeta todas as criaturas na área atual."
+SpellDescription_10,"Se houver uma armadilha, esconderijo ou porta secreta de que você não tenha conhecimento dentro do alcance, você cria um rastro translúcido que o guia até a localização."
+SpellDescription_11,"Cinco maçãs surgem em sua mão e são imbuídas de magia pela duração. Uma criatura pode usar sua ação para comer uma maçã. Comer uma maçã restaura 1 ponto de vida, e a maçã fornece nutrição suficiente para sustentar uma criatura normal por um dia."
+SpellDescription_12,Graxa escorregadia cobre o chão em um quadrado de 10 pés centrado em um ponto dentro do alcance e o transforma em terreno difícil de baixo atrito pela duração.
+SpellDescription_13,"Faça um ataque corpo a corpo de magia contra uma criatura ao seu alcance. Se acertar, o alvo sofre 3d10 de dano necrótico."
+SpellDescription_14,"Um campo cintilante surge e o envolve, protegendo você de dano. Pela duração, qualquer perda de pontos de vida é reduzida em 1."
+SpellDescription_15,"Você ganha a capacidade de compreender e se comunicar verbalmente com bestas pela duração da magia. O conhecimento e a percepção de muitas bestas são limitados pela inteligência delas, mas, no mínimo, as bestas podem lhe dar informações sobre locais e monstros próximos, incluindo o que quer que possam perceber ou tenham percebido no último dia."
+SpellDescription_16,"Como uma ação, você pronuncia uma prece que censura os mortos-vivos. Cada morto-vivo que puder ver ou ouvir você a até 30 pés será expulso por 1 minuto ou até sofrer qualquer dano, se for fraco o bastante para ser afetado.
+
+Um rabisco nas anotações da magia: <i>Esta magia perdeu poder ultimamente. As preces não parecem mais afetar os mortos-vivos desde o desvanecimento.</i>"
+SpellDescription_17,"Realizando um ritual de adivinhação, você recebe um presságio de uma entidade de outro mundo sobre os resultados de um curso de ação específico que pretende tomar. Se receber BEM, seu próximo teste de dados quase sempre será um sucesso. Se receber MAL, seu próximo teste de dados quase sempre será uma falha.
+
+Se você conjurar a magia duas ou mais vezes antes de concluir seu próximo descanso longo, há uma chance crescente de receber uma resposta de MAL. Os efeitos de BEM ou MAL também terminam num descanso longo."
+SpellDescription_18,"Pela duração, sua pele tem uma aparência áspera, como casca de árvore, e você tem resistência a todo dano (todo dano é reduzido à metade)."
+SpellDescription_19,"Pela duração da magia, você pode ler os pensamentos de certas criaturas a até 30 pés de você. Se uma criatura tiver Inteligência 3 ou menos ou não falar nenhum idioma, ela não é afetada.
+
+Inicialmente, você aprende os pensamentos superficiais da criatura. Se optar por sondar mais fundo e ela falhar em um teste de sabedoria, você obtém percepção sobre seu raciocínio, estado emocional e o que ocupa seus pensamentos. Se ela passar, a magia termina. O alvo sabe que você está sondando sua mente e pode tentar quebrar a magia com um teste de Inteligência contestado pelo seu teste de Inteligência.
+"
+SpellDescription_20,"Canalizando energia espiritual animalesca, você aprimora suas habilidades mentais e físicas. Até a magia acabar, você ganha proficiência em todos os atributos. Nos atributos em que já tem proficiência, você ganha especialização (bônus de proficiência dobrado)."
+SpellDescription_21,"Escolha um objeto que você possa ver dentro do alcance. O objeto pode ser uma porta, uma caixa, um baú, um par de algemas, um cadeado ou outro objeto que contenha um meio mundano ou mágico que impeça o acesso.
+
+Um alvo mantido fechado por uma fechadura mundana ou que esteja emperrado ou travado fica destrancado, desemperrado ou destravado. Se o objeto tiver várias fechaduras, apenas uma delas é destrancada.
+
+Quando você conjura a magia, uma batida alta, audível a até 300 pés de distância, emana do objeto alvo."
+SpellDescription_22,"Até seis criaturas à sua escolha que você possa ver dentro do alcance recuperam, cada uma, pontos de vida iguais a 2d8 + seu modificador de atributo de conjuração. Esta magia não tem efeito sobre mortos-vivos ou constructos."
+SpellDescription_23,"Você manifesta uma aura ao seu redor, concedendo proteção contra criaturas Celestiais, Elementais, Fadas, Ínferos ou Mortos-Vivos. A proteção concede vários benefícios. Criaturas desses tipos têm Desvantagem em jogadas de ataque contra você. Você também não pode ser possuído por elas nem receber as condições Enfeitiçado ou Amedrontado vindas delas. 
+
+Até a magia acabar, você também ganha vantagem contra essas criaturas."
+SpellDescription_24,"Você lança uma maldição sobre uma criatura que possa ver dentro do alcance. Até a magia acabar, toda rolagem contra essa criatura é aumentada pela sua proficiência.
+
+Se o alvo cair a 0 Pontos de Vida antes de esta magia acabar, você pode usar uma Ação Bônus em um turno posterior para amaldiçoar uma nova criatura. Como você é tão bom, isso será feito automaticamente.
+"
+SpellDescription_25,"Você cria uma zona mágica que protege contra o engano, em uma esfera de 15 pés de raio centrada em um ponto à sua escolha dentro do alcance. Até a magia acabar, uma criatura que entre na área da magia pela primeira vez em um turno ou comece seu turno ali deve fazer um teste de resistência de Carisma. Se falhar, a criatura não pode proferir uma mentira deliberada enquanto estiver no raio. Você sabe se cada criatura passa ou falha no teste de resistência.
+
+Uma criatura afetada tem consciência da magia e, portanto, pode evitar responder a perguntas que normalmente responderia com uma mentira. Tal criatura pode ser evasiva em suas respostas, desde que permaneça dentro dos limites da verdade."
+SpellDescription_26,"Poder sagrado irradia de você em uma aura de 30 pés de raio, despertando ousadia em você e em todas as outras criaturas amigas. Até a magia acabar, a aura se move com você, centrada em você. Durante um encontro, você e todos os aliados adicionam 1d12 a todos os testes de atributo."
+SpellDescription_27,"Energia curativa irradia de você em uma aura de 30 pés de raio. Até a magia acabar, a aura se move com você, centrada em você. Durante um encontro, a cada rodada você e todos os aliados na aura recuperam 2d6 pontos de vida. Fora de um encontro, você ganha 20d6 pontos de vida."
+SpellDescription_28,"Você toca uma criatura que morreu no último minuto. Essa criatura volta à vida com 1 ponto de vida. Esta magia não pode trazer de volta à vida uma criatura que morreu de velhice, nem restaurar partes do corpo perdidas.
+
+(Uma anotação na magia diz: 'EM CASO DE EMERGÊNCIA.')"
+SpellDescription_29,"Você concede a aparência de vida e inteligência a um cadáver à sua escolha dentro do alcance, permitindo que ele responda às perguntas que você fizer. O cadáver ainda deve ter uma boca e não pode ser morto-vivo. A magia falha se o cadáver já tiver sido alvo desta magia nos últimos 10 dias.
+
+Até a magia acabar, você pode fazer até cinco perguntas ao cadáver. O cadáver só sabe o que sabia em vida, incluindo os idiomas que conhecia. As respostas costumam ser breves, enigmáticas ou repetitivas, e o cadáver não é obrigado a dar uma resposta verdadeira se você for hostil a ele ou se ele o reconhecer como inimigo. Esta magia não devolve a alma da criatura ao corpo, apenas seu espírito animador. Assim, o cadáver não pode aprender informações novas, não compreende nada que tenha acontecido desde que morreu e não pode especular sobre eventos futuros."
+SpellDescription_30,"Você imbui plantas a até 30 pés de você com senciência e animação limitadas, dando-lhes a capacidade de se comunicar com você e seguir seus comandos simples. Você pode interrogar as plantas sobre eventos na área da magia no último dia, obtendo informações sobre criaturas que passaram, clima e outras circunstâncias.
+
+Se uma criatura planta estiver na área, você pode se comunicar com ela como se compartilhassem um idioma comum, mas não ganha nenhuma capacidade mágica de influenciá-la.
+"
+SpellDescription_31,"Seu punho é imbuído do poder da natureza. Faça um ataque corpo a corpo de magia contra uma criatura ao seu alcance. Se acertar, o alvo sofre 4d8 de dano contundente mais seu modificador de atributo de conjuração, e o dano conta como mágico."
+SpellDescription_32,"Você evoca uma fúria Primal e esotérica dentro da sua alma, concedendo-lhe força e resistência extraordinárias. Enquanto estiver sob o efeito dessa fúria, você tem resistência a todo dano e rola com vantagem em todos os testes de Força."
+SpellDescription_33,"Você saltita e zomba de uma criatura que possa ver dentro do alcance. Ela deve ser bem-sucedida em um teste de resistência de Carisma ou sofrerá 4d6 de dano psíquico e terá desvantagem na próxima jogada de ataque que fizer antes do fim de seu próximo turno. Em um sucesso, ela sofre metade do dano e não sofre desvantagem. Você não pode conjurar esta magia enquanto estiver caído, contido, agarrado ou com deslocamento 0."
+SpellInfo_0,
+SpellInfo_1,"Truque de evocação
+Tempo de Conjuração: 1 ação
+Categoria: Arcana
+Alcance: 120 pés
+Componentes: V, S, M (um pouco de fósforo, madeira-ild ou um fragmento de globo luminoso)
+Duração: Concentração, até 1 minuto"
+SpellInfo_2,"Truque de conjuração
+Tempo de Conjuração: 1 ação
+Categoria: Arcana
+Alcance: 30 pés
+Componentes: V, S
+Duração: 1 minuto"
+SpellInfo_3,"Truque de transmutação
+Tempo de Conjuração: 1 ação
+Categoria: Primal
+Alcance: 30 pés
+Componentes: V, S
+Duração: Instantânea"
+SpellInfo_4,"Truque de transmutação
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: 30 pés
+Componentes: V
+Duração: Até 1 minuto"
+SpellInfo_5,"Encantamento de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: 30 pés
+Componentes: V, S, M (uma aspersão de água de rio)
+Duração: Concentração, até 1 hora"
+SpellInfo_6,"Encantamento de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Arcana
+Alcance: 30 pés
+Componentes: V, S
+Duração: Situacional, até 10 minutos"
+SpellInfo_7,"Adivinhação de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Arcana
+Alcance: Pessoal
+Componentes: V, S, M (uma pitada de fuligem e sal)
+Duração: Situacional, até 10 minutos"
+SpellInfo_8,"Evocação de 1º nível
+Tempo de Conjuração: 1 ação bônus
+Categoria: Divina
+Alcance: Toque
+Componentes: V, S
+Duração: Instantânea"
+SpellInfo_9,"Adivinhação de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: Pessoal
+Componentes: V, S
+Duração: Instantânea"
+SpellInfo_10,"Adivinhação de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Arcana
+Alcance: 50 pés
+Componentes: V, S
+Duração: Situacional, instantânea"
+SpellInfo_11,"Transmutação de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Primal
+Alcance: Toque
+Componentes: V, S, M (um 'Âppelskrutt' tradicional)
+Duração: Instantânea
+"
+SpellInfo_12,"Conjuração de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Arcana
+Alcance: 60 pés
+Componentes: V, S, M (um pouco de couro de porco ou manteiga)
+Duração: Situacional, até 1 minuto"
+SpellInfo_13,"Necromancia de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: Toque
+Componentes: V, S
+Duração: Situacional, instantânea"
+SpellInfo_14,"Abjuração de 1º nível
+Tempo de Conjuração: 1 ação bônus
+Categoria: Divina
+Alcance: 60 pés
+Componentes: V, S, M (um pequeno pergaminho com um trecho de texto sagrado escrito)
+Duração: Concentração, até 1 hora"
+SpellInfo_15,"Adivinhação de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Primal
+Alcance: Pessoal
+Componentes: V, S
+Duração: Situacional, até 10 minutos"
+SpellInfo_16,"Necromancia de 1º nível
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: 30 pés
+Componentes: V
+Duração: Situacional, instantânea"
+SpellInfo_17,"Adivinhação de 2º nível
+Tempo de Conjuração: 1 minuto
+Categoria: Arcana
+Alcance: Pessoal
+Componentes: V, S, M (gravetos, ossos ou fichas similares especialmente marcados, no valor de pelo menos 25 po)
+Duração: Instantânea"
+SpellInfo_18,"Transmutação de 2º nível
+Tempo de Conjuração: 1 ação
+Categoria: Primal
+Alcance: Toque
+Componentes: V, S, M (um punhado de casca de carvalho)
+Duração: Concentração, até 4 horas"
+SpellInfo_19,"Adivinhação de 2º nível
+Tempo de Conjuração: 1 ação
+Categoria: Arcana
+Alcance: Pessoal
+Componentes: V, S, M (uma peça de cobre)
+Duração: Situacional, até 10 minutos"
+SpellInfo_20,"Transmutação de 2º nível
+Tempo de Conjuração: 1 ação
+Categoria: Primal
+Alcance: Toque
+Componentes: V, S, M (pelo ou pena de uma besta)
+Duração: Concentração, até 4 horas"
+SpellInfo_21,"Transmutação de 2º nível
+Tempo de Conjuração: 1 ação
+Categoria: Arcana
+Alcance: 60 pés
+Componentes: V
+Duração: Situacional"
+SpellInfo_22,"Evocação de 2º nível
+Tempo de Conjuração: 10 minutos
+Categoria: Divina
+Alcance: 30 pés
+Componentes: V
+Duração: Instantânea"
+SpellInfo_23,"Abjuração de 2º nível
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: Toque
+Componentes: V, S, M (um litro de água de rio, que deve ser virado de uma vez)
+Duração: Concentração, até 10 minutos."
+SpellInfo_24,"Encantamento de 2º nível
+Tempo de Conjuração: 1 ação bônus
+Categoria: Arcana
+Alcance:  90 pés
+Componentes: V, S, M (o olho calcificado de uma salamandra)
+Duração: Até 1 minuto."
+SpellInfo_25,"Encantamento de 2º nível
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: 60 pés
+Componentes: V, S
+Duração: Situacional, 10 minutos"
+SpellInfo_26,"Evocação de 3º nível
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: Pessoal (raio de 30 pés)
+Componentes: V
+Duração: Concentração, até 10 minutos"
+SpellInfo_27,"Evocação de 3º nível
+Tempo de Conjuração: 1 ação
+Categoria: Primal
+Alcance: Pessoal (raio de 30 pés)
+Componentes: V
+Duração: Concentração, até 10 minutos"
+SpellInfo_28,"Abjuração de 3º nível
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: Toque
+Componentes: V, S
+Duração: Instantânea"
+SpellInfo_29,"Necromancia de 3º nível
+Tempo de Conjuração: 1 ação
+Categoria: Divina
+Alcance: 10 pés
+Componentes: V, S, M (incenso queimando)
+Duração: Situacional, até 10 minutos"
+SpellInfo_30,"Transmutação de 3º nível
+Tempo de Conjuração: 1 ação
+Categoria: Primal
+Alcance: Pessoal (raio de 30 pés)
+Componentes: V, S
+Duração: Situacional, até 10 minutos"
+SpellInfo_31,"Transmutação de 2º nível
+Tempo de Conjuração: 1 ação
+Categoria: Primal
+Alcance: Toque
+Componentes: V, S, M (um ramo de visco enrolado na sua mão)"
+SpellInfo_32,"Evocação de 2º nível
+Tempo de Conjuração: 1 ação
+Categoria: Primal
+Alcance: 60 pés
+Componentes: V, S"
+SpellInfo_33,"Encantamento de 2º nível
+Tempo de Conjuração: 1 ação
+Categoria: Arcana
+Alcance: 15 pés
+Componentes: V, S (uma dança zombeteira)"
+SpellInfo_Loading_SpeakWithDead_Level,Necromancia de 3º nível
+SpellInfo_Loading_SpeakWithDead_CastingReq,"Tempo de Conjuração: 1 ação
+Alcance: 10 pés
+Componentes: V, S, M (incenso queimando)
+Duração: 10 minutos"
